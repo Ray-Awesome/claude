@@ -1,0 +1,733 @@
+{
+ "AI Incident Database": {
+  "03391766-a0ba-5795-bd83-4bba8827dd80": {
+   "date": "Wed, 07 Oct 2026 00:00:00 GMT",
+   "incident": "1731",
+   "link": "https://toronto.citynews.ca/2026/10/01/ai-agent-attempted-to-hack-library-and-archives-canada-says-u-s-research-group/",
+   "title": "AI agent attempted to hack Library and Archives Canada, says U.S. research group"
+  },
+  "05011da3-6e01-51d9-a12e-84311abcf44b": {
+   "date": "Wed, 16 Sep 2026 00:00:00 GMT",
+   "incident": "1691",
+   "link": "https://www.zh.ch/de/news-uebersicht/medienmitteilungen/2024/10/241002_medienmitteilung_osta_oerlikon.html",
+   "title": "Zürich-Oerlikon: Angriff auf Kinder eines Kinderhortes mit Verletzungsfolgen"
+  },
+  "05b301bd-a2d3-5cd4-b61b-c1f4dcd257c8": {
+   "date": "Tue, 06 Oct 2026 00:00:00 GMT",
+   "incident": "1728",
+   "link": "https://fingfx.thomsonreuters.com/gfx/legaldocs/gdpzgmajgvw/Arato%20declaration.pdf",
+   "title": "Declaration of Cynthia S. Arato"
+  },
+  "08aed3fa-3149-574f-b3ce-fefef80d4950": {
+   "date": "Wed, 23 Sep 2026 00:00:00 GMT",
+   "incident": "1703",
+   "link": "https://abc13.com/post/cypress-neighborhood-arrest-men-wrongfully-arrested-harris-county-sheriffs-office-investigation-deputies-wrong-suspects/13614720/",
+   "title": "'I'm going to shoot you': 2 men held at gunpoint before deputies realize their mistake, victims say"
+  },
+  "08fb4020-5ab0-5441-81f8-3f855f189abb": {
+   "date": "Thu, 01 Oct 2026 00:00:00 GMT",
+   "incident": "1721",
+   "link": "https://www.wpr.org/news/cooke-cease-and-desist-letter-van-orden-ai-deepfakes",
+   "title": "Cooke campaign sends cease-and-desist to Congressman Van Orden over AI deepfakes"
+  },
+  "0cbdd812-b2be-5bf1-af3f-2d970254be65": {
+   "date": "Sat, 19 Sep 2026 00:00:00 GMT",
+   "incident": "1702",
+   "link": "https://www.nytimes.com/2026/09/18/us/politics/russia-election-disinformation-us-intelligence.html",
+   "title": "Russia Aims to Inject Chaos Into Elections, U.S. Intelligence Finds"
+  },
+  "1101a111-6129-5ae3-8ce2-c715aff181a6": {
+   "date": "Wed, 23 Sep 2026 00:00:00 GMT",
+   "incident": "1706",
+   "link": "https://mkepdpio.org/wp-content/uploads/2026/07/Criminal-Complaint_1-Chapman-Tehrangi-N-2026CF003239-Chapman-Tehrangi-N_30216526_1.pdf",
+   "title": "Criminal Complaint: State of Wisconsin v. Tehrangi N. Chapman"
+  },
+  "1243f7fe-d52b-566b-ae17-83e586366d58": {
+   "date": "Mon, 05 Oct 2026 00:00:00 GMT",
+   "incident": "1725",
+   "link": "https://www.turkiyetoday.com/world/exclusivefake-ai-columnist-dupes-canadian-press-to-target-moroccan-dissidents-and-a-t-3229120",
+   "title": "Exclusive—Fake AI columnist dupes Canadian press to target Moroccan dissidents, and a Turkish 'middleman'"
+  },
+  "14fb525b-509f-5b14-a4e6-766c5a575c17": {
+   "date": "Sat, 03 Oct 2026 00:00:00 GMT",
+   "incident": "1723",
+   "link": "https://www.malwarebytes.com/blog/news/2026/07/claude-codes-hidden-tracker-was-an-experiment-says-anthropic",
+   "title": "Claude Code’s hidden tracker was an “experiment,” says Anthropic"
+  },
+  "1545de71-cf17-5ae3-8bc1-45ecb1ed4ced": {
+   "date": "Wed, 30 Sep 2026 00:00:00 GMT",
+   "incident": "1717",
+   "link": "https://www.13abc.com/2024/04/15/body-cam-tpd-officers-releasing-k-9-man-during-traffic-stop/",
+   "title": "Body cam of TPD officers releasing K-9 on man during traffic stop"
+  },
+  "168e278b-eef6-5feb-8ea0-b03e79739142": {
+   "date": "Tue, 06 Oct 2026 00:00:00 GMT",
+   "incident": "1727",
+   "link": "https://www.nebraska.gov/apps-courts-epub/public/viewAdvanced?docId=N00013498PUB",
+   "title": "Shannon v. Shannon, 322 Neb. 451 (2026)"
+  },
+  "1b42c6a7-b261-5fab-8172-01451303075b": {
+   "date": "Sun, 04 Oct 2026 00:00:00 GMT",
+   "incident": "1724",
+   "link": "https://kfor.com/news/local/oklahoma-judge-admitted-to-citing-fake-chatgpt-cases-in-court-order-investigators-say/",
+   "title": "Oklahoma judge admitted to citing fake ChatGPT cases in court order, investigators say"
+  },
+  "1c1170fb-416c-59ad-ab4c-efae0c55f2b0": {
+   "date": "Sat, 03 Oct 2026 00:00:00 GMT",
+   "incident": "1722",
+   "link": "https://www.hindustantimes.com/cities/noida-news/4-arrested-for-6-5-crore-extortion-racket-in-ghaziabad-101790963914282.html",
+   "title": "4 arrested for ₹6.5 crore extortion racket in Ghaziabad"
+  },
+  "1d4c070c-c8b2-5af5-bef2-a45d819bfba6": {
+   "date": "Wed, 07 Oct 2026 00:00:00 GMT",
+   "incident": "1733",
+   "link": "https://www.err.ee/1610063551/kohus-maaras-tehisaru-loodud-valevaidete-tottu-kaebajatele-trahvid",
+   "title": "Kohus määras tehisaru loodud valeväidete tõttu kaebajatele trahvid"
+  },
+  "20e4cefb-5883-551b-8af1-84665af9ae23": {
+   "date": "Wed, 30 Sep 2026 00:00:00 GMT",
+   "incident": "1717",
+   "link": "https://www.13abc.com/2024/05/31/tpd-investigation-finds-no-wrongdoing-use-k-9-man-during-traffic-stop/",
+   "title": "TPD investigation finds no wrongdoing in use of K-9 on man during traffic stop"
+  },
+  "253a237d-16f4-55ba-9fce-422ec54841cf": {
+   "date": "Thu, 24 Sep 2026 00:00:00 GMT",
+   "incident": "1708",
+   "link": "https://www.nytimes.com/2026/09/22/us/stanford-photo-swap-black-hispanic-student.html",
+   "title": "Stanford Used A.I. to Swap Black Student for Hispanic Student in a Photo"
+  },
+  "26e5d7f6-c966-5637-97bb-0fba76570d79": {
+   "date": "Thu, 24 Sep 2026 00:00:00 GMT",
+   "incident": "1708",
+   "link": "https://www.sfchronicle.com/bayarea/article/stanford-ai-policy-student-photo-race-swapping-22444142.php",
+   "title": "Stanford violated its AI policy by turning a Hispanic student into a fake Black woman in ad"
+  },
+  "287c9450-c95e-5b6d-8ecb-2da58d3f96c9": {
+   "date": "Sat, 03 Oct 2026 00:00:00 GMT",
+   "incident": "",
+   "link": "https://www.theatlantic.com/technology/2026/10/meet-the-ai-writing-hypocrites/688872/",
+   "title": "Don’t Write With AI, Say People Who Write With AI"
+  },
+  "29870d24-5737-5186-8a55-8baa47526395": {
+   "date": "Wed, 07 Oct 2026 00:00:00 GMT",
+   "incident": "1733",
+   "link": "https://news.err.ee/1610064103/estonian-court-fines-plaintiffs-over-false-ai-generated-claims",
+   "title": "Estonian court fines plaintiffs over false AI-generated claims"
+  },
+  "2e8bb95f-2b84-5336-b01f-f268b4605e62": {
+   "date": "Wed, 16 Sep 2026 00:00:00 GMT",
+   "incident": "1689",
+   "link": "https://abc13.com/post/fort-bend-county-sheriffs-office-lieutenant-admits-improper-use-flock-cameras-docs/19528986/",
+   "title": "Fort Bend County Sheriff's Office lieutenant admits to improper use of Flock cameras per docs"
+  },
+  "310ea5e8-626f-56ff-9f4e-2fd2f2fa9b10": {
+   "date": "Mon, 05 Oct 2026 00:00:00 GMT",
+   "incident": "1725",
+   "link": "https://www.theglobeandmail.com/world/article-ai-suspected-of-writing-dozens-of-articles-in-canadian-publications/",
+   "title": "AI fabrication suspected of writing dozens of articles in Canadian publications"
+  },
+  "31a130a9-0913-5954-98bf-e280b7caa38c": {
+   "date": "Sat, 19 Sep 2026 00:00:00 GMT",
+   "incident": "1697",
+   "link": "https://ocdistrictattorney.gov/press/former-orange-county-sheriffs-deputy-charged-with-possession-of-child-pornography-illegally-accessing-confidential-law-enforcement-database-to-look-up-romantic-rival-ex-girlfriend-and-vio-2/",
+   "title": "Former Costa Mesa Police Officer Pleads Guilty to Contacting His Mistress Thousands of Times Through Text, Phone Calls, and Social Media Messages, Including More than 100 Times in a Day, Illegally Accessing Confidential Law Enforcement Databases to Track Romantic Rivals, Ex-girlfriend, and Wife"
+  },
+  "33596265-d0a3-5dc6-b7b8-b3a4b67033ac": {
+   "date": "Wed, 16 Sep 2026 00:00:00 GMT",
+   "incident": "1690",
+   "link": "https://www.kansas.com/news/local/crime/article274003460.html",
+   "title": "‘You were spotted’: KS officer who used police cameras to stalk estranged wife sentenced"
+  },
+  "357c7547-637f-5541-bb90-3928859baf72": {
+   "date": "Tue, 29 Sep 2026 00:00:00 GMT",
+   "incident": "1604",
+   "link": "https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html",
+   "title": "OpenAI Ignored Employees Who Warned It Wasn’t Doing Enough About Security"
+  },
+  "422c419d-a1a9-5af7-9d43-6d977bff8496": {
+   "date": "Fri, 25 Sep 2026 00:00:00 GMT",
+   "incident": "1604",
+   "link": "https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html",
+   "title": "How OpenAI’s Rogue A.I. Agents Tried to Trick a Robot Detector"
+  },
+  "43b6c75b-179d-5058-abbb-24cdd36fe0d8": {
+   "date": "Thu, 24 Sep 2026 00:00:00 GMT",
+   "incident": "1707",
+   "link": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html",
+   "title": "OpenAI’s A.I. Tried to Breach 4 Other Targets, Without Prompting"
+  },
+  "44432056-ea75-5783-a486-8f5c3da4e888": {
+   "date": "Thu, 24 Sep 2026 00:00:00 GMT",
+   "incident": "1707",
+   "link": "https://www.pm.gov.au/media/press-conference-new-york",
+   "title": "Press conference - New York"
+  },
+  "48c9cfe7-989a-5a8f-ba89-57f0d1b09dcb": {
+   "date": "Fri, 18 Sep 2026 00:00:00 GMT",
+   "incident": "1695",
+   "link": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
+   "title": "Error by AI scribe during medical appointment leaves patient devastated"
+  },
+  "4d9e4f89-3f2b-50ee-bc95-0e5fb41a0283": {
+   "date": "Thu, 24 Sep 2026 00:00:00 GMT",
+   "incident": "1709",
+   "link": "https://www.nytimes.com/2026/09/23/nyregion/data-center-pollution-new-jersey.html",
+   "title": "Data Center Is Fined $1.1 Million for Operating 62 Power Generators"
+  },
+  "4ec8b2b1-f0bf-5ea4-9db3-480256420dd8": {
+   "date": "Wed, 30 Sep 2026 00:00:00 GMT",
+   "incident": "1718",
+   "link": "https://www.nytimes.com/2026/09/30/us/santa-ana-viper-snake-ai-fake.html",
+   "title": "Viper Image That Caused Alarm in California Was A.I.-Generated"
+  },
+  "5091f142-c437-5457-9de8-7dc19305c9e6": {
+   "date": "Sun, 04 Oct 2026 00:00:00 GMT",
+   "incident": "1724",
+   "link": "https://molawyersmedia.com/2026/09/09/oklahoma-judge-ai-false-case-citations-order/",
+   "title": "Oklahoma judge used AI on order that cited cases that don’t exist"
+  },
+  "53440b84-0d80-57c3-9c74-8be3b71c430c": {
+   "date": "Sat, 03 Oct 2026 00:00:00 GMT",
+   "incident": "1722",
+   "link": "https://timesofindia.indiatimes.com/city/noida/jamia-millia-student-among-4-held-for-using-ai-deepfakes-to-extort-money-from-nri/articleshow/134646156.cms",
+   "title": "Jamia Millia student among 4 held for using AI deepfakes to extort money from NRI"
+  },
+  "5564a07d-9758-5d4b-93ff-0a1173ce5d72": {
+   "date": "Wed, 07 Oct 2026 00:00:00 GMT",
+   "incident": "1731",
+   "link": "https://www.cyber.gc.ca/en/news-events/statement-regarding-reported-activity-targeting-government-canada-websites",
+   "title": "Statement regarding reported activity targeting Government of Canada websites"
+  },
+  "565e2d21-e8af-504f-8943-0fce96757277": {
+   "date": "Wed, 30 Sep 2026 00:00:00 GMT",
+   "incident": "1717",
+   "link": "https://www.13abc.com/2024/08/19/charges-dropped-against-man-toledo-police-released-k-9-during-traffic-stop-lawyer-says/",
+   "title": "Charges dropped against man Toledo Police released K-9 on during traffic stop, lawyer says"
+  },
+  "5743bbb5-d023-56d4-ba22-af64aed7688d": {
+   "date": "Tue, 06 Oct 2026 00:00:00 GMT",
+   "incident": "1728",
+   "link": "https://www.reuters.com/legal/litigation/judge-warns-ai-could-stunt-lawyers-training-harm-their-clients-2026-10-02/",
+   "title": "Judge warns AI could stunt lawyers' training and harm their clients"
+  },
+  "5ae85bbe-59ff-510a-9a70-10f8239baf83": {
+   "date": "Sun, 27 Sep 2026 00:00:00 GMT",
+   "incident": "1714",
+   "link": "https://www.reuters.com/legal/litigation/chinas-zai-disables-ai-coding-assistant-features-after-security-issue-2026-09-21/",
+   "title": "China's Z.ai disables AI coding assistant features after security issue"
+  },
+  "5d851629-f666-5c11-8f40-1491a6fcc8ab": {
+   "date": "Wed, 07 Oct 2026 00:00:00 GMT",
+   "incident": "1733",
+   "link": "https://arileht.delfi.ee/artikkel/120593306/valjamoedud-teadlased-ja-uuringud-kohus-maaras-tehisaru-luulude-eest-eesti-esimese-ai-trahvi",
+   "title": "Väljamõedud teadlased ja uuringud. Kohus määras tehisaru luulude eest Eesti esimese AI-trahvi"
+  },
+  "6330ccae-0166-55cb-a2f4-f7da44258eb1": {
+   "date": "Wed, 07 Oct 2026 00:00:00 GMT",
+   "incident": "1733",
+   "link": "https://rus.err.ee/1610063122/sud-oshtrafoval-10-chelovek-za-zhaloby-podgotovlennye-ii-i-soderzhavshie-lozhnye-svedenija",
+   "title": "Суд оштрафовал 10 человек за жалобы, подготовленные ИИ и содержавшие ложные сведения"
+  },
+  "64d1b930-6f53-5a1d-82a5-3709cca92aeb": {
+   "date": "Wed, 16 Sep 2026 00:00:00 GMT",
+   "incident": "1690",
+   "link": "https://www.kwch.com/2023/04/05/former-kechi-police-lieutenant-convicted-stalking-charges/",
+   "title": "Former Kechi police lieutenant convicted on stalking charges"
+  },
+  "6980b629-ed1a-54a3-9c35-50a61621625a": {
+   "date": "Wed, 07 Oct 2026 00:00:00 GMT",
+   "incident": "1733",
+   "link": "https://nra.lv/neatkariga/komentari/maris-krautmanis-3/524293-baltijas-aktualitates-igaunijas-budzets-mi-sodi-un-kaunas-moseja.htm",
+   "title": "Kauņā musulmaņi lūdz nenodarboties ar seksu pie mošejas. Igaunijas tiesa piespriež sodus par mākslīgā intelekta radītiem pieteikumiem"
+  },
+  "6e914008-930f-5ce0-9bba-34a75db63998": {
+   "date": "Wed, 30 Sep 2026 00:00:00 GMT",
+   "incident": "1719",
+   "link": "https://www.techradar.com/pro/security/i-broke-something-a-claude-code-ai-agent-deleted-48-000-files-in-just-over-100-seconds-then-apologized-for-doing-so",
+   "title": "I broke something': A Claude Code AI agent deleted 48,000 files in just over 100 seconds — then apologized for doing so"
+  },
+  "6f661629-93ac-5bae-8cf6-818eac1ae9de": {
+   "date": "Sat, 26 Sep 2026 00:00:00 GMT",
+   "incident": "1711",
+   "link": "https://timesofindia.indiatimes.com/city/bengaluru/cm-vijay-deepfake-whatsapp-call-promises-rs-11-lakh-aid-bengaluru-man-loses-rs-1-lakh/articleshow/134215533.cms",
+   "title": "‘CM Vijay’ WhatsApp call promises Rs 11 lakh aid, Bengaluru man loses Rs 1 lakh"
+  },
+  "70d0ba50-75fe-5ee8-9318-f8d736b0f7f4": {
+   "date": "Mon, 05 Oct 2026 00:00:00 GMT",
+   "incident": "1725",
+   "link": "https://policyoptions.irpp.org/2026/09/daniel-robson-article-withdrawn/",
+   "title": "Why we took down an article published under the name Daniel Robson"
+  },
+  "74b60653-6b5f-57f4-8245-c93b818c4dfb": {
+   "date": "Tue, 29 Sep 2026 00:00:00 GMT",
+   "incident": "",
+   "link": "https://www.hacktron.ai/blog/hacking-openai",
+   "title": "Hacking OpenAI"
+  },
+  "812ffa9c-2394-5b84-93ed-053f4dbfacc7": {
+   "date": "Sun, 04 Oct 2026 00:00:00 GMT",
+   "incident": "1724",
+   "link": "https://www.reuters.com/legal/litigation/oklahoma-judge-used-ai-in-ruling-that-contained-false-citations-prosecutor-says-2026-09-09/",
+   "title": "Oklahoma judge used AI in ruling that contained false citations, prosecutor says"
+  },
+  "82754709-0f6b-5347-8473-37cc6afd15fd": {
+   "date": "Sat, 03 Oct 2026 00:00:00 GMT",
+   "incident": "1722",
+   "link": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/ghaziabad/canada-based-nri-entrapped-fb-fake-id-blackmailed-police-busted-gang-four-arrested/articleshow/134641437.cms",
+   "title": "कनाडा निवासी NRI को फेक आईडी से फंसाया, 50 हजार डॉलर की मांग, गाजियाबाद पुलिस का सेक्सटॉर्शन गैंग पर बड़ा एक्शन"
+  },
+  "835190f3-ba4d-5021-804a-03c0ae4621a3": {
+   "date": "Wed, 16 Sep 2026 00:00:00 GMT",
+   "incident": "1690",
+   "link": "https://www.washingtonpost.com/technology/2026/08/02/how-police-officers-used-vast-network-cameras-spy-their-exes/",
+   "title": "How rogue officers turned a nationwide camera network into a tool for stalking"
+  },
+  "8378ee6c-811c-5209-9de1-20bbb474b36b": {
+   "date": "Fri, 25 Sep 2026 00:00:00 GMT",
+   "incident": "1604",
+   "link": "https://swarmtraces.org/",
+   "title": "Revealing the details of how OpenAI agents hacked Hugging Face"
+  },
+  "8445bf48-36f8-5266-90f1-d1bb6ff5d328": {
+   "date": "Fri, 18 Sep 2026 00:00:00 GMT",
+   "incident": "1696",
+   "link": "https://cbs12.com/news/local/vero-beach-man-arrested-in-ai-generated-sexual-image-investigation",
+   "title": "Vero Beach man arrested in explicit deepfake investigation; police fear more victims"
+  },
+  "8482bf71-d4bf-52ca-8495-e23cb4aee05d": {
+   "date": "Sat, 19 Sep 2026 00:00:00 GMT",
+   "incident": "1700",
+   "link": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2",
+   "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI"
+  },
+  "8729d9bd-a91d-5060-a790-552952955437": {
+   "date": "Wed, 16 Sep 2026 00:00:00 GMT",
+   "incident": "1689",
+   "link": "https://www.chron.com/texas/article/flock-houston-area-misuse-22367312.php",
+   "title": "Critics warned about Flock surveillance. Three Houston-area investigations are fueling those concerns."
+  },
+  "88160705-b519-5e2e-a184-ec3e731b2239": {
+   "date": "Tue, 29 Sep 2026 00:00:00 GMT",
+   "incident": "1715",
+   "link": "https://www.motherjones.com/politics/2026/09/how-a-russian-attack-on-the-midterms-deepfaked-mother-jones-matryoshka-putin-trump/",
+   "title": "How Russia Is Attacking the Midterms with a Mother Jones Deepfake"
+  },
+  "8bb79409-338d-5faf-afba-020f5dbe5029": {
+   "date": "Sat, 03 Oct 2026 00:00:00 GMT",
+   "incident": "",
+   "link": "https://labs.zenity.io/post/salesbleed-0-click-data-exfiltration-on-agentforce",
+   "title": "SalesBleed: Indirect Prompt Injection and 0-Click Data Exfiltration on Agentforce"
+  },
+  "8e0c7e09-3984-59b7-aa3a-520aa765b33c": {
+   "date": "Tue, 06 Oct 2026 00:00:00 GMT",
+   "incident": "1729",
+   "link": "https://www.reuters.com/legal/government/mcdonalds-hit-with-class-action-over-menu-prices-2026-10-05/",
+   "title": "McDonald's hit with class action alleging AI-powered menu price-fixing"
+  },
+  "905b3803-a08b-5bb7-9e52-3b117a65d23b": {
+   "date": "Sat, 26 Sep 2026 00:00:00 GMT",
+   "incident": "1710",
+   "link": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
+   "title": "OpenAI’s Systems Meddled With U.S. Government Sites After Going Rogue"
+  },
+  "91be2ef0-6131-57af-beff-26f321db2e63": {
+   "date": "Mon, 05 Oct 2026 00:00:00 GMT",
+   "incident": "1726",
+   "link": "https://www.theglobeandmail.com/culture/books/article-thelyson-orelien-canadian-author-removed-prix-goncourt-longlist-ai/",
+   "title": "Canadian novelist removed from Prix Goncourt longlist after AI allegations"
+  },
+  "94f91cef-31d8-5248-bc48-2483f71bfa9b": {
+   "date": "Wed, 23 Sep 2026 00:00:00 GMT",
+   "incident": "1705",
+   "link": "https://www.kansas.com/news/politics-government/article291059560.html",
+   "title": "Kansas police chief used Flock license plate cameras 164 times to track ex-girlfriend"
+  },
+  "9aa64383-b07f-56a1-a7d4-88fead687378": {
+   "date": "Thu, 01 Oct 2026 00:00:00 GMT",
+   "incident": "1720",
+   "link": "https://www.boston25news.com/news/local/stow-police-officer-accused-misusing-flock-system-track-former-partner/RJI4V5NGRNGPLK5SKNFKHSBSCY/",
+   "title": "Stow police officer accused of misusing Flock system to track former partner"
+  },
+  "9b675fca-a30b-5ec4-94c2-29285ba12995": {
+   "date": "Sun, 27 Sep 2026 00:00:00 GMT",
+   "incident": "1713",
+   "link": "https://www.heraldonline.com/news/local/crime/article316428323.html",
+   "title": "York man was held at gunpoint over incorrect Flock hit. Sheriff blames illegal tag cover"
+  },
+  "9d1c2f86-6db8-5a60-9ac1-3d7d8ccb4b4b": {
+   "date": "Tue, 06 Oct 2026 00:00:00 GMT",
+   "incident": "1727",
+   "link": "https://law.justia.com/cases/nebraska/supreme-court/2026/s-25-546.html",
+   "title": "Shannon v. Shannon, S-25-546 (Neb. 2026)"
+  },
+  "9e837c71-44bb-535b-99ac-193e8564a18f": {
+   "date": "Wed, 07 Oct 2026 00:00:00 GMT",
+   "incident": "1733",
+   "link": "https://www.15min.lt/verslas/naujiena/mokslas-it/estijoje-teismas-pirma-karta-skyre-baudas-uz-dirbtinio-intelekto-isgalvotas-nuorodas-1290-2713152",
+   "title": "Estijoje teismas pirmą kartą skyrė baudas už dirbtinio intelekto išgalvotas nuorodas"
+  },
+  "9f426c96-2088-5146-852b-bd64ee7d2806": {
+   "date": "Wed, 16 Sep 2026 00:00:00 GMT",
+   "incident": "1448",
+   "link": "https://www.justice.gov/usao-sdoh/pr/columbus-man-sentenced-15-years-prison-cyberstalking-exes-creating-ai-generated",
+   "title": "Columbus man sentenced to 15 years in prison for cyberstalking exes, creating AI-generated obscene material of adults & children"
+  },
+  "a027f11d-04f8-5592-8e75-7f55d5158753": {
+   "date": "Wed, 16 Sep 2026 00:00:00 GMT",
+   "incident": "1690",
+   "link": "https://www.sedgwickcounty.org/media/63863/heiar-sentenced-news-release.pdf",
+   "title": "A former police officer has been sentenced in Sedgwick County District Court"
+  },
+  "a1bb84ee-218a-5b1f-b326-dfbc10abfcda": {
+   "date": "Thu, 24 Sep 2026 00:00:00 GMT",
+   "incident": "1707",
+   "link": "https://www.abc.net.au/news/2026-09-24/ai-agent-accessed-australian-government-site-pm-says/107189078",
+   "title": "OpenAI hacked Medicare portal, Prime Minister Anthony Albanese says"
+  },
+  "a35b6124-0e8b-5b49-af26-66508effe1b6": {
+   "date": "Sat, 19 Sep 2026 00:00:00 GMT",
+   "incident": "1698",
+   "link": "https://www.santafenewmexican.com/news/local_news/sisters-sue-espa-ola-over-traffic-stop-they-say-was-illegal/article_1c949c30-ae3e-11ee-ad85-f71a8c9ecb1e.html/",
+   "title": "Sisters sue Española over traffic stop they say was illegal"
+  },
+  "a4760a7f-1917-5f0d-b523-f52df364ae7e": {
+   "date": "Wed, 30 Sep 2026 00:00:00 GMT",
+   "incident": "",
+   "link": "https://www.9news.com/article/news/community/transportation/waymo-drives-denver-farmers-market-no-law/73-a55cac7b-9c76-4003-896b-1dd5ad162dea",
+   "title": "There's no law to ticket the Waymo that drove through a Denver farmers market"
+  },
+  "a537a401-5680-5c0c-a960-7186775d09d7": {
+   "date": "Thu, 24 Sep 2026 00:00:00 GMT",
+   "incident": "1708",
+   "link": "https://stanforddaily.com/2026/09/23/university-confirms-ai-edited-photo/",
+   "title": "University confirms use of AI-edited photo amid controversy"
+  },
+  "a5d84051-4235-55e4-a745-9c7984e7e077": {
+   "date": "Wed, 16 Sep 2026 00:00:00 GMT",
+   "incident": "1692",
+   "link": "https://www.fox5atlanta.com/news/parkview-high-receives-4th-ai-generated-bomb-threat-year",
+   "title": "Parkview High receives 4th AI-generated bomb threat this year"
+  },
+  "a78d2676-59bf-5029-a46d-c3cdc80597bd": {
+   "date": "Tue, 06 Oct 2026 00:00:00 GMT",
+   "incident": "1730",
+   "link": "https://www.kron4.com/news/technology-ai/chatgpt-user-suffered-delusions-lost-nearly-all-human-relationships-lawsuit/",
+   "title": "ChatGPT user suffered delusions, lost nearly all human relationships: lawsuit"
+  },
+  "ae77425c-e723-532b-9cb2-8a5c27e8eb41": {
+   "date": "Sat, 19 Sep 2026 00:00:00 GMT",
+   "incident": "1699",
+   "link": "https://www.washingtonpost.com/business/2026/09/19/images-trump-kissing-natalie-harp-went-viral-theyre-ai-generated-fakes/",
+   "title": "Images of Trump kissing Natalie Harp went viral. They’re AI-generated fakes."
+  },
+  "b0bd025e-0832-5972-b9c7-902ad51f4ae7": {
+   "date": "Mon, 05 Oct 2026 00:00:00 GMT",
+   "incident": "1725",
+   "link": "https://thehub.ca/2026/09/30/a-statement-on-articles-by-daniel-robson/",
+   "title": "A statement on articles by ‘Daniel Robson’"
+  },
+  "b18b759e-4cf4-5286-a4c6-d775ac48a232": {
+   "date": "Sat, 03 Oct 2026 00:00:00 GMT",
+   "incident": "1723",
+   "link": "https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366",
+   "title": "Anthropic is removing its covert code for catching Chinese competitors"
+  },
+  "b2ab7550-bc01-5c2d-8dc5-856a351c70f1": {
+   "date": "Sat, 19 Sep 2026 00:00:00 GMT",
+   "incident": "1701",
+   "link": "https://edition.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+   "title": "Exclusive: US military had close call after using AI for false intelligence report, sources say"
+  },
+  "b38c3f28-c4b2-56fc-8f41-067144b1ff7f": {
+   "date": "Wed, 23 Sep 2026 00:00:00 GMT",
+   "incident": "1706",
+   "link": "https://www.wpr.org/news/member-milwaukee-police-department-misuse-of-license-plate-reader-system",
+   "title": "Second member of the Milwaukee Police Department charged with misuse of license plate reader system"
+  },
+  "b446d39a-02d3-5658-9042-f4c51466d6e4": {
+   "date": "Thu, 24 Sep 2026 00:00:00 GMT",
+   "incident": "1708",
+   "link": "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/",
+   "title": "Stanford R&DE Uses AI to Race Swap Students for Advertising"
+  },
+  "b9cea310-fbe0-53d7-9472-469acc8181b5": {
+   "date": "Sat, 03 Oct 2026 00:00:00 GMT",
+   "incident": "1723",
+   "link": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+   "title": "Claude Code Is Steganographically Marking Requests"
+  },
+  "be1d4995-0740-502d-85e7-9b9a564f9cad": {
+   "date": "Mon, 05 Oct 2026 00:00:00 GMT",
+   "incident": "1725",
+   "link": "https://ottawa.citynews.ca/2026/10/03/byline-or-bot-ai-generated-journalists-start-to-appear-in-canada/",
+   "title": "Byline or bot? AI-generated ‘journalists’ start to appear in Canada"
+  },
+  "c0f3b0fe-268b-5abf-9eed-dc7af3ab45c4": {
+   "date": "Wed, 07 Oct 2026 00:00:00 GMT",
+   "incident": "1733",
+   "link": "https://www.riigikohus.ee/et/uudised/kohus-trahvis-kaebajaid-tehisaru-hooletu-kasutamise-eest",
+   "title": "Kohus trahvis kaebajaid tehisaru hooletu kasutamise eest"
+  },
+  "c2d53ffa-f063-5594-b135-6d14c7e489c9": {
+   "date": "Sat, 19 Sep 2026 00:00:00 GMT",
+   "incident": "1416",
+   "link": "https://www.theguardian.com/us-news/2026/sep/18/tennessee-woman-falsely-charged-bank-theft-lawsuit",
+   "title": "US woman falsely charged with bank theft sues for $10m over AI facial recognition"
+  },
+  "c5c9030d-6e3b-59c0-9e05-039201afefd0": {
+   "date": "Thu, 24 Sep 2026 00:00:00 GMT",
+   "incident": "1707",
+   "link": "https://transluce.org/agent-activity",
+   "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net"
+  },
+  "c69faf42-cdf1-5082-ba16-b4269a4922b2": {
+   "date": "Wed, 16 Sep 2026 00:00:00 GMT",
+   "incident": "1691",
+   "link": "https://www.blick.ch/schweiz/zuerich/drei-kindergaertler-in-zuerich-oerlikon-mit-messer-attackiert-und-schwer-verletzt-chinese-hatte-tat-zusammen-mit-chatgpt-geplant-id22244459.html",
+   "title": "Chinese hatte Tat zusammen mit ChatGPT geplant!"
+  },
+  "ca040d91-80ac-5e9f-9ae7-f0254d293ecf": {
+   "date": "Fri, 25 Sep 2026 15:14:50 GMT",
+   "incident": "",
+   "link": "",
+   "title": "No title"
+  },
+  "cb101a58-29a7-5a62-be4a-df1f2fe96e05": {
+   "date": "Wed, 30 Sep 2026 00:00:00 GMT",
+   "incident": "1716",
+   "link": "https://www.walb.com/2026/05/08/former-coffee-co-deputy-accused-tracking-woman-through-law-enforcement-systems/",
+   "title": "Alleged victim speaks out after former Coffee Co. deputy accused of tracking her is released on bond"
+  },
+  "cb5c4e9c-e019-580c-a955-2fc70f9b2d44": {
+   "date": "Wed, 07 Oct 2026 00:00:00 GMT",
+   "incident": "1732",
+   "link": "https://www.premiumtimesng.com/news/headlines/897605-special-report-inside-ai-scam-ads-exploiting-tiktoks-advertising-system-to-defraud-nigerians.html",
+   "title": "SPECIAL REPORT: Inside AI scam ads exploiting TikTok’s advertising system to defraud Nigerians"
+  },
+  "d08074bc-161c-58ee-b084-9fdaf0fd504a": {
+   "date": "Mon, 21 Sep 2026 12:22:47 GMT",
+   "incident": "",
+   "link": "",
+   "title": "No title"
+  },
+  "d12e7ce6-d4e7-5d4e-bbb5-1397df3aabd1": {
+   "date": "Wed, 30 Sep 2026 00:00:00 GMT",
+   "incident": "1717",
+   "link": "https://www.businessinsider.com/flock-safety-alpr-cameras-misreads-2026-3",
+   "title": "'Flock Flocked up'"
+  },
+  "e623bb2d-aff8-5a30-84c3-89ff2b6228a2": {
+   "date": "Wed, 07 Oct 2026 00:00:00 GMT",
+   "incident": "1731",
+   "link": "https://www.washingtonpost.com/technology/2026/09/30/openais-ai-agents-attempted-hack-canadian-government-website/",
+   "title": "AI agents tried to hack a Canadian government website, researchers say"
+  },
+  "eaa1f629-a9d0-5b3e-b54d-89a8b83b95f8": {
+   "date": "Thu, 17 Sep 2026 00:00:00 GMT",
+   "incident": "1694",
+   "link": "https://cases.justia.com/federal/district-courts/ohio/ohndce/5%3A2023cv02198/301907/38/0.pdf?ts=1713283874",
+   "title": "Smith v. Flock Safety, Memorandum of Opinion and Order"
+  },
+  "ec7893f2-fa5d-520e-bb40-c6cedb4fb8e1": {
+   "date": "Wed, 16 Sep 2026 00:00:00 GMT",
+   "incident": "1691",
+   "link": "https://www.20min.ch/story/messerangriff-zuerich-oerlikon-taeter-uebte-stiche-an-rohem-rindfleisch-103632247",
+   "title": "Messerangriff auf Kinder: Täter «kaufte Rindfleisch, um zu üben»"
+  },
+  "f374bfcb-1dfc-5e60-a678-38c9c4ebc401": {
+   "date": "Wed, 16 Sep 2026 00:00:00 GMT",
+   "incident": "1691",
+   "link": "https://www.watson.ch/fr/suisse/justice/158071647-il-a-utilise-chatgpt-pour-poignarder-des-enfants-en-suisse",
+   "title": "L'homme qui a attaqué une garderie suisse a trouvé ses victimes sur ChatGPT"
+  },
+  "f699578a-e7be-50fa-8428-9be5a5a2a939": {
+   "date": "Tue, 06 Oct 2026 00:00:00 GMT",
+   "incident": "1729",
+   "link": "https://fingfx.thomsonreuters.com/gfx/legaldocs/akpelezwzvr/Thomas%20v%20McDonald%27s.pdf",
+   "title": "Class Action Complaint"
+  },
+  "f795bf6c-1ce6-5108-badc-f0bd74b7a7d4": {
+   "date": "Sat, 03 Oct 2026 00:00:00 GMT",
+   "incident": "1723",
+   "link": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+   "title": "Alibaba to ban employees from using Anthropic's coding tool, source says"
+  },
+  "f98bdb4d-7c8b-581f-ac21-14725e144fc3": {
+   "date": "Wed, 23 Sep 2026 00:00:00 GMT",
+   "incident": "1704",
+   "link": "https://www.kake.com/news/kake-news-investigates-duplicate-license-plate-numbers-lead-to-dangerous-situations-for-some-kansas-drivers/article_1e517042-6b10-53ad-8cea-7f4abfc430ed.html",
+   "title": "KAKE NEWS INVESTIGATES: Duplicate license plate numbers lead to dangerous situations for some Kansas drivers"
+  },
+  "faca338f-8ad2-5b4c-8b68-495ccb80e0d9": {
+   "date": "Sat, 26 Sep 2026 00:00:00 GMT",
+   "incident": "1712",
+   "link": "https://www.bbc.com/news/articles/cx2zkp8vx9jo",
+   "title": "Victim loses £250k after scammers use AI video of 'well-known' celebrity"
+  },
+  "fbf85a0c-913d-5e10-ba2a-39bd7aa40278": {
+   "date": "Wed, 07 Oct 2026 00:00:00 GMT",
+   "incident": "1731",
+   "link": "https://transluce.org/us-canada-gov",
+   "title": "AI Agents Targeted U.S. and Canadian Government Websites"
+  },
+  "fc2e9e2d-1602-50f1-8579-f62311e6f753": {
+   "date": "Wed, 30 Sep 2026 00:00:00 GMT",
+   "incident": "1717",
+   "link": "https://abcnews.com/US/man-speaks-after-police-release-9-traffic-stop/story?id=109463145",
+   "title": "Man speaks out after police release K-9 on him during traffic stop: 'Traumatized'"
+  },
+  "fcb257b4-cbdc-5151-abe2-a1990bfda39a": {
+   "date": "Tue, 06 Oct 2026 00:00:00 GMT",
+   "incident": "1729",
+   "link": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/how-mcdonalds-sets-prices.html",
+   "title": "Separating Fact from Fiction: AI Does Not Set Prices at McDonald’s"
+  },
+  "fd6ce735-eaf3-5a95-9374-851972eac106": {
+   "date": "Tue, 06 Oct 2026 00:00:00 GMT",
+   "incident": "1728",
+   "link": "https://www.reuters.com/business/inside-mcdonalds-push-have-ai-price-your-big-mac-2026-09-29/",
+   "title": "Inside McDonald’s push to have AI price your Big Mac"
+  },
+  "fd856883-6ab8-59ba-96c2-6240e17e889e": {
+   "date": "Wed, 16 Sep 2026 00:00:00 GMT",
+   "incident": "1690",
+   "link": "https://www.kwch.com/2022/10/31/kechi-police-lieutenant-arrested-using-police-technology-stalk-wife/",
+   "title": "Kechi police lieutenant arrested for using police technology to stalk wife"
+  },
+  "ff226e1e-cdd9-5e78-bdc5-c3c983eb7348": {
+   "date": "Wed, 16 Sep 2026 00:00:00 GMT",
+   "incident": "1690",
+   "link": "https://www.kansas.com/news/politics-government/article268186392.html",
+   "title": "Wichita moves to tighten access, increase oversight on secretive police surveillance program"
+  }
+ },
+ "Epoch AI data": {
+  "https://epoch.ai/benchmarks": {
+   "title": "Capabilities & benchmarking",
+   "updated": "Oct. 9, 2026"
+  },
+  "https://epoch.ai/data/ai-chip-components": {
+   "title": "AI chip components",
+   "updated": "Jul. 23, 2026"
+  },
+  "https://epoch.ai/data/ai-chip-owners": {
+   "title": "AI chip owners",
+   "updated": "May 12, 2026"
+  },
+  "https://epoch.ai/data/ai-chip-sales": {
+   "title": "AI chip sales",
+   "updated": "Oct. 8, 2026"
+  },
+  "https://epoch.ai/data/ai-chip-users": {
+   "title": "AI chip users",
+   "updated": "Sep. 9, 2026"
+  },
+  "https://epoch.ai/data/ai-companies": {
+   "title": "AI companies",
+   "updated": "Oct. 8, 2026"
+  },
+  "https://epoch.ai/data/ai-data-centers": {
+   "title": "AI data centers",
+   "updated": "Oct. 8, 2026"
+  },
+  "https://epoch.ai/data/ai-models": {
+   "title": "AI models",
+   "updated": "Oct. 8, 2026"
+  },
+  "https://epoch.ai/data/arxiv": {
+   "title": "AI use in math research",
+   "updated": "Oct. 6, 2026"
+  },
+  "https://epoch.ai/data/chatgpt-usage": {
+   "title": "ChatGPT usage",
+   "updated": "Oct. 1, 2026"
+  },
+  "https://epoch.ai/data/cve": {
+   "title": "Cyber vulnerabilities",
+   "updated": "Oct. 9, 2026"
+  },
+  "https://epoch.ai/data/frontier-lab-hiring": {
+   "title": "Frontier Lab Hiring",
+   "updated": "Oct. 9, 2026"
+  },
+  "https://epoch.ai/data/gpu-clusters": {
+   "title": "GPU clusters",
+   "updated": "Mar. 13, 2026"
+  },
+  "https://epoch.ai/data/machine-learning-hardware": {
+   "title": "Machine learning hardware",
+   "updated": "Oct. 1, 2026"
+  },
+  "https://epoch.ai/data/polling": {
+   "title": "Polling on AI usage",
+   "updated": "Aug. 14, 2026"
+  }
+ },
+ "OECD.AI Wonk": {
+  "https://oecd.ai/en/wonk/a-five-step-roadmap-to-closing-the-ai-evaluation-gap": {
+   "title": "a five step roadmap to closing the ai evaluation gap"
+  },
+  "https://oecd.ai/en/wonk/ai-inclusive-and-resilient-agri-food-systems": {
+   "title": "ai inclusive and resilient agri food systems"
+  },
+  "https://oecd.ai/en/wonk/bridging-frameworks-how-haip-2-0-supports-interoperability-with-the-eu-ai-act": {
+   "title": "bridging frameworks how haip 2 0 supports interoperability with the eu ai act"
+  },
+  "https://oecd.ai/en/wonk/can-the-finance-sector-oversee-ai-innovation-while-maintaining-its-rapid-progress": {
+   "title": "can the finance sector oversee ai innovation while maintaining its rapid progress"
+  },
+  "https://oecd.ai/en/wonk/establishing-the-shared-foundations-for-collective-ai-security": {
+   "title": "establishing the shared foundations for collective ai security"
+  },
+  "https://oecd.ai/en/wonk/governing-with-agentic-ai-when-machines-act-on-governments-behalf": {
+   "title": "governing with agentic ai when machines act on governments behalf"
+  },
+  "https://oecd.ai/en/wonk/haip-transforming-transparency-from-ai-compliance-burden-to-competitive-advantage": {
+   "title": "haip transforming transparency from ai compliance burden to competitive advantage"
+  },
+  "https://oecd.ai/en/wonk/how-people-are-using-genai-chatbots-evidence-from-web-traffic-data": {
+   "title": "how people are using genai chatbots evidence from web traffic data"
+  },
+  "https://oecd.ai/en/wonk/how-quantum-technologies-could-open-new-frontiers-for-ai": {
+   "title": "how quantum technologies could open new frontiers for ai"
+  },
+  "https://oecd.ai/en/wonk/putting-agentic-ai-systems-to-work-what-practitioners-reveal-about-deployment-and-governance": {
+   "title": "putting agentic ai systems to work what practitioners reveal about deployment and governance"
+  },
+  "https://oecd.ai/en/wonk/the-european-union-is-deploying-ai-across-strategic-sectors": {
+   "title": "the european union is deploying ai across strategic sectors"
+  },
+  "https://oecd.ai/en/wonk/the-oecd-ai-policy-toolkit-better-ai-policies-for-better-lives": {
+   "title": "the oecd ai policy toolkit better ai policies for better lives"
+  }
+ },
+ "Stanford AI Index": {
+  "https://hai.stanford.edu/ai-index/2017-ai-index-report": {
+   "title": "2017 AI Index Report"
+  },
+  "https://hai.stanford.edu/ai-index/2018-ai-index-report": {
+   "title": "2018 AI Index Report"
+  },
+  "https://hai.stanford.edu/ai-index/2019-ai-index-report": {
+   "title": "2019 AI Index Report"
+  },
+  "https://hai.stanford.edu/ai-index/2021-ai-index-report": {
+   "title": "2021 AI Index Report"
+  },
+  "https://hai.stanford.edu/ai-index/2022-ai-index-report": {
+   "title": "2022 AI Index Report"
+  },
+  "https://hai.stanford.edu/ai-index/2023-ai-index-report": {
+   "title": "2023 AI Index Report"
+  },
+  "https://hai.stanford.edu/ai-index/2024-ai-index-report": {
+   "title": "2024 AI Index Report"
+  },
+  "https://hai.stanford.edu/ai-index/2025-ai-index-report": {
+   "title": "2025 AI Index Report"
+  },
+  "https://hai.stanford.edu/ai-index/2026-ai-index-report": {
+   "title": "2026 AI Index Report"
+  }
+ }
+}
