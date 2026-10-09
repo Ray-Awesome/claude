@@ -15,7 +15,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "node \"$CLAUDE_PROJECT_DIR/.claude/ponytail-hooks/ponytail-activate.js\"",
+            "command": "PONYTAIL_DEFAULT_MODE=off node \"$CLAUDE_PROJECT_DIR/.claude/ponytail-hooks/ponytail-activate.js\"",
             "timeout": 5
           }
         ]
