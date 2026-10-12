@@ -18,11 +18,11 @@
    "link": "https://fingfx.thomsonreuters.com/gfx/legaldocs/gdpzgmajgvw/Arato%20declaration.pdf",
    "title": "Declaration of Cynthia S. Arato"
   },
-  "08aed3fa-3149-574f-b3ce-fefef80d4950": {
-   "date": "Wed, 23 Sep 2026 00:00:00 GMT",
-   "incident": "1703",
-   "link": "https://abc13.com/post/cypress-neighborhood-arrest-men-wrongfully-arrested-harris-county-sheriffs-office-investigation-deputies-wrong-suspects/13614720/",
-   "title": "'I'm going to shoot you': 2 men held at gunpoint before deputies realize their mistake, victims say"
+  "08c86aa4-73ad-5124-9a61-ef0706624403": {
+   "date": "Sat, 10 Oct 2026 00:00:00 GMT",
+   "incident": "1745",
+   "link": "https://www.wsbtv.com/news/local/atlanta/ai-bomb-threats-shut-down-georgia-school-district-fbi-investigating/4PGKPTQJDFBT3LKTXIQILBOI5M/",
+   "title": "AI bomb threats shut down Georgia school district, FBI investigating"
   },
   "08fb4020-5ab0-5441-81f8-3f855f189abb": {
    "date": "Thu, 01 Oct 2026 00:00:00 GMT",
@@ -36,6 +36,12 @@
    "link": "https://www.theguardian.com/world/2026/oct/08/teen-hike-claude-ai-directions-rescue-canada-mountain",
    "title": "A teen tried to navigate Canadian mountains with Claude. His trek ended in an emergency rescue"
   },
+  "09efa56a-e640-5b61-9d52-a3a664917c7b": {
+   "date": "Sat, 10 Oct 2026 00:00:00 GMT",
+   "incident": "1743",
+   "link": "https://www.thehindubusinessline.com/news/delhi-red-fort-blast-nia-chargesheet-reveals-abuse-of-ai-platform-for-terror-engineering/article71017246.ece",
+   "title": "Delhi Red Fort blast: NIA chargesheet reveals abuse of AI platform for ‘terror engineering’"
+  },
   "0a6833d2-7a27-5a7a-baa2-65a3f4f404f0": {
    "date": "Thu, 08 Oct 2026 00:00:00 GMT",
    "incident": "1734",
@@ -47,6 +53,12 @@
    "incident": "1725",
    "link": "https://www.turkiyetoday.com/world/exclusivefake-ai-columnist-dupes-canadian-press-to-target-moroccan-dissidents-and-a-t-3229120",
    "title": "Exclusive—Fake AI columnist dupes Canadian press to target Moroccan dissidents, and a Turkish 'middleman'"
+  },
+  "149025f8-9b17-513c-b611-ed1b761ad117": {
+   "date": "Sat, 10 Oct 2026 00:00:00 GMT",
+   "incident": "1743",
+   "link": "https://www.theweek.in/news/india/2026/05/22/red-fort-blast-nia-chargesheet-jasir-bilal-wani-youtube-chatgpt.html",
+   "title": "Were ChatGPT, YouTube used for Delhi Red Fort blast? Report reveals shocking details"
   },
   "14fb525b-509f-5b14-a4e6-766c5a575c17": {
    "date": "Sat, 03 Oct 2026 00:00:00 GMT",
@@ -96,11 +108,23 @@
    "link": "https://www.hindustantimes.com/cities/noida-news/4-arrested-for-6-5-crore-extortion-racket-in-ghaziabad-101790963914282.html",
    "title": "4 arrested for ₹6.5 crore extortion racket in Ghaziabad"
   },
+  "1d033a45-699b-5906-b6c0-6e849d0e6711": {
+   "date": "Sat, 10 Oct 2026 00:00:00 GMT",
+   "incident": "1745",
+   "link": "https://nowgeorgia.com/officials-suspect-international-source-behind-ai-generated-school-bomb-threats/",
+   "title": "Officials suspect international source behind AI-generated school bomb threats"
+  },
   "1d4c070c-c8b2-5af5-bef2-a45d819bfba6": {
    "date": "Wed, 07 Oct 2026 00:00:00 GMT",
    "incident": "1733",
    "link": "https://www.err.ee/1610063551/kohus-maaras-tehisaru-loodud-valevaidete-tottu-kaebajatele-trahvid",
    "title": "Kohus määras tehisaru loodud valeväidete tõttu kaebajatele trahvid"
+  },
+  "1d56aa10-4bb3-54e3-a6a4-74de582a21b7": {
+   "date": "Sat, 10 Oct 2026 00:00:00 GMT",
+   "incident": "1743",
+   "link": "https://indianexpress.com/article/cities/delhi/red-fort-blast-nia-chargesheet-chatgpt-flipkart-10870612/",
+   "title": "Red Fort blast accused used AI to learn how to build IED, says NIA chargesheet"
   },
   "1dc252ef-57bf-513a-bfc6-2fc53bff0cb3": {
    "date": "Fri, 09 Oct 2026 00:00:00 GMT",
@@ -114,23 +138,17 @@
    "link": "https://www.13abc.com/2024/05/31/tpd-investigation-finds-no-wrongdoing-use-k-9-man-during-traffic-stop/",
    "title": "TPD investigation finds no wrongdoing in use of K-9 on man during traffic stop"
   },
-  "253a237d-16f4-55ba-9fce-422ec54841cf": {
-   "date": "Thu, 24 Sep 2026 00:00:00 GMT",
-   "incident": "1708",
-   "link": "https://www.nytimes.com/2026/09/22/us/stanford-photo-swap-black-hispanic-student.html",
-   "title": "Stanford Used A.I. to Swap Black Student for Hispanic Student in a Photo"
-  },
-  "26e5d7f6-c966-5637-97bb-0fba76570d79": {
-   "date": "Thu, 24 Sep 2026 00:00:00 GMT",
-   "incident": "1708",
-   "link": "https://www.sfchronicle.com/bayarea/article/stanford-ai-policy-student-photo-race-swapping-22444142.php",
-   "title": "Stanford violated its AI policy by turning a Hispanic student into a fake Black woman in ad"
-  },
   "287c9450-c95e-5b6d-8ecb-2da58d3f96c9": {
    "date": "Sat, 03 Oct 2026 00:00:00 GMT",
    "incident": "",
    "link": "https://www.theatlantic.com/technology/2026/10/meet-the-ai-writing-hypocrites/688872/",
    "title": "Don’t Write With AI, Say People Who Write With AI"
+  },
+  "28bd7a2d-ddb4-52f7-ab71-303c1d13fe25": {
+   "date": "Sat, 10 Oct 2026 00:00:00 GMT",
+   "incident": "",
+   "link": "https://www.abc.net.au/news/2026-07-09/qld-teen-terror-extremism-murder-plan/106896932",
+   "title": "Maryborough teenager allegedly told police he had planned mass murder for months"
   },
   "29870d24-5737-5186-8a55-8baa47526395": {
    "date": "Wed, 07 Oct 2026 00:00:00 GMT",
@@ -144,11 +162,23 @@
    "link": "https://www.channelnewsasia.com/singapore/internal-security-act-far-right-extremist-teens-detained-mosque-attack-islamic-state-5039301",
    "title": "Singaporean Islamic State supporter the first female youth caught under ISA; another teen detained for far-right extremism"
   },
+  "30766d41-e508-50a0-b9fc-34380837e2e3": {
+   "date": "Sat, 10 Oct 2026 00:00:00 GMT",
+   "incident": "",
+   "link": "https://www.bbc.com/portuguese/articles/c8dn1l7vr6ro",
+   "title": "Ele contou ao ChatGPT que queria matar o filho e foi preso — conversas com IA podem ser prova de crime no Brasil?"
+  },
   "310ea5e8-626f-56ff-9f4e-2fd2f2fa9b10": {
    "date": "Mon, 05 Oct 2026 00:00:00 GMT",
    "incident": "1725",
    "link": "https://www.theglobeandmail.com/world/article-ai-suspected-of-writing-dozens-of-articles-in-canadian-publications/",
    "title": "AI fabrication suspected of writing dozens of articles in Canadian publications"
+  },
+  "3257425d-f0ac-57a3-999e-01dbd579b69e": {
+   "date": "Sat, 10 Oct 2026 00:00:00 GMT",
+   "incident": "1746",
+   "link": "https://fox40.com/news/local-news/yuba-county/wheatland-union-high-school-continued-threats/",
+   "title": "Wheatland Union High School continues to receive bomb threats, class in session"
   },
   "344ce4c2-b53c-548b-8000-3e76d4a6d057": {
    "date": "Fri, 09 Oct 2026 00:00:00 GMT",
@@ -156,11 +186,11 @@
    "link": "https://web.guardiacivil.es/pdflink/es/1c95f19d-4377-11eb-8d7d-6d0b3e4c7555/La-Guardia-Civil-y-la-DGST-de-Marruecos-desarticulan-una-estructura-terrorista-en-varias-localidades-en-Espana.pdf",
    "title": "La Guardia Civil y la DGST de Marruecos desarticulan una estructura terrorista en varias localidades en España"
   },
-  "357c7547-637f-5541-bb90-3928859baf72": {
-   "date": "Tue, 29 Sep 2026 00:00:00 GMT",
-   "incident": "1604",
-   "link": "https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html",
-   "title": "OpenAI Ignored Employees Who Warned It Wasn’t Doing Enough About Security"
+  "35377ce7-ad54-5aad-994c-6a7a8ab2146f": {
+   "date": "Sat, 10 Oct 2026 00:00:00 GMT",
+   "incident": "1746",
+   "link": "https://www.kcra.com/article/wheatland-high-school-ai-generated-bomb-threat/73464241",
+   "title": "AI-generated bomb threat forces Wheatland High School to evacuate, cancel classes"
   },
   "3a5a4df7-8e88-515f-9580-1bec43dd9556": {
    "date": "Fri, 09 Oct 2026 00:00:00 GMT",
@@ -168,47 +198,29 @@
    "link": "https://www.krone.at/3913922",
    "title": "Terrorpläne mit ChatGPT besprochen – verurteilt"
   },
-  "422c419d-a1a9-5af7-9d43-6d977bff8496": {
-   "date": "Fri, 25 Sep 2026 00:00:00 GMT",
-   "incident": "1604",
-   "link": "https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html",
-   "title": "How OpenAI’s Rogue A.I. Agents Tried to Trick a Robot Detector"
-  },
-  "43b6c75b-179d-5058-abbb-24cdd36fe0d8": {
-   "date": "Thu, 24 Sep 2026 00:00:00 GMT",
-   "incident": "1707",
-   "link": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html",
-   "title": "OpenAI’s A.I. Tried to Breach 4 Other Targets, Without Prompting"
-  },
-  "44432056-ea75-5783-a486-8f5c3da4e888": {
-   "date": "Thu, 24 Sep 2026 00:00:00 GMT",
-   "incident": "1707",
-   "link": "https://www.pm.gov.au/media/press-conference-new-york",
-   "title": "Press conference - New York"
-  },
   "44800827-186b-5a98-ab1e-112a35e46cf5": {
    "date": "Fri, 09 Oct 2026 00:00:00 GMT",
    "incident": "1738",
    "link": "https://www.isd.gov.sg/news-and-resources/singapore-terrorism-threat-assessment-report-2025/",
    "title": "Singapore Terrorism Threat Assessment Report 2025"
   },
-  "4d9e4f89-3f2b-50ee-bc95-0e5fb41a0283": {
-   "date": "Thu, 24 Sep 2026 00:00:00 GMT",
-   "incident": "1709",
-   "link": "https://www.nytimes.com/2026/09/23/nyregion/data-center-pollution-new-jersey.html",
-   "title": "Data Center Is Fined $1.1 Million for Operating 62 Power Generators"
-  },
-  "4ec8b2b1-f0bf-5ea4-9db3-480256420dd8": {
-   "date": "Wed, 30 Sep 2026 00:00:00 GMT",
-   "incident": "1718",
-   "link": "https://www.nytimes.com/2026/09/30/us/santa-ana-viper-snake-ai-fake.html",
-   "title": "Viper Image That Caused Alarm in California Was A.I.-Generated"
+  "44fad9dc-5ad8-5b5a-a217-b4550d4a3ed6": {
+   "date": "Sat, 10 Oct 2026 00:00:00 GMT",
+   "incident": "",
+   "link": "https://indianexpress.com/article/cities/ahmedabad/ricin-poison-terror-plot-gujarat-ats-searches-hyderabad-doctors-house-seizes-chemicals-raw-material-10362269/",
+   "title": "Ricin poison terror plot: Gujarat ATS searches Hyderabad doctor’s house, seizes chemicals & raw material"
   },
   "5091f142-c437-5457-9de8-7dc19305c9e6": {
    "date": "Sun, 04 Oct 2026 00:00:00 GMT",
    "incident": "1724",
    "link": "https://molawyersmedia.com/2026/09/09/oklahoma-judge-ai-false-case-citations-order/",
    "title": "Oklahoma judge used AI on order that cited cases that don’t exist"
+  },
+  "5179eadb-8442-519a-bf98-d6ff62a29845": {
+   "date": "Sat, 10 Oct 2026 00:00:00 GMT",
+   "incident": "1746",
+   "link": "https://fox40.com/news/wheatland-area-schools-receive-third-ai-generated-threat-class-remains-in-session/",
+   "title": "Wheatland area schools receive third AI-generated threat, class remains in session"
   },
   "52fcddad-6df3-5adf-9d7e-b22f02a2885b": {
    "date": "Thu, 08 Oct 2026 00:00:00 GMT",
@@ -240,11 +252,17 @@
    "link": "https://www.reuters.com/legal/litigation/judge-warns-ai-could-stunt-lawyers-training-harm-their-clients-2026-10-02/",
    "title": "Judge warns AI could stunt lawyers' training and harm their clients"
   },
-  "5ae85bbe-59ff-510a-9a70-10f8239baf83": {
-   "date": "Sun, 27 Sep 2026 00:00:00 GMT",
-   "incident": "1714",
-   "link": "https://www.reuters.com/legal/litigation/chinas-zai-disables-ai-coding-assistant-features-after-security-issue-2026-09-21/",
-   "title": "China's Z.ai disables AI coding assistant features after security issue"
+  "584c4c46-e13f-540f-99ae-73ec5bb6eb3e": {
+   "date": "Sat, 10 Oct 2026 00:00:00 GMT",
+   "incident": "1742",
+   "link": "https://france3-regions.franceinfo.fr/pays-de-la-loire/sarthe/le-mans/projet-d-attentats-dans-la-sarthe-le-lyceen-de-17-ans-a-utilise-chat-gpt-pour-s-aider-dans-la-preparation-confirme-son-avocat-3241366.html",
+   "title": "Projet d’attentats dans la Sarthe : le lycéen de 17 ans a utilisé Chat GPT pour s’aider dans la préparation, confirme son avocat"
+  },
+  "5d0d6458-fb89-5f0b-894a-b3522f2a30a6": {
+   "date": "Sat, 10 Oct 2026 00:00:00 GMT",
+   "incident": "1742",
+   "link": "https://www.leparisien.fr/faits-divers/chatgpt-est-en-partie-la-cause-de-ma-radicalisation-le-role-trouble-de-lia-dans-le-projet-djihadiste-dun-ado-28-10-2025-HEAARQCQFRG3DK43QLGYZ4THDM.php",
+   "title": "« ChatGPT est en partie la cause de ma radicalisation » : le rôle trouble de l’IA dans le projet djihadiste d’un ado"
   },
   "5d851629-f666-5c11-8f40-1491a6fcc8ab": {
    "date": "Wed, 07 Oct 2026 00:00:00 GMT",
@@ -252,29 +270,29 @@
    "link": "https://arileht.delfi.ee/artikkel/120593306/valjamoedud-teadlased-ja-uuringud-kohus-maaras-tehisaru-luulude-eest-eesti-esimese-ai-trahvi",
    "title": "Väljamõedud teadlased ja uuringud. Kohus määras tehisaru luulude eest Eesti esimese AI-trahvi"
   },
+  "5e665de6-2b77-51c3-b798-8127329aa563": {
+   "date": "Sat, 10 Oct 2026 00:00:00 GMT",
+   "incident": "1743",
+   "link": "https://www.newindianexpress.com/india/2026/May/24/nia-chargesheet-says-accused-in-delhi-red-fort-blast-case-abused-ai-platform-for-terror-engineering",
+   "title": "NIA chargesheet says accused in Delhi Red Fort blast case abused AI platform for 'terror engineering'"
+  },
   "6330ccae-0166-55cb-a2f4-f7da44258eb1": {
    "date": "Wed, 07 Oct 2026 00:00:00 GMT",
    "incident": "1733",
    "link": "https://rus.err.ee/1610063122/sud-oshtrafoval-10-chelovek-za-zhaloby-podgotovlennye-ii-i-soderzhavshie-lozhnye-svedenija",
    "title": "Суд оштрафовал 10 человек за жалобы, подготовленные ИИ и содержавшие ложные сведения"
   },
+  "69750a15-d930-5ca6-95d2-4ce6d21f801b": {
+   "date": "Sat, 10 Oct 2026 00:00:00 GMT",
+   "incident": "1744",
+   "link": "https://www.radioconstanta.ro/2026/07/29/activitate-reluata-in-portul-constanta-dupa-alerta-cu-bomba-din-aceasta-dimineata/",
+   "title": "Activitate reluată în Portul Constanța, după alerta cu bombă din această dimineață"
+  },
   "6980b629-ed1a-54a3-9c35-50a61621625a": {
    "date": "Wed, 07 Oct 2026 00:00:00 GMT",
    "incident": "1733",
    "link": "https://nra.lv/neatkariga/komentari/maris-krautmanis-3/524293-baltijas-aktualitates-igaunijas-budzets-mi-sodi-un-kaunas-moseja.htm",
    "title": "Kauņā musulmaņi lūdz nenodarboties ar seksu pie mošejas. Igaunijas tiesa piespriež sodus par mākslīgā intelekta radītiem pieteikumiem"
-  },
-  "6e914008-930f-5ce0-9bba-34a75db63998": {
-   "date": "Wed, 30 Sep 2026 00:00:00 GMT",
-   "incident": "1719",
-   "link": "https://www.techradar.com/pro/security/i-broke-something-a-claude-code-ai-agent-deleted-48-000-files-in-just-over-100-seconds-then-apologized-for-doing-so",
-   "title": "I broke something': A Claude Code AI agent deleted 48,000 files in just over 100 seconds — then apologized for doing so"
-  },
-  "6f661629-93ac-5bae-8cf6-818eac1ae9de": {
-   "date": "Sat, 26 Sep 2026 00:00:00 GMT",
-   "incident": "1711",
-   "link": "https://timesofindia.indiatimes.com/city/bengaluru/cm-vijay-deepfake-whatsapp-call-promises-rs-11-lakh-aid-bengaluru-man-loses-rs-1-lakh/articleshow/134215533.cms",
-   "title": "‘CM Vijay’ WhatsApp call promises Rs 11 lakh aid, Bengaluru man loses Rs 1 lakh"
   },
   "70d0ba50-75fe-5ee8-9318-f8d736b0f7f4": {
    "date": "Mon, 05 Oct 2026 00:00:00 GMT",
@@ -294,12 +312,6 @@
    "link": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
    "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub"
   },
-  "74b60653-6b5f-57f4-8245-c93b818c4dfb": {
-   "date": "Tue, 29 Sep 2026 00:00:00 GMT",
-   "incident": "",
-   "link": "https://www.hacktron.ai/blog/hacking-openai",
-   "title": "Hacking OpenAI"
-  },
   "812ffa9c-2394-5b84-93ed-053f4dbfacc7": {
    "date": "Sun, 04 Oct 2026 00:00:00 GMT",
    "incident": "1724",
@@ -312,17 +324,17 @@
    "link": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/ghaziabad/canada-based-nri-entrapped-fb-fake-id-blackmailed-police-busted-gang-four-arrested/articleshow/134641437.cms",
    "title": "कनाडा निवासी NRI को फेक आईडी से फंसाया, 50 हजार डॉलर की मांग, गाजियाबाद पुलिस का सेक्सटॉर्शन गैंग पर बड़ा एक्शन"
   },
-  "8378ee6c-811c-5209-9de1-20bbb474b36b": {
-   "date": "Fri, 25 Sep 2026 00:00:00 GMT",
-   "incident": "1604",
-   "link": "https://swarmtraces.org/",
-   "title": "Revealing the details of how OpenAI agents hacked Hugging Face"
+  "85ba541f-b85f-59bd-8e58-a7c7989fbf43": {
+   "date": "Sat, 10 Oct 2026 00:00:00 GMT",
+   "incident": "450",
+   "link": "https://swalanyeti.co.ke/news/article/6849/kenyan-content-moderators-allege-exploitation-by-openai-samasource-in-chatgpt-development",
+   "title": "Kenyan moderators claim exploitation by OpenAI, Sama in ChatGPT development"
   },
-  "88160705-b519-5e2e-a184-ec3e731b2239": {
-   "date": "Tue, 29 Sep 2026 00:00:00 GMT",
-   "incident": "1715",
-   "link": "https://www.motherjones.com/politics/2026/09/how-a-russian-attack-on-the-midterms-deepfaked-mother-jones-matryoshka-putin-trump/",
-   "title": "How Russia Is Attacking the Midterms with a Mother Jones Deepfake"
+  "8a7a80b8-6dd0-546c-9c55-55bb810dc850": {
+   "date": "Sat, 10 Oct 2026 00:00:00 GMT",
+   "incident": "1742",
+   "link": "https://www.sudradio.fr/sud-radio/attentats-en-preparation-chatgpt-au-coeur-dun-projet-terroriste-lyceen",
+   "title": "Attentats en préparation : ChatGPT au cœur d’un projet terroriste lycéen"
   },
   "8b392ed5-15bc-51b8-8eca-31fc98d7ae3f": {
    "date": "Fri, 09 Oct 2026 00:00:00 GMT",
@@ -348,12 +360,6 @@
    "link": "https://www.reuters.com/legal/government/mcdonalds-hit-with-class-action-over-menu-prices-2026-10-05/",
    "title": "McDonald's hit with class action alleging AI-powered menu price-fixing"
   },
-  "905b3803-a08b-5bb7-9e52-3b117a65d23b": {
-   "date": "Sat, 26 Sep 2026 00:00:00 GMT",
-   "incident": "1710",
-   "link": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
-   "title": "OpenAI’s Systems Meddled With U.S. Government Sites After Going Rogue"
-  },
   "91be2ef0-6131-57af-beff-26f321db2e63": {
    "date": "Mon, 05 Oct 2026 00:00:00 GMT",
    "incident": "1726",
@@ -366,23 +372,11 @@
    "link": "https://www.channelnewsasia.com/singapore/isd-teenager-terrorist-attack-tampines-hdb-isa-4684741",
    "title": "Singapore foils teen terror plot weeks before planned attack in public housing area"
   },
-  "94f91cef-31d8-5248-bc48-2483f71bfa9b": {
-   "date": "Wed, 23 Sep 2026 00:00:00 GMT",
-   "incident": "1705",
-   "link": "https://www.kansas.com/news/politics-government/article291059560.html",
-   "title": "Kansas police chief used Flock license plate cameras 164 times to track ex-girlfriend"
-  },
   "9aa64383-b07f-56a1-a7d4-88fead687378": {
    "date": "Thu, 01 Oct 2026 00:00:00 GMT",
    "incident": "1720",
    "link": "https://www.boston25news.com/news/local/stow-police-officer-accused-misusing-flock-system-track-former-partner/RJI4V5NGRNGPLK5SKNFKHSBSCY/",
    "title": "Stow police officer accused of misusing Flock system to track former partner"
-  },
-  "9b675fca-a30b-5ec4-94c2-29285ba12995": {
-   "date": "Sun, 27 Sep 2026 00:00:00 GMT",
-   "incident": "1713",
-   "link": "https://www.heraldonline.com/news/local/crime/article316428323.html",
-   "title": "York man was held at gunpoint over incorrect Flock hit. Sheriff blames illegal tag cover"
   },
   "9c673b03-fd25-5044-83d1-3fa420b7f3ec": {
    "date": "Fri, 09 Oct 2026 00:00:00 GMT",
@@ -402,23 +396,17 @@
    "link": "https://www.15min.lt/verslas/naujiena/mokslas-it/estijoje-teismas-pirma-karta-skyre-baudas-uz-dirbtinio-intelekto-isgalvotas-nuorodas-1290-2713152",
    "title": "Estijoje teismas pirmą kartą skyrė baudas už dirbtinio intelekto išgalvotas nuorodas"
   },
-  "a1bb84ee-218a-5b1f-b326-dfbc10abfcda": {
-   "date": "Thu, 24 Sep 2026 00:00:00 GMT",
-   "incident": "1707",
-   "link": "https://www.abc.net.au/news/2026-09-24/ai-agent-accessed-australian-government-site-pm-says/107189078",
-   "title": "OpenAI hacked Medicare portal, Prime Minister Anthony Albanese says"
+  "9fdbea55-2bb3-5e65-b9f4-cd8e1612973f": {
+   "date": "Sat, 10 Oct 2026 00:00:00 GMT",
+   "incident": "1744",
+   "link": "https://hotnews.ro/mesajele-trimise-la-autoritatea-navala-romana-care-a-dus-la-evacuari-in-portul-constanta-mai-multe-bombe-plantate-nu-vei-avea-timp-sa-le-gasesti-2312251",
+   "title": "Mesajele trimise la Autoritatea Navală Română, care au dus la evacuări în Portul Constanța: „Mai multe bombe plantate. Nu vei avea timp să le găsești”"
   },
   "a4760a7f-1917-5f0d-b523-f52df364ae7e": {
    "date": "Wed, 30 Sep 2026 00:00:00 GMT",
    "incident": "",
    "link": "https://www.9news.com/article/news/community/transportation/waymo-drives-denver-farmers-market-no-law/73-a55cac7b-9c76-4003-896b-1dd5ad162dea",
    "title": "There's no law to ticket the Waymo that drove through a Denver farmers market"
-  },
-  "a537a401-5680-5c0c-a960-7186775d09d7": {
-   "date": "Thu, 24 Sep 2026 00:00:00 GMT",
-   "incident": "1708",
-   "link": "https://stanforddaily.com/2026/09/23/university-confirms-ai-edited-photo/",
-   "title": "University confirms use of AI-edited photo amid controversy"
   },
   "a78d2676-59bf-5029-a46d-c3cdc80597bd": {
    "date": "Tue, 06 Oct 2026 00:00:00 GMT",
@@ -438,18 +426,6 @@
    "link": "https://www.theregister.com/ai-and-ml/2026/07/01/anthropic-is-removing-its-covert-code-for-catching-chinese-competitors/5265366",
    "title": "Anthropic is removing its covert code for catching Chinese competitors"
   },
-  "b38c3f28-c4b2-56fc-8f41-067144b1ff7f": {
-   "date": "Wed, 23 Sep 2026 00:00:00 GMT",
-   "incident": "1706",
-   "link": "https://www.wpr.org/news/member-milwaukee-police-department-misuse-of-license-plate-reader-system",
-   "title": "Second member of the Milwaukee Police Department charged with misuse of license plate reader system"
-  },
-  "b446d39a-02d3-5658-9042-f4c51466d6e4": {
-   "date": "Thu, 24 Sep 2026 00:00:00 GMT",
-   "incident": "1708",
-   "link": "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/",
-   "title": "Stanford R&DE Uses AI to Race Swap Students for Advertising"
-  },
   "b9cea310-fbe0-53d7-9472-469acc8181b5": {
    "date": "Sat, 03 Oct 2026 00:00:00 GMT",
    "incident": "1723",
@@ -468,17 +444,11 @@
    "link": "https://www.riigikohus.ee/et/uudised/kohus-trahvis-kaebajaid-tehisaru-hooletu-kasutamise-eest",
    "title": "Kohus trahvis kaebajaid tehisaru hooletu kasutamise eest"
   },
-  "c5c9030d-6e3b-59c0-9e05-039201afefd0": {
-   "date": "Thu, 24 Sep 2026 00:00:00 GMT",
-   "incident": "1707",
-   "link": "https://transluce.org/agent-activity",
-   "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net"
-  },
-  "ca040d91-80ac-5e9f-9ae7-f0254d293ecf": {
-   "date": "Fri, 25 Sep 2026 15:14:50 GMT",
-   "incident": "",
-   "link": "",
-   "title": "No title"
+  "c2e2894c-51c3-54c7-a379-0f9f79d9c0da": {
+   "date": "Sat, 10 Oct 2026 00:00:00 GMT",
+   "incident": "1744",
+   "link": "https://www.news.ro/eveniment/update-alerta-cu-bomba-in-portul-constanta-amplasarea-bombei-anuntata-telefonic-autoritatii-navale-romane-apelurile-facute-din-polonia-si-ucraina-mesajul-prefectului-video-1922401729002026071222554464",
+   "title": "UPDATE - Alertă cu bombă în Portul Constanţa / Amplasarea bombei, anunţată telefonic, Autorităţii Navale Române / Apelurile, făcute din Polonia şi Ucraina / Mesajul prefectului - VIDEO"
   },
   "cb101a58-29a7-5a62-be4a-df1f2fe96e05": {
    "date": "Wed, 30 Sep 2026 00:00:00 GMT",
@@ -492,11 +462,17 @@
    "link": "https://www.premiumtimesng.com/news/headlines/897605-special-report-inside-ai-scam-ads-exploiting-tiktoks-advertising-system-to-defraud-nigerians.html",
    "title": "SPECIAL REPORT: Inside AI scam ads exploiting TikTok’s advertising system to defraud Nigerians"
   },
-  "d12e7ce6-d4e7-5d4e-bbb5-1397df3aabd1": {
-   "date": "Wed, 30 Sep 2026 00:00:00 GMT",
-   "incident": "1717",
-   "link": "https://www.businessinsider.com/flock-safety-alpr-cameras-misreads-2026-3",
-   "title": "'Flock Flocked up'"
+  "cbb31fe2-220d-52d4-8178-c247a1cab660": {
+   "date": "Sat, 10 Oct 2026 00:00:00 GMT",
+   "incident": "1745",
+   "link": "https://www.fox5atlanta.com/news/jackson-county-schools-delayed-after-bomb-threats",
+   "title": "Details released about bomb threats to North Georgia schools"
+  },
+  "d0edfbde-3c09-5d28-9db0-a079d7aedd56": {
+   "date": "Sat, 10 Oct 2026 00:00:00 GMT",
+   "incident": "",
+   "link": "https://www.expressnews.com/news/article/serna-elementary-school-shooting-threat-ai-chatbot-22411434.php",
+   "title": "'No escape': Man told AI chatbot he planned shooting at Northeast Side elementary school"
   },
   "d33763f4-fd43-56e8-895b-12aa2c58623c": {
    "date": "Fri, 09 Oct 2026 00:00:00 GMT",
@@ -510,11 +486,23 @@
    "link": "https://www.isd.gov.sg/news-and-resources/issuance-of-orders-under-internal-security-act--isa--against-two-self-radicalised-singaporean-youths--and-updates-on-isa-orders/",
    "title": "Issuance of Orders under Internal Security Act (ISA) against two self-radicalised Singaporean youths, and updates on ISA Orders"
   },
+  "dbada877-9e71-5284-8439-1d7f2c61f3de": {
+   "date": "Sat, 10 Oct 2026 00:00:00 GMT",
+   "incident": "",
+   "link": "https://www.gulfcoastnewsnow.com/article/florida-woman-arrest-ai-threat-sheriff-lee-county/73968592",
+   "title": "Bonita Springs woman accused of using AI to make violent threats against Lee County Sheriff's Office"
+  },
   "df13a5eb-45fe-5e97-aee2-773983ebe58f": {
    "date": "Thu, 08 Oct 2026 00:00:00 GMT",
    "incident": "1735",
    "link": "https://en.yna.co.kr/view/AEN20261007002700315",
    "title": "Police officer indicted for fabricating, distributing deepfake videos of acquaintances"
+  },
+  "df5c1a79-8b63-5c85-882e-c310273055f8": {
+   "date": "Sat, 10 Oct 2026 00:00:00 GMT",
+   "incident": "",
+   "link": "https://news.sky.com/story/teenager-pleads-guilty-after-planning-copycat-of-southport-killings-13492133",
+   "title": "Teenager pleads guilty after planning copycat of Southport killings"
   },
   "e09cd19a-9b90-5d41-b5db-3f408d98b432": {
    "date": "Thu, 08 Oct 2026 00:00:00 GMT",
@@ -528,11 +516,23 @@
    "link": "https://www.newsis.com/view/NISX20261006_0003816285",
    "title": "'성범죄 기소유예' 경찰, AI성착취물 제작·유포…구속기소"
   },
+  "e480c816-5599-5290-9717-c8583abbcc30": {
+   "date": "Sat, 10 Oct 2026 00:00:00 GMT",
+   "incident": "1747",
+   "link": "https://www.gulfcoastnewsnow.com/article/florida-man-social-ai-threat-arrest-lee-sheriff/73947931",
+   "title": "AI image showing Sheriff Marceno injured in uniform leads to threat charge for Estero man"
+  },
   "e4d2cb49-3b06-5ac4-ad88-fa4bc3e638e2": {
    "date": "Fri, 09 Oct 2026 00:00:00 GMT",
    "incident": "1740",
    "link": "https://www.nytimes.com/2026/10/07/world/canada/canada-bc-hiker-claude-rescue.html",
    "title": "Hiker, 16, Is Rescued From ‘Widowmaker’ Ledge After Using Chatbot to Plan Route"
+  },
+  "e507c2d6-5f51-5168-816a-85ee5bab5c39": {
+   "date": "Sat, 10 Oct 2026 00:00:00 GMT",
+   "incident": "1744",
+   "link": "https://www.digi24.ro/stiri/actualitate/evenimente/alerta-cu-bomba-din-portul-constanta-radu-miruta-amenintare-transmisa-de-pe-numere-din-ucraina-si-polonia-ancheta-in-desfasurare-3883671",
+   "title": "Alerta cu bombă din Portul Constanța. Radu Miruță: Amenințare transmisă de pe numere din Ucraina și Polonia, posibil creată cu AI"
   },
   "e623bb2d-aff8-5a30-84c3-89ff2b6228a2": {
    "date": "Wed, 07 Oct 2026 00:00:00 GMT",
@@ -552,6 +552,12 @@
    "link": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/ki-verleger-packt-aus-so-entstehen-meine-buecher-accg-201255807.html",
    "title": "KI-Verleger packt aus: So entstehen meine Bücher"
   },
+  "f0984758-4e38-528b-8ac3-203f61556b54": {
+   "date": "Sat, 10 Oct 2026 00:00:00 GMT",
+   "incident": "",
+   "link": "https://www.arcamax.com/currentnews/newsheadlines/s-4281101",
+   "title": "Michigan terrorist wannabe used AI to plot Halloween attack, feds say"
+  },
   "f699578a-e7be-50fa-8428-9be5a5a2a939": {
    "date": "Tue, 06 Oct 2026 00:00:00 GMT",
    "incident": "1729",
@@ -563,18 +569,6 @@
    "incident": "1723",
    "link": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
    "title": "Alibaba to ban employees from using Anthropic's coding tool, source says"
-  },
-  "f98bdb4d-7c8b-581f-ac21-14725e144fc3": {
-   "date": "Wed, 23 Sep 2026 00:00:00 GMT",
-   "incident": "1704",
-   "link": "https://www.kake.com/news/kake-news-investigates-duplicate-license-plate-numbers-lead-to-dangerous-situations-for-some-kansas-drivers/article_1e517042-6b10-53ad-8cea-7f4abfc430ed.html",
-   "title": "KAKE NEWS INVESTIGATES: Duplicate license plate numbers lead to dangerous situations for some Kansas drivers"
-  },
-  "faca338f-8ad2-5b4c-8b68-495ccb80e0d9": {
-   "date": "Sat, 26 Sep 2026 00:00:00 GMT",
-   "incident": "1712",
-   "link": "https://www.bbc.com/news/articles/cx2zkp8vx9jo",
-   "title": "Victim loses £250k after scammers use AI video of 'well-known' celebrity"
   },
   "fbf85a0c-913d-5e10-ba2a-39bd7aa40278": {
    "date": "Wed, 07 Oct 2026 00:00:00 GMT",
@@ -599,12 +593,18 @@
    "incident": "1728",
    "link": "https://www.reuters.com/business/inside-mcdonalds-push-have-ai-price-your-big-mac-2026-09-29/",
    "title": "Inside McDonald’s push to have AI price your Big Mac"
+  },
+  "ffb95664-fe48-56dd-aab7-fb864c2876e0": {
+   "date": "Sat, 10 Oct 2026 00:00:00 GMT",
+   "incident": "1746",
+   "link": "https://www.kcra.com/article/bomb-threats-disrupt-wheatland-school-second-day/73479484",
+   "title": "Bomb threats disrupt Wheatland schools for second straight day"
   }
  },
  "Epoch AI data": {
   "https://epoch.ai/benchmarks": {
    "title": "Capabilities & benchmarking",
-   "updated": "Oct. 11, 2026"
+   "updated": "Oct. 12, 2026"
   },
   "https://epoch.ai/data/ai-chip-components": {
    "title": "AI chip components",
@@ -644,11 +644,11 @@
   },
   "https://epoch.ai/data/cve": {
    "title": "Cyber vulnerabilities",
-   "updated": "Oct. 11, 2026"
+   "updated": "Oct. 12, 2026"
   },
   "https://epoch.ai/data/frontier-lab-hiring": {
    "title": "Frontier Lab Hiring",
-   "updated": "Oct. 11, 2026"
+   "updated": "Oct. 12, 2026"
   },
   "https://epoch.ai/data/gpu-clusters": {
    "title": "GPU clusters",
@@ -691,11 +691,11 @@
   "https://oecd.ai/en/wonk/how-quantum-technologies-could-open-new-frontiers-for-ai": {
    "title": "how quantum technologies could open new frontiers for ai"
   },
+  "https://oecd.ai/en/wonk/investors-matter-for-the-future-of-trustworthy-ai-are-they-ready": {
+   "title": "investors matter for the future of trustworthy ai are they ready"
+  },
   "https://oecd.ai/en/wonk/putting-agentic-ai-systems-to-work-what-practitioners-reveal-about-deployment-and-governance": {
    "title": "putting agentic ai systems to work what practitioners reveal about deployment and governance"
-  },
-  "https://oecd.ai/en/wonk/the-european-union-is-deploying-ai-across-strategic-sectors": {
-   "title": "the european union is deploying ai across strategic sectors"
   },
   "https://oecd.ai/en/wonk/the-oecd-ai-policy-toolkit-better-ai-policies-for-better-lives": {
    "title": "the oecd ai policy toolkit better ai policies for better lives"
