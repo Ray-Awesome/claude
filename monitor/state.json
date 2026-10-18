@@ -270,12 +270,6 @@
    "link": "https://nra.lv/neatkariga/komentari/maris-krautmanis-3/524293-baltijas-aktualitates-igaunijas-budzets-mi-sodi-un-kaunas-moseja.htm",
    "title": "Kauņā musulmaņi lūdz nenodarboties ar seksu pie mošejas. Igaunijas tiesa piespriež sodus par mākslīgā intelekta radītiem pieteikumiem"
   },
-  "70d0ba50-75fe-5ee8-9318-f8d736b0f7f4": {
-   "date": "Mon, 05 Oct 2026 00:00:00 GMT",
-   "incident": "1725",
-   "link": "https://policyoptions.irpp.org/2026/09/daniel-robson-article-withdrawn/",
-   "title": "Why we took down an article published under the name Daniel Robson"
-  },
   "7289fc5d-63ea-5fa8-9fc8-0f24f3478396": {
    "date": "Fri, 09 Oct 2026 00:00:00 GMT",
    "incident": "1739",
@@ -329,6 +323,12 @@
    "incident": "1740",
    "link": "https://www.ctvnews.ca/vancouver/article/teenager-rescued-from-bcs-widowmaker-after-getting-stranded-using-ai-instructions/",
    "title": "Teenager rescued from B.C.’s ‘Widowmaker’ after getting stranded using AI instructions"
+  },
+  "8c00d7c6-79a1-50b1-8254-7f138b398b4e": {
+   "date": "Thu, 15 Oct 2026 00:00:00 GMT",
+   "incident": "1757",
+   "link": "https://www.adnradio.cl/2026/08/27/protesta-por-presuntos-deepfakes-sexuales-termina-con-destrozos-y-presencia-de-carabineros-en-colegio-de-puente-alto/",
+   "title": "Protesta por presuntos deepfakes sexuales de alumnas termina con destrozos y Carabineros en colegio de Puente Alto"
   },
   "8c0c8acb-881f-5c2f-9c48-9a873364f4a7": {
    "date": "Thu, 08 Oct 2026 00:00:00 GMT",
@@ -401,12 +401,6 @@
    "incident": "1750",
    "link": "https://www.newzimbabwe.com/its-my-work-i-stand-by-it-caine-prize-winner-kundizeza-rubbishes-ai-allegations/",
    "title": "It's my work, I stand by it — Caine Prize winner Kundizeza rubbishes AI allegations"
-  },
-  "b0bd025e-0832-5972-b9c7-902ad51f4ae7": {
-   "date": "Mon, 05 Oct 2026 00:00:00 GMT",
-   "incident": "1725",
-   "link": "https://thehub.ca/2026/09/30/a-statement-on-articles-by-daniel-robson/",
-   "title": "A statement on articles by ‘Daniel Robson’"
   },
   "b846558b-a856-5d16-a14b-fe687bb313e7": {
    "date": "Thu, 15 Oct 2026 00:00:00 GMT",
@@ -503,6 +497,12 @@
    "incident": "1735",
    "link": "https://www.yna.co.kr/view/AKR20261006082200004",
    "title": "'성착취물 만든 경찰관' 성범죄 전력에도 임용된 이유는…\"법령 문제\""
+  },
+  "e2281e80-ebd0-59db-a758-ed599f7402f6": {
+   "date": "Thu, 15 Oct 2026 00:00:00 GMT",
+   "incident": "1757",
+   "link": "https://www.t13.cl/noticia/nacional/mama-paso-algo-grave-apoderados-denuncian-abuso-sexual-digital-contra-sus-hijas-3-10-2026",
+   "title": "“Mamá, pasó algo grave”: apoderados denuncian abuso sexual digital contra sus hijas mediante IA"
   },
   "e38a22f2-2250-59c7-987f-b825de7a3a3c": {
    "date": "Thu, 08 Oct 2026 00:00:00 GMT",
@@ -604,7 +604,7 @@
  "Epoch AI data": {
   "https://epoch.ai/benchmarks": {
    "title": "Capabilities & benchmarking",
-   "updated": "Oct. 17, 2026"
+   "updated": "Oct. 18, 2026"
   },
   "https://epoch.ai/data/ai-chip-components": {
    "title": "AI chip components",
@@ -644,11 +644,11 @@
   },
   "https://epoch.ai/data/cve": {
    "title": "Cyber vulnerabilities",
-   "updated": "Oct. 17, 2026"
+   "updated": "Oct. 18, 2026"
   },
   "https://epoch.ai/data/frontier-lab-hiring": {
    "title": "Frontier Lab Hiring",
-   "updated": "Oct. 17, 2026"
+   "updated": "Oct. 18, 2026"
   },
   "https://epoch.ai/data/gpu-clusters": {
    "title": "GPU clusters",
