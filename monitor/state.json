@@ -18,6 +18,12 @@
    "link": "https://www.wsbtv.com/news/local/atlanta/ai-bomb-threats-shut-down-georgia-school-district-fbi-investigating/4PGKPTQJDFBT3LKTXIQILBOI5M/",
    "title": "AI bomb threats shut down Georgia school district, FBI investigating"
   },
+  "08fa7ba1-9c8b-5f6e-9ef7-6031a289d2ed": {
+   "date": "Mon, 19 Oct 2026 00:00:00 GMT",
+   "incident": "1764",
+   "link": "https://www.liberation.fr/checknews/mouvement-lyceen-quand-les-images-ameliorees-par-lia-generent-des-fausses-pistes-20261011_Z5BPXSWSDFFUVMBDFRQIYQ4AKA/",
+   "title": "Mobilisation lycéenne : quand les images «améliorées» par l’IA génèrent des fausses pistes"
+  },
   "099fb8e4-7a0a-5961-bed1-3b950772b4c3": {
    "date": "Fri, 09 Oct 2026 00:00:00 GMT",
    "incident": "1740",
@@ -47,12 +53,6 @@
    "incident": "1738",
    "link": "https://www.channelnewsasia.com/singapore/isd-terrorism-threat-israel-palestine-far-right-extremism-isis-al-qaeda-social-media-youths-5262646",
    "title": "ISD flags growing diversity of extremist ideologies in Singapore, emergence of AI as terror enabler"
-  },
-  "168e278b-eef6-5feb-8ea0-b03e79739142": {
-   "date": "Tue, 06 Oct 2026 00:00:00 GMT",
-   "incident": "1727",
-   "link": "https://www.nebraska.gov/apps-courts-epub/public/viewAdvanced?docId=N00013498PUB",
-   "title": "Shannon v. Shannon, 322 Neb. 451 (2026)"
   },
   "16d4a1c3-595e-51d5-9192-27add02cfa30": {
    "date": "Fri, 09 Oct 2026 00:00:00 GMT",
@@ -240,11 +240,11 @@
    "link": "https://www.leparisien.fr/faits-divers/chatgpt-est-en-partie-la-cause-de-ma-radicalisation-le-role-trouble-de-lia-dans-le-projet-djihadiste-dun-ado-28-10-2025-HEAARQCQFRG3DK43QLGYZ4THDM.php",
    "title": "« ChatGPT est en partie la cause de ma radicalisation » : le rôle trouble de l’IA dans le projet djihadiste d’un ado"
   },
-  "5d851629-f666-5c11-8f40-1491a6fcc8ab": {
-   "date": "Wed, 07 Oct 2026 00:00:00 GMT",
-   "incident": "1733",
-   "link": "https://arileht.delfi.ee/artikkel/120593306/valjamoedud-teadlased-ja-uuringud-kohus-maaras-tehisaru-luulude-eest-eesti-esimese-ai-trahvi",
-   "title": "Väljamõedud teadlased ja uuringud. Kohus määras tehisaru luulude eest Eesti esimese AI-trahvi"
+  "5d4a7aea-6a2f-514f-8925-df19ae4edf42": {
+   "date": "Sun, 18 Oct 2026 00:00:00 GMT",
+   "incident": "1762",
+   "link": "https://www.rts.sn/actualite/detail/a-la-une/touba-un-individu-arrete-pour-cyber-escroquerie-chantage-et-usage-frauduleux-de-lia",
+   "title": "Touba : Un Individu Arrêté pour Cyber-Escroquerie, Chantage et Usage Frauduleux de l’IA"
   },
   "5e665de6-2b77-51c3-b798-8127329aa563": {
    "date": "Sat, 10 Oct 2026 00:00:00 GMT",
@@ -281,12 +281,6 @@
    "incident": "1744",
    "link": "https://www.radioconstanta.ro/2026/07/29/activitate-reluata-in-portul-constanta-dupa-alerta-cu-bomba-din-aceasta-dimineata/",
    "title": "Activitate reluată în Portul Constanța, după alerta cu bombă din această dimineață"
-  },
-  "6980b629-ed1a-54a3-9c35-50a61621625a": {
-   "date": "Wed, 07 Oct 2026 00:00:00 GMT",
-   "incident": "1733",
-   "link": "https://nra.lv/neatkariga/komentari/maris-krautmanis-3/524293-baltijas-aktualitates-igaunijas-budzets-mi-sodi-un-kaunas-moseja.htm",
-   "title": "Kauņā musulmaņi lūdz nenodarboties ar seksu pie mošejas. Igaunijas tiesa piespriež sodus par mākslīgā intelekta radītiem pieteikumiem"
   },
   "7289fc5d-63ea-5fa8-9fc8-0f24f3478396": {
    "date": "Fri, 09 Oct 2026 00:00:00 GMT",
@@ -366,6 +360,12 @@
    "link": "https://thisisreno.com/2026/10/killinger-civil-rights-lawsuit/",
    "title": "Lawsuit: Reno police detective says she was told not to write a report about false facial recognition arrest (1 of 4)"
   },
+  "92ff6150-e3c9-5098-baa8-11d174ff8091": {
+   "date": "Mon, 19 Oct 2026 00:00:00 GMT",
+   "incident": "1763",
+   "link": "https://tribunademinas.com.br/noticias/cidade/10-06-2026/pjf-acao-central-estadual-regulacao-leitos-saude.html",
+   "title": "PJF move ação civil pública contra nova central estadual de regulação de leitos na saúde"
+  },
   "94a35acb-f1d6-517a-ad1c-1e5be805f45d": {
    "date": "Fri, 09 Oct 2026 00:00:00 GMT",
    "incident": "1738",
@@ -383,12 +383,6 @@
    "incident": "",
    "link": "https://www.rainews.it/tgr/sicilia/articoli/2025/05/inneggiavano-alla-guerra-santa-arrestati-dalla-digos-ab1e4faa-4cb1-41d5-a5ee-14a6b84b8e91.html",
    "title": "Inneggiavano alla guerra santa, arrestati dalla Digos"
-  },
-  "9e837c71-44bb-535b-99ac-193e8564a18f": {
-   "date": "Wed, 07 Oct 2026 00:00:00 GMT",
-   "incident": "1733",
-   "link": "https://www.15min.lt/verslas/naujiena/mokslas-it/estijoje-teismas-pirma-karta-skyre-baudas-uz-dirbtinio-intelekto-isgalvotas-nuorodas-1290-2713152",
-   "title": "Estijoje teismas pirmą kartą skyrė baudas už dirbtinio intelekto išgalvotas nuorodas"
   },
   "9fdbea55-2bb3-5e65-b9f4-cd8e1612973f": {
    "date": "Sat, 10 Oct 2026 00:00:00 GMT",
@@ -582,6 +576,12 @@
    "link": "https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54",
    "title": "Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip"
   },
+  "f9b0a601-1eae-56cb-bcb8-a6a19e0557b8": {
+   "date": "Mon, 19 Oct 2026 00:00:00 GMT",
+   "incident": "1763",
+   "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/06/11/psicologa-morre-apos-5-dias-de-espera-por-leito-em-mg-familia-contesta-novo-sistema-de-regulacao.ghtml",
+   "title": "Psicóloga morre após esperar cinco dias por vaga de UTI em MG; família questiona sistema que distribui leitos"
+  },
   "fa7c18e1-98bd-5b79-ac2c-998803f970ec": {
    "date": "Tue, 13 Oct 2026 00:00:00 GMT",
    "incident": "1748",
@@ -604,7 +604,7 @@
  "Epoch AI data": {
   "https://epoch.ai/benchmarks": {
    "title": "Capabilities & benchmarking",
-   "updated": "Oct. 19, 2026"
+   "updated": "Oct. 20, 2026"
   },
   "https://epoch.ai/data/ai-chip-components": {
    "title": "AI chip components",
@@ -616,7 +616,7 @@
   },
   "https://epoch.ai/data/ai-chip-sales": {
    "title": "AI chip sales",
-   "updated": "Oct. 14, 2026"
+   "updated": "Oct. 19, 2026"
   },
   "https://epoch.ai/data/ai-chip-users": {
    "title": "AI chip users",
@@ -632,7 +632,7 @@
   },
   "https://epoch.ai/data/ai-models": {
    "title": "AI models",
-   "updated": "Oct. 16, 2026"
+   "updated": "Oct. 19, 2026"
   },
   "https://epoch.ai/data/arxiv": {
    "title": "AI use in math research",
@@ -644,11 +644,11 @@
   },
   "https://epoch.ai/data/cve": {
    "title": "Cyber vulnerabilities",
-   "updated": "Oct. 19, 2026"
+   "updated": "Oct. 20, 2026"
   },
   "https://epoch.ai/data/frontier-lab-hiring": {
    "title": "Frontier Lab Hiring",
-   "updated": "Oct. 19, 2026"
+   "updated": "Oct. 20, 2026"
   },
   "https://epoch.ai/data/gpu-clusters": {
    "title": "GPU clusters",
@@ -656,7 +656,7 @@
   },
   "https://epoch.ai/data/machine-learning-hardware": {
    "title": "Machine learning hardware",
-   "updated": "Oct. 16, 2026"
+   "updated": "Oct. 19, 2026"
   },
   "https://epoch.ai/data/polling": {
    "title": "Polling on AI usage",
