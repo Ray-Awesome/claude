@@ -604,7 +604,7 @@
  "Epoch AI data": {
   "https://epoch.ai/benchmarks": {
    "title": "Capabilities & benchmarking",
-   "updated": "Oct. 28, 2026"
+   "updated": "Oct. 29, 2026"
   },
   "https://epoch.ai/data/ai-chip-components": {
    "title": "AI chip components",
@@ -632,11 +632,11 @@
   },
   "https://epoch.ai/data/ai-data-centers": {
    "title": "AI data centers",
-   "updated": "Oct. 26, 2026"
+   "updated": "Oct. 29, 2026"
   },
   "https://epoch.ai/data/ai-models": {
    "title": "AI models",
-   "updated": "Oct. 26, 2026"
+   "updated": "Oct. 28, 2026"
   },
   "https://epoch.ai/data/arxiv": {
    "title": "AI use in math research",
@@ -648,11 +648,11 @@
   },
   "https://epoch.ai/data/cve": {
    "title": "Cyber vulnerabilities",
-   "updated": "Oct. 28, 2026"
+   "updated": "Oct. 29, 2026"
   },
   "https://epoch.ai/data/frontier-lab-hiring": {
    "title": "Frontier Lab Hiring",
-   "updated": "Oct. 28, 2026"
+   "updated": "Oct. 29, 2026"
   },
   "https://epoch.ai/data/gpu-clusters": {
    "title": "GPU clusters",
@@ -660,7 +660,7 @@
   },
   "https://epoch.ai/data/machine-learning-hardware": {
    "title": "Machine learning hardware",
-   "updated": "Oct. 26, 2026"
+   "updated": "Oct. 28, 2026"
   },
   "https://epoch.ai/data/polling": {
    "title": "Polling on AI usage",
