@@ -48,12 +48,6 @@
    "link": "https://lobservateur.info/article/120010/actualites/chatgpt-accuse-de-meurtre",
    "title": "ChatGPT accusé de meurtre"
   },
-  "1e8a07d1-0020-5172-87b2-9bb47b2ae6b0": {
-   "date": "Tue, 13 Oct 2026 00:00:00 GMT",
-   "incident": "1749",
-   "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/25/truffa-da-395-milioni-allex-capo-di-fideuram-un-indagato_f747847d-aaa5-4f5f-9bee-1d476b6bea1e.html",
-   "title": "Truffa da 39,5 milioni all'ex capo di Fideuram, un indagato"
-  },
   "1ea034aa-f230-5d17-8e17-9bd9e703c0e8": {
    "date": "Thu, 15 Oct 2026 00:00:00 GMT",
    "incident": "",
@@ -144,6 +138,12 @@
    "link": "https://www.ensafrica.com/news/detail/11940/misuse-of-ai-in-legal-proceedings-a-word-of-c/",
    "title": "Misuse of AI in legal proceedings: A word of caution from the Courts"
   },
+  "3de6fd22-38fd-5d34-bf0e-42feec65cbb5": {
+   "date": "Thu, 29 Oct 2026 00:00:00 GMT",
+   "incident": "1793",
+   "link": "https://www.graphika.com/insights/storm-1516-produces-very-likely-deepfake-videos-of-student-accusing-democratic-senate-candidate",
+   "title": "Storm-1516 Produces Very Likely Deepfake Videos of Student Accusing Democratic Senate Candidate of Sexual Assault"
+  },
   "41324f9d-592f-5a20-a2ac-83b5c33c6338": {
    "date": "Sat, 24 Oct 2026 00:00:00 GMT",
    "incident": "1783",
@@ -192,12 +192,6 @@
    "link": "https://www.kenyans.co.ke/news/118418-high-court-orders-kbc-delete-employees-biometric-data-over-privacy-breach",
    "title": "High Court Orders KBC to Delete Employees’ Biometric Data Over Privacy Breach"
   },
-  "5b7d3f22-05ae-56ed-bd3c-a46d3f9f146c": {
-   "date": "Tue, 13 Oct 2026 00:00:00 GMT",
-   "incident": "1749",
-   "link": "https://www.reuters.com/legal/government/ai-messaging-scam-costs-italys-top-bank-intesa-millions-sources-say-2026-09-25/",
-   "title": "AI messaging scam costs Italy's top bank Intesa millions, sources say"
-  },
   "5c072b01-a779-53b0-ad8d-b5ec78f73f2d": {
    "date": "Thu, 22 Oct 2026 00:00:00 GMT",
    "incident": "1779",
@@ -209,12 +203,6 @@
    "incident": "1762",
    "link": "https://www.rts.sn/actualite/detail/a-la-une/touba-un-individu-arrete-pour-cyber-escroquerie-chantage-et-usage-frauduleux-de-lia",
    "title": "Touba : Un Individu Arrêté pour Cyber-Escroquerie, Chantage et Usage Frauduleux de l’IA"
-  },
-  "60232d6a-c3d1-5422-aff7-6a36b18a8586": {
-   "date": "Tue, 13 Oct 2026 00:00:00 GMT",
-   "incident": "1748",
-   "link": "https://www.astynomia.gr/2026/09/18/18-9-2026-d-a-o-e-exarthrothike-egklimatiki-organosi-ta-meli-tis-opoias-me-diafora-proschimata-kai-ti-chrisi-technitis-noimosynis-a-i-dieprattan-apates-kai-diakekrimenes-klopes/",
-   "title": "18-9-2026: Δ.Α.Ο.Ε.: Εξαρθρώθηκε εγκληματική οργάνωση τα μέλη της οποίας με διάφορα προσχήματα και τη χρήση Τεχνητής Νοημοσύνης (A.I.) διέπρατταν απάτες και διακεκριμένες κλοπές"
   },
   "64dfb354-61f8-57cd-9e1c-c84376f5d111": {
    "date": "Sun, 18 Oct 2026 00:00:00 GMT",
@@ -294,6 +282,12 @@
    "link": "https://6abc.com/post/anthropic-ai-model-submitted-false-tip-unsolved-murder-philadelphia-police-say/19925243/",
    "title": "AI model submitted false tip about unsolved murder, Philadelphia police say"
   },
+  "794f51ee-3f7c-56bd-b489-daa30295ffc4": {
+   "date": "Thu, 29 Oct 2026 00:00:00 GMT",
+   "incident": "1789",
+   "link": "https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/",
+   "title": "How an AI start-up founded by ex-DOGE staffers broke into Anthropic"
+  },
   "83087bee-ef23-5ab6-b47b-6f283ebaf1d3": {
    "date": "Fri, 23 Oct 2026 00:00:00 GMT",
    "incident": "1782",
@@ -311,12 +305,6 @@
    "incident": "1768",
    "link": "https://www.theelephant.info/investigations/2026/05/06/hiding-behind-ai-how-sha-was-used-to-load-health-system-costs-onto-poorest/",
    "title": "Hiding Behind AI: How SHA Was Used to Load Health System Costs Onto the Poorest"
-  },
-  "897a385d-1107-5f02-b3ec-107c3b2d5dab": {
-   "date": "Tue, 13 Oct 2026 00:00:00 GMT",
-   "incident": "1749",
-   "link": "https://milano.corriere.it/notizie/cronaca/26_settembre_25/fideuram-truffa-falso-messaggio-whatsapp-molesini-milioni-d5248b46-a7e7-4130-8c74-e09be5e00xlk.shtml",
-   "title": "Il falso messaggio WhatsApp inviato all'ex presidente Fideuram e la telefonata contraffatta con l'AI: spariti 36 milioni di euro"
   },
   "8b14a467-41f1-538f-8117-48bac8659a68": {
    "date": "Wed, 21 Oct 2026 00:00:00 GMT",
@@ -372,6 +360,12 @@
    "link": "https://www.sfgate.com/news/bayarea/article/vallejo-man-killed-by-tesla-in-full-22492074.php",
    "title": "Vallejo man hit, killed by Tesla under self-driving mode identified"
   },
+  "a6d775d8-ea21-5924-9401-f0334ed7203d": {
+   "date": "Thu, 29 Oct 2026 00:00:00 GMT",
+   "incident": "1790",
+   "link": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
+   "title": "AI bots flooded 2023 UK government consultation on disposable vapes ban"
+  },
   "a8f7eac1-a74a-57c1-91b4-256522b6b819": {
    "date": "Thu, 15 Oct 2026 00:00:00 GMT",
    "incident": "1258",
@@ -389,6 +383,12 @@
    "incident": "1750",
    "link": "https://www.newzimbabwe.com/its-my-work-i-stand-by-it-caine-prize-winner-kundizeza-rubbishes-ai-allegations/",
    "title": "It's my work, I stand by it — Caine Prize winner Kundizeza rubbishes AI allegations"
+  },
+  "aff331a7-c253-5ec3-8541-7cb9c1a45d02": {
+   "date": "Thu, 29 Oct 2026 00:00:00 GMT",
+   "incident": "1793",
+   "link": "https://politifact.com/factchecks/2026/oct/22/tweets/russian-disinformation-group-targets-james-talarico-with-baseless-claim-in-ai-generated-video/",
+   "title": "Russian disinformation group targets James Talarico with baseless claim in AI-generated video"
   },
   "b0a0bec5-9c40-5c94-95e1-a7ebc1a584b7": {
    "date": "Tue, 20 Oct 2026 00:00:00 GMT",
@@ -425,6 +425,12 @@
    "incident": "1772",
    "link": "https://www.carscoops.com/2026/06/bmw-dealer-ai-chatbot-offer/",
    "title": "A BMW Dealership Let An AI Make Offers, It Cost Them $7,000"
+  },
+  "bca60c89-6218-526b-8c15-66f3a695b792": {
+   "date": "Thu, 29 Oct 2026 00:00:00 GMT",
+   "incident": "1792",
+   "link": "https://www.healthcareitnews.com/news/johns-hopkins-shadow-ai-use-linked-data-breach",
+   "title": "At Johns Hopkins, shadow AI use linked to data breach"
   },
   "bd1ea614-bb7b-5161-a933-54709cc3f2ff": {
    "date": "Wed, 14 Oct 2026 00:00:00 GMT",
@@ -474,12 +480,6 @@
    "link": "https://opgelicht.avrotros.nl/nieuws/politie-waarschuwt-voor-nieuwe-truc-bij-bankhelpdeskfraude-380000-euro-buitgemaakt-20602",
    "title": "Politie waarschuwt voor nieuwe truc bij bankhelpdeskfraude: 380.000 euro buitgemaakt"
   },
-  "c6f4c0a8-2016-5dbe-a25a-f7cefa280eb9": {
-   "date": "Wed, 14 Oct 2026 00:00:00 GMT",
-   "incident": "1753",
-   "link": "https://thebhutanese.bt/ai-and-deepfakes-arrive-in-bhutan/",
-   "title": "AI and Deepfakes arrive in Bhutan"
-  },
   "c6f7ff36-dc31-57ab-b8ef-a90c0f633add": {
    "date": "Wed, 21 Oct 2026 00:00:00 GMT",
    "incident": "",
@@ -527,6 +527,12 @@
    "incident": "1785",
    "link": "https://elpais.com/espana/elecciones-generales/2026-10-22/el-pp-da-un-paso-mas-en-su-campana-y-suplanta-la-identidad-de-begona-gomez-zapatero-y-abalos-irse-de-putas-si-soy-zurdo.html",
    "title": "El PP da un paso más en su campaña y suplanta la identidad de Begoña Gómez, Zapatero y Ábalos: “¿Irse de putas? Sí, soy zurdo"
+  },
+  "de4faadd-5a20-516b-99ff-5e36af264b71": {
+   "date": "Thu, 29 Oct 2026 00:00:00 GMT",
+   "incident": "1791",
+   "link": "https://www.washingtonpost.com/education/2026/10/28/senior-official-dartmouth-college-resigns-over-ai-use/",
+   "title": "Senior official at Dartmouth College resigns over AI use"
   },
   "def65f67-dcb3-572f-8430-76165e73bc4f": {
    "date": "Mon, 19 Oct 2026 00:00:00 GMT",
@@ -588,12 +594,6 @@
    "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/06/11/psicologa-morre-apos-5-dias-de-espera-por-leito-em-mg-familia-contesta-novo-sistema-de-regulacao.ghtml",
    "title": "Psicóloga morre após esperar cinco dias por vaga de UTI em MG; família questiona sistema que distribui leitos"
   },
-  "fa7c18e1-98bd-5b79-ac2c-998803f970ec": {
-   "date": "Tue, 13 Oct 2026 00:00:00 GMT",
-   "incident": "1748",
-   "link": "https://www.euronews.com/2026/09/18/greece-police-bust-gang-using-ai-to-clone-relatives-voices-for-cash",
-   "title": "Greece: Police bust gang using AI to clone relatives' voices for cash"
-  },
   "fc7031d0-5646-5fa6-8b26-91f4a892bb1d": {
    "date": "Wed, 21 Oct 2026 00:00:00 GMT",
    "incident": "",
@@ -604,7 +604,7 @@
  "Epoch AI data": {
   "https://epoch.ai/benchmarks": {
    "title": "Capabilities & benchmarking",
-   "updated": "Oct. 29, 2026"
+   "updated": "Oct. 30, 2026"
   },
   "https://epoch.ai/data/ai-chip-components": {
    "title": "AI chip components",
@@ -636,7 +636,7 @@
   },
   "https://epoch.ai/data/ai-models": {
    "title": "AI models",
-   "updated": "Oct. 28, 2026"
+   "updated": "Oct. 30, 2026"
   },
   "https://epoch.ai/data/arxiv": {
    "title": "AI use in math research",
@@ -648,11 +648,11 @@
   },
   "https://epoch.ai/data/cve": {
    "title": "Cyber vulnerabilities",
-   "updated": "Oct. 29, 2026"
+   "updated": "Oct. 30, 2026"
   },
   "https://epoch.ai/data/frontier-lab-hiring": {
    "title": "Frontier Lab Hiring",
-   "updated": "Oct. 29, 2026"
+   "updated": "Oct. 30, 2026"
   },
   "https://epoch.ai/data/gpu-clusters": {
    "title": "GPU clusters",
@@ -660,7 +660,7 @@
   },
   "https://epoch.ai/data/machine-learning-hardware": {
    "title": "Machine learning hardware",
-   "updated": "Oct. 28, 2026"
+   "updated": "Oct. 29, 2026"
   },
   "https://epoch.ai/data/polling": {
    "title": "Polling on AI usage",
