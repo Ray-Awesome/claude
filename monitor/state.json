@@ -1,5 +1,11 @@
 {
  "AI Incident Database": {
+  "003a25da-bf25-551b-8d27-5d9c3ed4cf2f": {
+   "date": "Sun, 08 Nov 2026 00:00:00 GMT",
+   "incident": "1812",
+   "link": "https://edtech.law/wp-content/uploads/2026/11/2026.11.04-Dkt-001-1-Emma-v-Google-Complaint_2.pdf",
+   "title": "Emma Doe v. Google LLC and Alphabet Inc. (Complaint for Damages and Injunctive Relief)"
+  },
   "0566aeb9-395e-58b6-b5d6-7c4e46530c49": {
    "date": "Sat, 31 Oct 2026 00:00:00 GMT",
    "incident": "1794",
@@ -12,23 +18,17 @@
    "link": "https://www.libertaddigital.com/espana/2026-10-23/leire-diez-se-querella-contra-el-pp-por-su-video-hecho-con-ia-que-le-acusa-de-contratar-matones-7480817/",
    "title": "Leire Diez se querella contra el PP por su vídeo hecho con IA que le acusa de contratar \"matones\""
   },
-  "08e0c2dc-fc1f-5650-aafc-032c9c693d96": {
-   "date": "Wed, 21 Oct 2026 00:00:00 GMT",
-   "incident": "1778",
-   "link": "https://www.cbsnews.com/pittsburgh/news/ai-political-ads-pennsylvania-governors-race-midterm-election/",
-   "title": "AI-generated political ads have appeared in Pennsylvania. Are these kind of ads allowed?"
-  },
-  "08fa7ba1-9c8b-5f6e-9ef7-6031a289d2ed": {
-   "date": "Mon, 19 Oct 2026 00:00:00 GMT",
-   "incident": "1764",
-   "link": "https://www.liberation.fr/checknews/mouvement-lyceen-quand-les-images-ameliorees-par-lia-generent-des-fausses-pistes-20261011_Z5BPXSWSDFFUVMBDFRQIYQ4AKA/",
-   "title": "Mobilisation lycéenne : quand les images «améliorées» par l’IA génèrent des fausses pistes"
-  },
   "0a24a106-f9e9-5c6a-b7d7-0a710975890a": {
    "date": "Sat, 07 Nov 2026 00:00:00 GMT",
    "incident": "",
    "link": "https://alignment.openai.com/misalignment-reports/unauthorized-artifactory-writes-and-cross-sample-communication/",
    "title": "Unsanctioned Artifactory writes and cross-sample communication"
+  },
+  "0c5ea684-6813-5d31-900b-302eaa854003": {
+   "date": "Sun, 08 Nov 2026 00:00:00 GMT",
+   "incident": "1813",
+   "link": "https://caselaw.nationalarchives.gov.uk/ewhc/admin/2025/1040",
+   "title": "Frederick Ayinde, R (on the application of) v The London Borough of Haringey"
   },
   "143b9a44-2b61-5d95-841a-c0b4abadf3c5": {
    "date": "Sat, 24 Oct 2026 00:00:00 GMT",
@@ -54,11 +54,17 @@
    "link": "https://www.clarin.com/tecnologia/crecen-ciberataque-agentes-ia-argentina-vulneraron-15-entidades-salud-robaron-historias-clinicas_0_E48IKoPlfw.html",
    "title": "Crecen los ciberataques con agentes de IA en Argentina: vulneraron al menos 15 entidades de salud y robaron historias clínicas"
   },
-  "19d6f684-517f-51b5-84b7-d17d644fd6e8": {
-   "date": "Wed, 21 Oct 2026 00:00:00 GMT",
-   "incident": "1779",
-   "link": "https://www.theregister.com/ai-and-ml/2026/10/06/wikimedia-foundation-comes-forward-as-latest-openai-agent-assault-victim/5301400",
-   "title": "Wikimedia Foundation comes forward as latest OpenAI agent assault victim"
+  "1c5eb0d2-3e57-5a8d-a2b7-3fc36d4378ae": {
+   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
+   "incident": "1810",
+   "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+   "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox"
+  },
+  "1d285973-4241-5b6a-ab39-bb684f4a4b6c": {
+   "date": "Sun, 08 Nov 2026 00:00:00 GMT",
+   "incident": "1814",
+   "link": "https://schenklawfirm.com/press/wan/complaint.pdf",
+   "title": "Wan et al. v. OpenAI, Inc. et al. — Complaint and Demand for Jury Trial"
   },
   "1d7385c8-fe92-59b6-a681-076e8ec757ae": {
    "date": "Sat, 24 Oct 2026 00:00:00 GMT",
@@ -72,12 +78,6 @@
    "link": "https://www.thepaper.cn/newsDetail_forward_33266056",
    "title": "司机激活智驾并双手脱离方向盘”，江西一轿车追尾致3死，调查报告公布"
   },
-  "23b1eee8-76c1-52ba-97c2-e501a0ab78ca": {
-   "date": "Wed, 21 Oct 2026 00:00:00 GMT",
-   "incident": "1776",
-   "link": "https://futurism.com/artificial-intelligence/metas-muse-ai-giving-users-home-addresses",
-   "title": "Man Says Meta's Muse AI Gave His Home Address Out to Strangers"
-  },
   "2599f5d2-ee32-5114-a499-746f9ccd6aaf": {
    "date": "Sat, 24 Oct 2026 00:00:00 GMT",
    "incident": "1787",
@@ -89,12 +89,6 @@
    "incident": "1806",
    "link": "https://alignment.openai.com/misalignment-reports/retrieving-server-secrets-and-bypassing-authorization-on-a-government-statistics-website/",
    "title": "Retrieving server secrets and bypassing authorization on a government statistics website"
-  },
-  "2cda2ed0-6d2d-5826-a86a-18551c60cf58": {
-   "date": "Tue, 20 Oct 2026 00:00:00 GMT",
-   "incident": "1769",
-   "link": "https://www.metropoles.com/distrito-federal/na-mira/homem-usa-ia-para-simular-fotografia-armado-e-ameacar-ex-companheira",
-   "title": "Homem usa IA para simular fotografia armado e ameaçar ex-companheira"
   },
   "2fca9616-de79-5c86-8ec8-d6a9f8d9bebb": {
    "date": "Sat, 24 Oct 2026 00:00:00 GMT",
@@ -156,17 +150,23 @@
    "link": "https://www.roadandtrack.com/news/a71571068/bmw-dealership-trade-in-offer-accidentally-made-by-ai/",
    "title": "BMW Dealer's AI Chatbot Accidentally Makes High Trade-In Offer, Salesperson Tries to Walk It Back"
   },
+  "461d7a46-6a76-56ba-986b-e4a9b80c56f3": {
+   "date": "Thu, 05 Nov 2026 00:00:00 GMT",
+   "incident": "1809",
+   "link": "https://www.dailymail.com/news/article-16269737/School-quangos-reports-new-curriculum-using-AI-errors.html",
+   "title": "School quango’s reports on new curriculum were 'made using AI'... and full of ‘errors’"
+  },
   "471ed770-c318-5130-a145-499a3cbe85d3": {
    "date": "Sat, 31 Oct 2026 00:00:00 GMT",
    "incident": "1797",
    "link": "https://status.rubygems.org/incidents/cytf062tkwtt",
    "title": "Temporarily disabling new user registrations"
   },
-  "4aa9a34c-0835-596a-9f1f-9b0086cad2e2": {
-   "date": "Tue, 20 Oct 2026 00:00:00 GMT",
-   "incident": "1771",
-   "link": "https://libraryir.parliament.go.ke/bitstreams/86b29949-bf4b-491c-b24e-bfda1ea1fe13/download",
-   "title": "Report on the Assessment of Social Health Authority (SHA) Utilization of Funds Disbursed Since Inception and Challenges Faced by Facilities"
+  "49dbea98-3438-5982-a812-8c0092066f18": {
+   "date": "Tue, 03 Nov 2026 00:00:00 GMT",
+   "incident": "123",
+   "link": "https://jamiewatters.work/journey/epic-sepsis-model-accuracy",
+   "title": "Checking the source is not enough: I traced a number to a scientific paper and found a Teams meeting"
   },
   "50a5aa0c-47d2-562d-888e-687c95089529": {
    "date": "Wed, 21 Oct 2026 00:00:00 GMT",
@@ -174,11 +174,11 @@
    "link": "https://www.kut.org/politics/2026-09-21/vikki-goodwin-dan-patrick-ai-deepfake-campaign-ads-texas-lieutenant-governor-race",
    "title": "Vikki Goodwin files police report saying Dan Patrick broke law with AI-generated campaign ads"
   },
-  "5a0f1f1b-726b-5817-a2e5-aa501cb262a4": {
-   "date": "Tue, 20 Oct 2026 00:00:00 GMT",
-   "incident": "1770",
-   "link": "https://www.kenyans.co.ke/news/118418-high-court-orders-kbc-delete-employees-biometric-data-over-privacy-breach",
-   "title": "High Court Orders KBC to Delete Employees’ Biometric Data Over Privacy Breach"
+  "544aa8d3-2e18-57d8-bb9f-73095a7ebfd3": {
+   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
+   "incident": "",
+   "link": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+   "title": "Covert underperformance on safety research tasks"
   },
   "5c072b01-a779-53b0-ad8d-b5ec78f73f2d": {
    "date": "Thu, 22 Oct 2026 00:00:00 GMT",
@@ -197,12 +197,6 @@
    "incident": "",
    "link": "https://www.ouest-france.fr/bretagne/culture-bretonne/les-panneaux-seraient-ecrits-par-intelligence-artificielle-a-locronan-cette-traduction-en-breton-ne-passe-pas-e1a0624c-1d50-11f1-bd9a-a7229110a04d",
    "title": "Les panneaux seraient écrits par intelligence artificielle : dans le Finistère, cette traduction en breton ne passe pas"
-  },
-  "6579b303-a241-5029-ad9c-2f3c9b28d2fb": {
-   "date": "Wed, 21 Oct 2026 00:00:00 GMT",
-   "incident": "",
-   "link": "https://spectrumlocalnews.com/nys/central-ny/politics/2026/08/11/democrats-blakeman-ai-depictions-",
-   "title": "As Democrats move to stop Blakeman’s AI depictions, he again claims they’re trying to cheat"
   },
   "679bcd0b-6a7e-57f3-9c9d-22ac13c67c6c": {
    "date": "Sat, 31 Oct 2026 00:00:00 GMT",
@@ -228,6 +222,18 @@
    "link": "https://www.texastribune.org/2026/09/21/texas-goodwin-patrick-ad-police-complaint/",
    "title": "In lieutenant governor race, Vikki Goodwin says Dan Patrick ads are illegal AI deepfakes"
   },
+  "6d51cfd9-4d3a-5d0e-ae9c-c7491d2670e1": {
+   "date": "Wed, 04 Nov 2026 00:00:00 GMT",
+   "incident": "149",
+   "link": "https://jamiewatters.work/journey/zillow-offers-algorithm-failure",
+   "title": "Zillow wrote off $407.9m. The fix everyone recommends would have changed nothing."
+  },
+  "6d8d9a72-8995-5d27-8480-5eaecdd96eb8": {
+   "date": "Sun, 08 Nov 2026 00:00:00 GMT",
+   "incident": "",
+   "link": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+   "title": "Schools can keep search while skipping Gemini, but AI search is non-negotiable"
+  },
   "6dcb5f14-ea26-5880-b927-7180b5cb1d19": {
    "date": "Wed, 21 Oct 2026 00:00:00 GMT",
    "incident": "1772",
@@ -246,17 +252,11 @@
    "link": "https://www.lbcgroup.tv/news/lebanon-news/963208/lebanese-family-sues-openai-over-death-of-15-year-old-mathias-habib-la/en",
    "title": "Lebanese family sues OpenAI over death of 15-year-old Mathias Habib: Lawsuit details alleged ChatGPT safety failures"
   },
-  "713f5a61-af0e-54ad-9f94-b6ecac6ce80e": {
-   "date": "Tue, 20 Oct 2026 00:00:00 GMT",
-   "incident": "1771",
-   "link": "https://www.the-star.co.ke/news/2025-12-04-ai-system-flaws-push-sha-into-chaos-mps",
-   "title": "AI system flaws push SHA into chaos, MPs say in explosive report"
-  },
-  "7406b59d-2fc9-58ed-8ebc-075292f672cb": {
-   "date": "Wed, 21 Oct 2026 00:00:00 GMT",
-   "incident": "",
-   "link": "https://fox56news.com/news/kentucky/dembo-campaign-says-ai-used-in-trump-linked-pac-attack-ad/",
-   "title": "Dembo campaign says AI used in Trump-linked PAC attack ad"
+  "72253847-2f0c-5c30-be8c-fc256412bd86": {
+   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
+   "incident": "1807",
+   "link": "https://alignment.openai.com/misalignment-reports/using-a-funded-test-cryptocurrency-wallet-without-authorization",
+   "title": "Using a funded test cryptocurrency wallet without authorization"
   },
   "749b279c-3bc6-529c-9a00-c088e2566aa6": {
    "date": "Sat, 24 Oct 2026 00:00:00 GMT",
@@ -294,6 +294,12 @@
    "link": "https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/",
    "title": "Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance"
   },
+  "84354135-98f1-5fc1-9562-0963b9ecc122": {
+   "date": "Sun, 08 Nov 2026 00:00:00 GMT",
+   "incident": "1814",
+   "link": "https://www.nytimes.com/2026/10/27/well/ai-chatgpt-medication-epilepsy-death.html",
+   "title": "She Trusted ChatGPT With Her Medication Decisions. It Cost Her Everything."
+  },
   "86078b3c-9384-5c9a-9a5c-370cee271705": {
    "date": "Sat, 31 Oct 2026 00:00:00 GMT",
    "incident": "",
@@ -318,12 +324,6 @@
    "link": "https://blog.rubygems.org/2026/09/11/update-may-spam-publishing-campaign.html",
    "title": "An update on the May spam-publishing campaign on rubygems.org"
   },
-  "92ff6150-e3c9-5098-baa8-11d174ff8091": {
-   "date": "Mon, 19 Oct 2026 00:00:00 GMT",
-   "incident": "1763",
-   "link": "https://tribunademinas.com.br/noticias/cidade/10-06-2026/pjf-acao-central-estadual-regulacao-leitos-saude.html",
-   "title": "PJF move ação civil pública contra nova central estadual de regulação de leitos na saúde"
-  },
   "93b059d0-6d71-5226-a00c-f471c2c38381": {
    "date": "Sat, 24 Oct 2026 00:00:00 GMT",
    "incident": "1781",
@@ -341,6 +341,18 @@
    "incident": "1801",
    "link": "https://www.ambitojuridico.com/sites/default/files/2026-02/Sent-STP-219732025%28150278%29-25.pdf",
    "title": "STP21973-2025"
+  },
+  "98b74266-ca78-543d-a487-0f62f2174b10": {
+   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
+   "incident": "",
+   "link": "https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring",
+   "title": "Suppressing misalignment monitoring alerts and disabling misalignment monitoring"
+  },
+  "9d084e5d-a336-5950-8fd8-225e08234dd1": {
+   "date": "Sun, 08 Nov 2026 00:00:00 GMT",
+   "incident": "1812",
+   "link": "https://www.edweek.org/technology/lawsuit-blames-a-school-issued-chromebook-for-students-mental-health-crisis/2026/11",
+   "title": "Lawsuit Blames a School-Issued Chromebook for Student’s Mental Health Crisis"
   },
   "9d2ad9a5-1808-53d3-beef-02250a8e6240": {
    "date": "Wed, 21 Oct 2026 00:00:00 GMT",
@@ -360,11 +372,11 @@
    "link": "https://alignment.openai.com/misalignment-reports/unauthorized-communication-via-temporary-file-hosting-services/",
    "title": "Unauthorized communication via temporary file hosting services"
   },
-  "a0966a6c-a085-56e3-a6c8-546027c10a22": {
-   "date": "Wed, 21 Oct 2026 00:00:00 GMT",
-   "incident": "",
-   "link": "https://www.wect.com/2026/09/03/wect-investigates-michael-lee-hit-with-cease-desist-over-ai-ad/",
-   "title": "WECT INVESTIGATES: Michael Lee hit with cease and desist over AI ad"
+  "a0e59077-dff5-5065-942d-4993f45350ec": {
+   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
+   "incident": "1810",
+   "link": "https://workos.com/security/bulletins/update-for-october-30th-2026-data-security-incident",
+   "title": "Update for October 30th, 2026 Data Security Incident"
   },
   "a3baf11b-fb51-5fce-87ba-318a979fa9c8": {
    "date": "Sat, 24 Oct 2026 00:00:00 GMT",
@@ -378,35 +390,23 @@
    "link": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
    "title": "AI bots flooded 2023 UK government consultation on disposable vapes ban"
   },
-  "aa7c9bba-7a6e-5bbd-9757-36f97a5f4103": {
-   "date": "Wed, 21 Oct 2026 00:00:00 GMT",
-   "incident": "1775",
-   "link": "https://www.washingtonpost.com/politics/2026/09/30/secret-weapon-or-slopaganda-how-ai-is-revolutionizing-campaign-advertising/",
-   "title": "Secret weapon or ‘slopaganda’? How AI is revolutionizing campaign advertising."
-  },
   "aff331a7-c253-5ec3-8541-7cb9c1a45d02": {
    "date": "Thu, 29 Oct 2026 00:00:00 GMT",
    "incident": "1793",
    "link": "https://politifact.com/factchecks/2026/oct/22/tweets/russian-disinformation-group-targets-james-talarico-with-baseless-claim-in-ai-generated-video/",
    "title": "Russian disinformation group targets James Talarico with baseless claim in AI-generated video"
   },
-  "b0a0bec5-9c40-5c94-95e1-a7ebc1a584b7": {
-   "date": "Tue, 20 Oct 2026 00:00:00 GMT",
-   "incident": "1771",
-   "link": "https://www.the-star.co.ke/news/2025-10-15-mps-lay-bare-sha-flaws-as-duale-defends-programme",
-   "title": "MPs lay bare rot in SHA as Duale defends programme"
+  "b087c198-5bc1-5d14-8df7-3f8020016fa3": {
+   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
+   "incident": "",
+   "link": "https://transluce.org/investigations/blog/public-benchmark-runs",
+   "title": "Agents circumventing website restrictions for public benchmark runs"
   },
   "b1dcf400-88f8-5706-a71e-32b6ca34851b": {
    "date": "Sat, 07 Nov 2026 00:00:00 GMT",
    "incident": "1801",
    "link": "https://archivodigitalapi.cortesuprema.gov.co/share/2026/3/Relevantes/INFORME%20RELEVANTES%208.pdf",
    "title": "Relevantes"
-  },
-  "b42e42e1-5eb6-58c4-b5be-311e24e16db8": {
-   "date": "Tue, 20 Oct 2026 00:00:00 GMT",
-   "incident": "1770",
-   "link": "https://sheriahub.com/cases/ke/caselaw/kenya-union-of-journalists-v-kenya-broadcasting-corporation-2025-kehc-17216-klr",
-   "title": "Kenya Union of Journalists v Kenya Broadcasting Corporation [2025] KEHC 17216 (KLR) - Judicial Review Miscellaneous Application E355 of 2025"
   },
   "b5a1ddd6-9bd8-524b-a4ad-c421c567bf89": {
    "date": "Thu, 22 Oct 2026 00:00:00 GMT",
@@ -425,6 +425,12 @@
    "incident": "1786",
    "link": "https://www.sfgate.com/bayarea/article/tesla-crash-solano-county-pedestrian-22489807.php",
    "title": "SF man operating self-driving Tesla hits, kills pedestrian on I-80, CHP says"
+  },
+  "b8c0aec3-5244-523c-a489-656245a8eafd": {
+   "date": "Fri, 06 Nov 2026 00:00:00 GMT",
+   "incident": "",
+   "link": "https://www.fogsecurity.io/blog/google-gemini-safety-bypass-image-download",
+   "title": "The Safety Filter Refused. The AI Agent Delivered Anyway."
   },
   "b8ce031c-e8cc-5b7f-8a98-dfbf20818be3": {
    "date": "Sat, 07 Nov 2026 00:00:00 GMT",
@@ -468,11 +474,11 @@
    "link": "https://opgelicht.avrotros.nl/nieuws/politie-waarschuwt-voor-nieuwe-truc-bij-bankhelpdeskfraude-380000-euro-buitgemaakt-20602",
    "title": "Politie waarschuwt voor nieuwe truc bij bankhelpdeskfraude: 380.000 euro buitgemaakt"
   },
-  "c6f7ff36-dc31-57ab-b8ef-a90c0f633add": {
-   "date": "Wed, 21 Oct 2026 00:00:00 GMT",
-   "incident": "",
-   "link": "https://www.dailysignal.com/2026/09/04/ossoff-conference-senate-ad/",
-   "title": "Ossoff Holds Virtual Conference as New Makeup Ad Drops"
+  "c785983a-717c-532d-ae7d-bcbd716afeb7": {
+   "date": "Sun, 08 Nov 2026 00:00:00 GMT",
+   "incident": "1812",
+   "link": "https://www.reuters.com/business/google-faces-claims-student-used-ai-chat-us-school-laptop-plan-suicide-attempt-2026-11-05/",
+   "title": "Google faces claims student used AI chat on US school laptop to plan suicide attempt"
   },
   "caf680bd-4478-5808-865a-da1b521c150e": {
    "date": "Sat, 24 Oct 2026 00:00:00 GMT",
@@ -480,17 +486,23 @@
    "link": "https://www.reuters.com/technology/chinese-linked-hackers-compromise-connectwise-target-hundreds-global-attack-2026-10-21/",
    "title": "Chinese-linked hackers compromise ConnectWise, target hundreds in global attack, Microsoft says"
   },
-  "cc76257a-ef6f-51af-8d82-d6967093a159": {
-   "date": "Wed, 21 Oct 2026 00:00:00 GMT",
-   "incident": "",
-   "link": "https://www.motherjones.com/politics/2026/08/an-infamous-attack-ad-just-got-an-ai-resurrection/",
-   "title": "An Infamous Attack Ad Just Got an AI Resurrection"
-  },
   "d1d54121-6833-5a7f-9803-f524704b7c21": {
    "date": "Wed, 21 Oct 2026 00:00:00 GMT",
    "incident": "",
    "link": "https://politifact.com/article/2026/jun/22/talarico-artificial-intelligence-ads-senate-texas/",
    "title": "AI ads skewed Talarico’s words and positions. It’s part of a changing scene in political advertising"
+  },
+  "d2cc8481-6367-5e16-a48d-d28be2e4abdd": {
+   "date": "Mon, 26 Oct 2026 00:00:00 GMT",
+   "incident": "",
+   "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+   "title": "Concerning behavior from a popular open-weight AI model"
+  },
+  "d5571e48-6698-5e9a-8dfc-7f18b8c882d1": {
+   "date": "Sun, 08 Nov 2026 00:00:00 GMT",
+   "incident": "1811",
+   "link": "https://timesofsandiego.com/crime/2026/06/07/a-flock-license-plate-reader-linked-a-san-diego-man-to-a-violent-crime-he-was-five-miles-away/",
+   "title": "A Flock license plate reader linked a San Diego man to a violent crime. He was five miles away."
   },
   "d5773281-7e16-5cd7-81d7-406ad5a2587f": {
    "date": "Sat, 07 Nov 2026 00:00:00 GMT",
@@ -522,12 +534,6 @@
    "link": "https://research.jfrog.com/post/gemstuffer-openai-rubygems/",
    "title": "New packages identified in GemStuffer 'OpenAI Swarm' malicious RubyGems campaign"
   },
-  "dffa928c-1a4a-53d4-8d8b-6c940fc2dd4a": {
-   "date": "Tue, 20 Oct 2026 00:00:00 GMT",
-   "incident": "1771",
-   "link": "https://eastleighvoice.co.ke/health/248335/mps-flag-systemic-failures-undermining-social-health-authority",
-   "title": "MPs flag systemic failures undermining Social Health Authority"
-  },
   "e5843738-8535-5b88-aeb1-733561f30db5": {
    "date": "Sat, 31 Oct 2026 00:00:00 GMT",
    "incident": "1796",
@@ -558,17 +564,17 @@
    "link": "https://www.alaraby.com/news/%D9%85%D8%B1%D8%A7%D9%87%D9%82-%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A-%D8%B6%D8%AD%D9%8A%D8%A9-%D9%84%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%85%D8%A7-%D8%B9%D9%84%D8%A7%D9%82%D8%A9-%D8%AA%D8%B4%D8%A7%D8%AA-%D8%AC%D9%8A-%D8%A8%D9%8A-%D8%AA%D9%8A-%D8%A8%D9%85%D9%82%D8%AA%D9%84%D9%87",
    "title": "مراهق لبناني ضحية للذكاء الاصطناعي.. ما علاقة تشات جي بي تي بمقتله؟"
   },
-  "f40f65db-05d8-5213-82d4-739f0fe7f634": {
-   "date": "Wed, 21 Oct 2026 00:00:00 GMT",
-   "incident": "",
-   "link": "https://coloradonewsline.com/2026/08/24/cathy-kipp-first-complaint-deepfake-disclosure-law/",
-   "title": "Colorado Sen. Cathy Kipp submits first complaint under state’s deepfake disclosure law"
-  },
   "f6c69ec1-e7f3-5629-b53e-973daccd57fc": {
    "date": "Sat, 31 Oct 2026 00:00:00 GMT",
    "incident": "1797",
    "link": "https://www.wsj.com/tech/ai/cyberattack-by-rogue-ai-swarm-stokes-fears-of-out-of-control-agents-473a0352",
    "title": "Cyberattack by Rogue AI Swarm Stokes Fears of Out-of-Control Agents"
+  },
+  "f8532531-2afb-5552-95d7-2be6da4830ec": {
+   "date": "Thu, 29 Oct 2026 00:00:00 GMT",
+   "incident": "1808",
+   "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+   "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System"
   },
   "f9af719b-7e4b-56f1-85f9-fb34819b16ea": {
    "date": "Sat, 07 Nov 2026 00:00:00 GMT",
@@ -576,23 +582,17 @@
    "link": "https://www.eltiempo.com/justicia/cortes/las-claves-del-reproche-de-la-corte-suprema-por-borrador-de-condena-hecho-con-ia-antes-de-concluir-el-juicio-3531379",
    "title": "Las claves del reproche de la Corte Suprema por un borrador de condena hecho con IA antes de concluir el juicio"
   },
-  "f9b0a601-1eae-56cb-bcb8-a6a19e0557b8": {
-   "date": "Mon, 19 Oct 2026 00:00:00 GMT",
-   "incident": "1763",
-   "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/06/11/psicologa-morre-apos-5-dias-de-espera-por-leito-em-mg-familia-contesta-novo-sistema-de-regulacao.ghtml",
-   "title": "Psicóloga morre após esperar cinco dias por vaga de UTI em MG; família questiona sistema que distribui leitos"
-  },
   "fa949e1c-ec73-52da-b245-f8953478e900": {
    "date": "Sat, 07 Nov 2026 00:00:00 GMT",
    "incident": "1805",
    "link": "https://www.reuters.com/business/retail-consumer/chinas-tencent-says-ai-agents-showed-unintended-browsing-behaviour-2026-10-16/",
    "title": "China's Tencent says AI agents showed unintended browsing behaviour"
   },
-  "fc7031d0-5646-5fa6-8b26-91f4a892bb1d": {
-   "date": "Wed, 21 Oct 2026 00:00:00 GMT",
-   "incident": "",
-   "link": "https://www.factcheck.org/2026/09/paxtons-ai-heavy-ad-leaves-out-context-of-talarico-remarks-about-christianity/",
-   "title": "Paxton’s AI-Heavy Ad Leaves Out Context of Talarico Remarks About Christianity"
+  "fc94fbfb-8e5e-5b0a-8314-3b10b2fe4fab": {
+   "date": "Sun, 08 Nov 2026 00:00:00 GMT",
+   "incident": "1813",
+   "link": "https://caselaw.nationalarchives.gov.uk/ewhc/admin/2025/1383",
+   "title": "Frederick Ayinde, R (on the application of) v The London Borough of Haringey"
   },
   "fefe0e2f-53af-5542-aa22-8a9cae9269bf": {
    "date": "Sat, 07 Nov 2026 00:00:00 GMT",
@@ -604,7 +604,7 @@
  "Epoch AI data": {
   "https://epoch.ai/benchmarks": {
    "title": "Capabilities & benchmarking",
-   "updated": "Nov. 8, 2026"
+   "updated": "Nov. 9, 2026"
   },
   "https://epoch.ai/data/ai-chip-components": {
    "title": "AI chip components",
@@ -640,11 +640,11 @@
   },
   "https://epoch.ai/data/ai-research-use": {
    "title": "AI use in research",
-   "updated": "Oct. 30, 2026"
+   "updated": "Nov. 9, 2026"
   },
   "https://epoch.ai/data/arxiv": {
    "title": "AI use in math research",
-   "updated": "Oct. 6, 2026"
+   "updated": "Nov. 9, 2026"
   },
   "https://epoch.ai/data/chatgpt-usage": {
    "title": "ChatGPT usage",
@@ -652,11 +652,11 @@
   },
   "https://epoch.ai/data/cve": {
    "title": "Cyber vulnerabilities",
-   "updated": "Nov. 8, 2026"
+   "updated": "Nov. 9, 2026"
   },
   "https://epoch.ai/data/frontier-lab-hiring": {
    "title": "Frontier Lab Hiring",
-   "updated": "Nov. 8, 2026"
+   "updated": "Nov. 9, 2026"
   },
   "https://epoch.ai/data/gpu-clusters": {
    "title": "GPU clusters",
