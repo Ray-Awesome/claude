@@ -12,12 +12,6 @@
    "link": "https://epoch.ai/publications/incident-report-ai-agents-attempted-exploits-on-our-website",
    "title": "Incident report: AI agents attempted exploits on our website during a third-party alignment evaluation"
   },
-  "0566aeb9-395e-58b6-b5d6-7c4e46530c49": {
-   "date": "Sat, 31 Oct 2026 00:00:00 GMT",
-   "incident": "1794",
-   "link": "https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/",
-   "title": "VAPOR PANDA Uses AI-Driven ARTEX to Scale a Global Espionage Campaign"
-  },
   "0a24a106-f9e9-5c6a-b7d7-0a710975890a": {
    "date": "Sat, 07 Nov 2026 00:00:00 GMT",
    "incident": "",
@@ -54,6 +48,12 @@
    "link": "https://www.city.toyooka.lg.jp/_res/projects/default_project/_page_/001/039/464/20261109-2.pdf",
    "title": "「豊岡市自動運転バス実証運行」の休止について"
   },
+  "15f9e298-daf9-513a-99e0-397130481982": {
+   "date": "Mon, 16 Nov 2026 00:00:00 GMT",
+   "incident": "1830",
+   "link": "https://www.irishnews.com/entertainment/ioan-gruffudd-warns-of-distressing-scams-using-explicit-ai-content-of-him-FUSMQ2VQQVK3TGQXBJGCW7HGY4/",
+   "title": "Ioan Gruffudd warns of ‘distressing’ scams using ‘explicit’ AI content of him"
+  },
   "178b6ce2-e49c-5251-80cf-8af3b7129bf7": {
    "date": "Sat, 07 Nov 2026 00:00:00 GMT",
    "incident": "",
@@ -65,12 +65,6 @@
    "incident": "1815",
    "link": "https://www.acronis.com/en/tru/posts/bossai-inside-the-ai-attack-mesh-that-targeted-taiwans-emergency-services/",
    "title": "BOSSAI: Inside the AI attack mesh that targeted Taiwan’s emergency services"
-  },
-  "1c5eb0d2-3e57-5a8d-a2b7-3fc36d4378ae": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "1810",
-   "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
-   "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox"
   },
   "1d285973-4241-5b6a-ab39-bb684f4a4b6c": {
    "date": "Sun, 08 Nov 2026 00:00:00 GMT",
@@ -84,11 +78,23 @@
    "link": "https://n.yam.com/Article/20261109371447",
    "title": "兵庫城崎溫泉街自動駕駛巴士免費試乘　11月9日至12月4日平日每天3班"
   },
+  "290ca1a3-9cec-561e-abf4-bcde96b4b257": {
+   "date": "Mon, 16 Nov 2026 00:00:00 GMT",
+   "incident": "1829",
+   "link": "https://abcnews.com/US/dui-suspect-released-after-officer-ai-arrest-report/story?id=138110253",
+   "title": "DUI suspect released after officer used AI in arrest report: Judge"
+  },
   "29131678-3405-5f6b-85c1-4e5884d87fe4": {
    "date": "Sat, 07 Nov 2026 00:00:00 GMT",
    "incident": "1806",
    "link": "https://alignment.openai.com/misalignment-reports/retrieving-server-secrets-and-bypassing-authorization-on-a-government-statistics-website/",
    "title": "Retrieving server secrets and bypassing authorization on a government statistics website"
+  },
+  "29821bfd-efea-5e07-a2a5-6b1aa787ef58": {
+   "date": "Mon, 16 Nov 2026 00:00:00 GMT",
+   "incident": "",
+   "link": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
+   "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows"
   },
   "2aa2ba69-03e8-5a01-841b-d98cb42542e2": {
    "date": "Sun, 15 Nov 2026 00:00:00 GMT",
@@ -114,6 +120,12 @@
    "link": "https://alignment.openai.com/misalignment-reports/damaging-the-task-environment-to-trigger-a-reset/",
    "title": "Damaging the task environment to trigger a reset"
   },
+  "3c864297-a31d-5996-8a5b-e2d3e5972cc3": {
+   "date": "Mon, 16 Nov 2026 00:00:00 GMT",
+   "incident": "1832",
+   "link": "https://www.channelnewsasia.com/singapore/grab-autonomous-vehicle-traffic-incident-6530421",
+   "title": "Grab autonomous vehicle nearly hits schoolgirl at traffic crossing in Punggol"
+  },
   "3df0f64a-0020-545f-bcc1-95b1d36c54a6": {
    "date": "Sat, 07 Nov 2026 00:00:00 GMT",
    "incident": "",
@@ -125,6 +137,12 @@
    "incident": "1819",
    "link": "https://www.gov.si/en/news/2025-10-27-warning-about-new-misleading-advertisements-misuse-of-the-govsi-podcast/",
    "title": "Warning about new misleading advertisements: misuse of the GOVSI podcast"
+  },
+  "3edf4f74-ddf1-5d04-bd00-6897a06bb19c": {
+   "date": "Mon, 16 Nov 2026 00:00:00 GMT",
+   "incident": "1829",
+   "link": "https://www.abc15.com/news/crime/court-releases-dui-suspect-after-ai-generated-police-report",
+   "title": "Maricopa County court releases DUI suspect after AI-generated police report"
   },
   "40211ee1-d166-555b-9b6b-46ba5e2b101d": {
    "date": "Sat, 14 Nov 2026 00:00:00 GMT",
@@ -156,18 +174,6 @@
    "link": "https://www.tvn-2.com/nacionales/snowland-panama-acumula-denuncias-investigacion-acodeco_1_2220481.html",
    "title": "Snowland Panamá acumula varias denuncias, investigación continúa en curso"
   },
-  "461d7a46-6a76-56ba-986b-e4a9b80c56f3": {
-   "date": "Thu, 05 Nov 2026 00:00:00 GMT",
-   "incident": "1809",
-   "link": "https://www.dailymail.com/news/article-16269737/School-quangos-reports-new-curriculum-using-AI-errors.html",
-   "title": "School quango’s reports on new curriculum were 'made using AI'... and full of ‘errors’"
-  },
-  "49dbea98-3438-5982-a812-8c0092066f18": {
-   "date": "Tue, 03 Nov 2026 00:00:00 GMT",
-   "incident": "123",
-   "link": "https://jamiewatters.work/journey/epic-sepsis-model-accuracy",
-   "title": "Checking the source is not enough: I traced a number to a scientific paper and found a Teams meeting"
-  },
   "518488bc-8194-51c4-94f3-7d512d81b8dc": {
    "date": "Thu, 12 Nov 2026 00:00:00 GMT",
    "incident": "1816",
@@ -180,11 +186,11 @@
    "link": "https://www.paloaltonetworks.com/blog/security-operations/how-a-developer-endpoint-became-the-path-to-binances-6-3b-heist/",
    "title": "How a Developer Endpoint Became the Path to Binance’s $6.3B Heist"
   },
-  "544aa8d3-2e18-57d8-bb9f-73095a7ebfd3": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "",
-   "link": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
-   "title": "Covert underperformance on safety research tasks"
+  "55e87537-bff5-5eae-96bf-ff7bda83acc6": {
+   "date": "Mon, 16 Nov 2026 00:00:00 GMT",
+   "incident": "1829",
+   "link": "https://www.azfamily.com/2026/11/14/maricopa-county-judge-dismisses-dui-case-after-trooper-uses-ai/",
+   "title": "Maricopa County judge dismisses DUI case after trooper uses AI"
   },
   "5725679f-3c8c-55c0-b810-afcaccdef7b9": {
    "date": "Sat, 14 Nov 2026 00:00:00 GMT",
@@ -192,17 +198,17 @@
    "link": "https://www.biobiochile.cl/noticias/nacional/region-de-antofagasta/2026/11/12/camion-autonomo-se-desbarranca-tras-perder-comunicacion-en-rajo-de-minera-centinela-en-antofagasta.shtml",
    "title": "Camión autónomo se desbarranca tras perder comunicación en rajo de Minera Centinela en Antofagasta"
   },
+  "586efe9f-9962-56b4-9dde-c9057325b622": {
+   "date": "Mon, 16 Nov 2026 00:00:00 GMT",
+   "incident": "1831",
+   "link": "https://www.tv3.ee/tv3telekanal/tv3-uudised/tv3-uudised-pakirobot-pohjustas-onnetuse-ja-pogenes-sundmuskohalt/",
+   "title": "TV3 uudised: avarii pakiroboti ja bussi vahel. Uurimine tõestas, et pakirobot ei põgenenud sündmuskohalt"
+  },
   "5df35f07-363d-5f02-becc-878d55b12acf": {
    "date": "Sat, 07 Nov 2026 00:00:00 GMT",
    "incident": "1804",
    "link": "https://alignment.openai.com/misalignment-reports/searching-github-for-leaked-api-keys/",
    "title": "Signing up for disposable emails and searching GitHub for leaked API keys"
-  },
-  "5e81a39b-a1e4-529e-8518-85c6e6883695": {
-   "date": "Sat, 31 Oct 2026 00:00:00 GMT",
-   "incident": "",
-   "link": "https://www.ouest-france.fr/bretagne/culture-bretonne/les-panneaux-seraient-ecrits-par-intelligence-artificielle-a-locronan-cette-traduction-en-breton-ne-passe-pas-e1a0624c-1d50-11f1-bd9a-a7229110a04d",
-   "title": "Les panneaux seraient écrits par intelligence artificielle : dans le Finistère, cette traduction en breton ne passe pas"
   },
   "6245223d-436d-5514-ac3f-1c2b5e7f82ab": {
    "date": "Sat, 14 Nov 2026 00:00:00 GMT",
@@ -215,12 +221,6 @@
    "incident": "1819",
    "link": "https://www.zdravniskazbornica.si/informacije-publikacije-in-analize/obvestila/2026/04/17/kraja-identitete-dr.-erika-breclja",
    "title": "Kraja identitete dr. Erika Breclja"
-  },
-  "679bcd0b-6a7e-57f3-9c9d-22ac13c67c6c": {
-   "date": "Sat, 31 Oct 2026 00:00:00 GMT",
-   "incident": "1795",
-   "link": "https://www.chainalysis.com/blog/security-incident-october-30/",
-   "title": "Chainalysis Security Incident Information"
   },
   "6adf4577-375c-5d3a-80de-221426f7d199": {
    "date": "Sat, 14 Nov 2026 00:00:00 GMT",
@@ -240,12 +240,6 @@
    "link": "https://blog.frontier.security/chinese-model-kimi-k3-breaks-uk-ai-safety-institute-benchmark-evaluations/",
    "title": "Chinese Model Kimi K3 Breaks UK AI Safety Institute Benchmark Evaluations"
   },
-  "6d51cfd9-4d3a-5d0e-ae9c-c7491d2670e1": {
-   "date": "Wed, 04 Nov 2026 00:00:00 GMT",
-   "incident": "149",
-   "link": "https://jamiewatters.work/journey/zillow-offers-algorithm-failure",
-   "title": "Zillow wrote off $407.9m. The fix everyone recommends would have changed nothing."
-  },
   "6d8d9a72-8995-5d27-8480-5eaecdd96eb8": {
    "date": "Sun, 08 Nov 2026 00:00:00 GMT",
    "incident": "",
@@ -258,11 +252,11 @@
    "link": "https://www.tvn-2.com/nacionales/caso-snowland-panama-imponen-multa-acodeco-publicidad-enganosa_1_2262329.html",
    "title": "Cierran caso Snowland Panamá e imponen multa de $25 mil por publicidad engañosa"
   },
-  "72253847-2f0c-5c30-be8c-fc256412bd86": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "1807",
-   "link": "https://alignment.openai.com/misalignment-reports/using-a-funded-test-cryptocurrency-wallet-without-authorization",
-   "title": "Using a funded test cryptocurrency wallet without authorization"
+  "71996b36-66ea-53f9-89ba-440b86e4bd7c": {
+   "date": "Mon, 16 Nov 2026 00:00:00 GMT",
+   "incident": "1831",
+   "link": "https://news.err.ee/1610179027/passengers-injured-after-collision-between-bus-and-delivery-robot-in-tallinn",
+   "title": "Passengers injured after collision between bus and delivery robot in Tallinn"
   },
   "72677ad0-788b-5e2c-8da0-49a8869e4a2b": {
    "date": "Thu, 12 Nov 2026 00:00:00 GMT",
@@ -300,6 +294,12 @@
    "link": "https://www.cronista.com/colombia/actualidad-co/corte-suprema-pone-freno-a-una-escandalosa-sentencia-hecha-con-inteligencia-artificial-nueva-regulacion-para-su-uso/",
    "title": "Corte Suprema pone freno a una escandalosa sentencia hecha con inteligencia artificial: nueva regulación para su uso"
   },
+  "80eefada-e326-5070-8c74-60d93d181c09": {
+   "date": "Mon, 16 Nov 2026 00:00:00 GMT",
+   "incident": "1831",
+   "link": "https://rus.err.ee/1610180533/posle-stolknovenija-avtobusa-s-robotom-dostavwikom-starship-planiruet-programmnye-izmenenija",
+   "title": "После столкновения автобуса с роботом-доставщиком Starship планирует программные изменения"
+  },
   "82005104-ac89-51e8-b918-62b77c7a67aa": {
    "date": "Sat, 14 Nov 2026 00:00:00 GMT",
    "incident": "1821",
@@ -324,6 +324,12 @@
    "link": "https://www.hoy.com.py/nacionales/2025/03/05/fue-confundido-con-un-ladron-por-error-en-sistema-de-reconocimiento-facial",
    "title": "Fue confundido con un ladrón por error en sistema de reconocimiento facial"
   },
+  "91865d60-cb60-5221-b920-a6e0eb630506": {
+   "date": "Mon, 16 Nov 2026 00:00:00 GMT",
+   "incident": "1830",
+   "link": "https://www.tmz.com/2026/11/09/ioan-gruffudd-criticizes-artificial-intelligence-scam/",
+   "title": "Ioan Gruffudd Calls for A.I. Regulation After Fan Gets Scammed By Imposter"
+  },
   "93ec25a7-6248-5427-86c3-2093a09ce519": {
    "date": "Thu, 12 Nov 2026 00:00:00 GMT",
    "incident": "1818",
@@ -335,12 +341,6 @@
    "incident": "1824",
    "link": "https://focustaiwan.tw/society/202609020019",
    "title": "57 indicted over NT$900 million voice-cloning romance scam"
-  },
-  "95e212c6-7869-5978-a0e2-aae4ba4f5e9b": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "",
-   "link": "https://alignment.openai.com/misalignment-reports/circumventing-internet-restrictions-through-an-external-browser",
-   "title": "Circumventing internet restrictions through an external browser"
   },
   "964fe787-090a-577b-8040-b3ce0d7fadec": {
    "date": "Sat, 07 Nov 2026 00:00:00 GMT",
@@ -359,12 +359,6 @@
    "incident": "1826",
    "link": "https://turnto10.com/news/local/north-smithfield-man-accused-of-creating-ai-generated-child-sexual-abuse-material-instructor-gymnastics-dance-facilities-artificial-intelligence-november-10-2026",
    "title": "North Smithfield man accused of creating AI-generated child sexual abuse material"
-  },
-  "98b74266-ca78-543d-a487-0f62f2174b10": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "",
-   "link": "https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring",
-   "title": "Suppressing misalignment monitoring alerts and disabling misalignment monitoring"
   },
   "9b8343f4-d29f-5493-9cc9-a4fd8b4bfca0": {
    "date": "Sat, 14 Nov 2026 00:00:00 GMT",
@@ -390,23 +384,11 @@
    "link": "https://alignment.openai.com/misalignment-reports/unauthorized-communication-via-temporary-file-hosting-services/",
    "title": "Unauthorized communication via temporary file hosting services"
   },
-  "a0e59077-dff5-5065-942d-4993f45350ec": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "1810",
-   "link": "https://workos.com/security/bulletins/update-for-october-30th-2026-data-security-incident",
-   "title": "Update for October 30th, 2026 Data Security Incident"
-  },
   "a636f815-d052-5fe6-a8e4-9b37add9e305": {
    "date": "Sun, 15 Nov 2026 00:00:00 GMT",
    "incident": "",
    "link": "https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38",
    "title": "United Airlines Is Banning AI Bots From Booking Flights"
-  },
-  "b087c198-5bc1-5d14-8df7-3f8020016fa3": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "",
-   "link": "https://transluce.org/investigations/blog/public-benchmark-runs",
-   "title": "Agents circumventing website restrictions for public benchmark runs"
   },
   "b1dcf400-88f8-5706-a71e-32b6ca34851b": {
    "date": "Sat, 07 Nov 2026 00:00:00 GMT",
@@ -420,6 +402,12 @@
    "link": "https://www.trajectorylabs.com/blog/gemini-4-argon-behavior-during-misalignment-testing",
    "title": "Gemini 4 Argon’s behavior during misalignment testing"
   },
+  "b4336722-5349-530c-868f-eaf491614315": {
+   "date": "Mon, 16 Nov 2026 00:00:00 GMT",
+   "incident": "1831",
+   "link": "https://rus.err.ee/1610178913/v-tallinne-avtobus-stolknulsja-s-robotom-dostavwikom-est-postradavshie",
+   "title": "В Таллинне автобус столкнулся с роботом-доставщиком: есть пострадавшие"
+  },
   "b5bd93e3-d3b2-5d30-b2bb-65c602ee7147": {
    "date": "Sat, 07 Nov 2026 00:00:00 GMT",
    "incident": "",
@@ -431,12 +419,6 @@
    "incident": "1828",
    "link": "https://www.fathom.news/ai-agent-exploits-epoch-website/",
    "title": "Rogue AI Agents Posed As Epoch Staff And Tried To Hack Its Website"
-  },
-  "b8c0aec3-5244-523c-a489-656245a8eafd": {
-   "date": "Fri, 06 Nov 2026 00:00:00 GMT",
-   "incident": "",
-   "link": "https://www.fogsecurity.io/blog/google-gemini-safety-bypass-image-download",
-   "title": "The Safety Filter Refused. The AI Agent Delivered Anyway."
   },
   "b8ce031c-e8cc-5b7f-8a98-dfbf20818be3": {
    "date": "Sat, 07 Nov 2026 00:00:00 GMT",
@@ -462,6 +444,18 @@
    "link": "https://www.taipeitimes.com/News/front/archives/2026/09/03/2003863596",
    "title": "Prosecutors indict 57 over AI-powered romance scam"
   },
+  "bee7f651-0532-575e-bbfd-02980fb48d76": {
+   "date": "Mon, 16 Nov 2026 00:00:00 GMT",
+   "incident": "1832",
+   "link": "https://www.straitstimes.com/singapore/near-accident-between-autonomous-vehicle-and-girl-in-punggol-being-reviewed-grab",
+   "title": "AV on trial in Punggol nearly hits girl; Grab directed to narrow testing as LTA probes near miss"
+  },
+  "bf66502e-e2d8-5e7f-ad5f-a78b2faf1722": {
+   "date": "Mon, 16 Nov 2026 00:00:00 GMT",
+   "incident": "1830",
+   "link": "https://www.thewrap.com/creative-content/movies/ioan-gruffudd-ai-scam-explicit-disturbing-images-fan-romance/",
+   "title": "Ioan Gruffudd Says ‘Explicit and Disturbing’ AI Scam Convinced Fan They Had an Illicit Romance"
+  },
   "c24adfa3-707f-5aba-b94b-021d56a1d042": {
    "date": "Sat, 14 Nov 2026 00:00:00 GMT",
    "incident": "1823",
@@ -473,6 +467,12 @@
    "incident": "1812",
    "link": "https://www.reuters.com/business/google-faces-claims-student-used-ai-chat-us-school-laptop-plan-suicide-attempt-2026-11-05/",
    "title": "Google faces claims student used AI chat on US school laptop to plan suicide attempt"
+  },
+  "c81e0652-7f96-5d02-b60a-1a18b2d5b98c": {
+   "date": "Mon, 16 Nov 2026 00:00:00 GMT",
+   "incident": "1832",
+   "link": "https://www.asiaone.com/singapore/grab-autonomous-shuttle-punggol-pedestrian-crossing",
+   "title": "Grab reviewing incident after autonomous shuttle fails to give way to woman, child at Punggol crossing"
   },
   "cafac700-5e47-5336-bfe4-93b0fbae3c6b": {
    "date": "Thu, 12 Nov 2026 00:00:00 GMT",
@@ -498,6 +498,12 @@
    "link": "https://abcnews.com/US/trio-ai-impersonate-corporate-execs-defrauding-companies-130/story?id=137894421",
    "title": "Trio used AI to impersonate corporate execs, defrauding companies of nearly $130 million: DOJ"
   },
+  "d744cace-782e-5d6c-928c-a934fd88cd80": {
+   "date": "Mon, 16 Nov 2026 00:00:00 GMT",
+   "incident": "1832",
+   "link": "https://www.channelnewsasia.com/singapore/lta-grab-pause-av-vehicle-testing-punggol-near-miss-schoolgirl-6531876",
+   "title": "LTA directs Grab to pause some AV testing after near miss with schoolgirl in Punggol"
+  },
   "d79484dc-28f1-5841-ba68-dd348578f30d": {
    "date": "Sat, 14 Nov 2026 00:00:00 GMT",
    "incident": "1826",
@@ -516,29 +522,23 @@
    "link": "https://www.wsj.com/finance/ai-bots-are-using-credit-cards-banks-are-racing-to-keep-up-c30dda30",
    "title": "AI Bots Are Using Credit Cards. Banks Are Racing to Keep Up."
   },
+  "dc70832a-f33d-5ac7-b561-f17f23ff858a": {
+   "date": "Mon, 16 Nov 2026 00:00:00 GMT",
+   "incident": "1831",
+   "link": "https://news.err.ee/1610180470/starship-plans-software-changes-to-improve-delivery-robots-safety",
+   "title": "Starship plans software changes to improve delivery robots' safety"
+  },
   "e3bb85bc-0e1d-5680-b083-1e4951725563": {
    "date": "Sat, 14 Nov 2026 00:00:00 GMT",
    "incident": "1822",
    "link": "https://elnacional.com.py/nacionales/joven-denuncia-fue-tratado-como-ladron-expulsado-biggie-san-lorenzo-n82260",
    "title": "Joven denuncia que fue tratado como ladrón y expulsado de un Biggie en San Lorenzo"
   },
-  "e5843738-8535-5b88-aeb1-733561f30db5": {
-   "date": "Sat, 31 Oct 2026 00:00:00 GMT",
-   "incident": "1796",
-   "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/",
-   "title": "CrowdStrike Uncovers New Agentic AI Campaigns"
-  },
   "ed366a7f-c0c0-5475-b2ad-d9479da97ee0": {
    "date": "Sat, 07 Nov 2026 00:00:00 GMT",
    "incident": "1805",
    "link": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
    "title": "We found a Tencent agent fleet"
-  },
-  "ef368cad-a7d0-5f6d-b937-579c1cf2002a": {
-   "date": "Sat, 31 Oct 2026 00:00:00 GMT",
-   "incident": "1795",
-   "link": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
-   "title": "Chainalysis discloses data breach from \"offensive agentic techniques\""
   },
   "f0ceca04-ae8b-5fb2-9438-e67ffc4b4629": {
    "date": "Thu, 12 Nov 2026 00:00:00 GMT",
@@ -604,7 +604,7 @@
  "Epoch AI data": {
   "https://epoch.ai/benchmarks": {
    "title": "Capabilities & benchmarking",
-   "updated": "Nov. 17, 2026"
+   "updated": "Nov. 18, 2026"
   },
   "https://epoch.ai/data/ai-chip-components": {
    "title": "AI chip components",
@@ -636,7 +636,7 @@
   },
   "https://epoch.ai/data/ai-models": {
    "title": "AI models",
-   "updated": "Nov. 16, 2026"
+   "updated": "Nov. 17, 2026"
   },
   "https://epoch.ai/data/ai-research-use": {
    "title": "AI use in research",
@@ -652,11 +652,11 @@
   },
   "https://epoch.ai/data/cve": {
    "title": "Cyber vulnerabilities",
-   "updated": "Nov. 17, 2026"
+   "updated": "Nov. 18, 2026"
   },
   "https://epoch.ai/data/frontier-lab-hiring": {
    "title": "Frontier Lab Hiring",
-   "updated": "Nov. 17, 2026"
+   "updated": "Nov. 18, 2026"
   },
   "https://epoch.ai/data/gpu-clusters": {
    "title": "GPU clusters",
@@ -664,7 +664,7 @@
   },
   "https://epoch.ai/data/machine-learning-hardware": {
    "title": "Machine learning hardware",
-   "updated": "Nov. 16, 2026"
+   "updated": "Nov. 17, 2026"
   },
   "https://epoch.ai/data/polling": {
    "title": "Polling on AI usage",
