@@ -604,7 +604,7 @@
  "Epoch AI data": {
   "https://epoch.ai/benchmarks": {
    "title": "Capabilities & benchmarking",
-   "updated": "Nov. 18, 2026"
+   "updated": "Nov. 19, 2026"
   },
   "https://epoch.ai/data/ai-chip-components": {
    "title": "AI chip components",
@@ -620,7 +620,7 @@
   },
   "https://epoch.ai/data/ai-chip-sales": {
    "title": "AI chip sales",
-   "updated": "Oct. 21, 2026"
+   "updated": "Nov. 18, 2026"
   },
   "https://epoch.ai/data/ai-chip-users": {
    "title": "AI chip users",
@@ -632,7 +632,7 @@
   },
   "https://epoch.ai/data/ai-data-centers": {
    "title": "AI data centers",
-   "updated": "Nov. 12, 2026"
+   "updated": "Nov. 18, 2026"
   },
   "https://epoch.ai/data/ai-models": {
    "title": "AI models",
@@ -652,11 +652,11 @@
   },
   "https://epoch.ai/data/cve": {
    "title": "Cyber vulnerabilities",
-   "updated": "Nov. 18, 2026"
+   "updated": "Nov. 19, 2026"
   },
   "https://epoch.ai/data/frontier-lab-hiring": {
    "title": "Frontier Lab Hiring",
-   "updated": "Nov. 18, 2026"
+   "updated": "Nov. 19, 2026"
   },
   "https://epoch.ai/data/gpu-clusters": {
    "title": "GPU clusters",
@@ -684,8 +684,8 @@
   "https://oecd.ai/en/wonk/can-the-finance-sector-oversee-ai-innovation-while-maintaining-its-rapid-progress": {
    "title": "can the finance sector oversee ai innovation while maintaining its rapid progress"
   },
-  "https://oecd.ai/en/wonk/establishing-the-shared-foundations-for-collective-ai-security": {
-   "title": "establishing the shared foundations for collective ai security"
+  "https://oecd.ai/en/wonk/from-dialogue-to-delivery-making-ai-governance-work-in-southeast-asia": {
+   "title": "from dialogue to delivery making ai governance work in southeast asia"
   },
   "https://oecd.ai/en/wonk/governing-with-agentic-ai-when-machines-act-on-governments-behalf": {
    "title": "governing with agentic ai when machines act on governments behalf"
