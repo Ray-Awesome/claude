@@ -72,6 +72,12 @@
    "link": "https://schenklawfirm.com/press/wan/complaint.pdf",
    "title": "Wan et al. v. OpenAI, Inc. et al. — Complaint and Demand for Jury Trial"
   },
+  "1dcf2634-e3f2-5139-8e68-40579e0ad8f7": {
+   "date": "Wed, 18 Nov 2026 00:00:00 GMT",
+   "incident": "1834",
+   "link": "https://www.theregister.com/cyber-crime/2026/10/28/123-reg-discloses-ai-cyberattack-on-customer-data-suspects-china-nexus/5305936",
+   "title": "123 Reg discloses 'AI cyberattack' on customer data, suspects China nexus"
+  },
   "2735012c-ce3c-55f0-8012-e5a20fd4a744": {
    "date": "Sat, 14 Nov 2026 00:00:00 GMT",
    "incident": "1825",
@@ -83,12 +89,6 @@
    "incident": "1829",
    "link": "https://abcnews.com/US/dui-suspect-released-after-officer-ai-arrest-report/story?id=138110253",
    "title": "DUI suspect released after officer used AI in arrest report: Judge"
-  },
-  "29131678-3405-5f6b-85c1-4e5884d87fe4": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "1806",
-   "link": "https://alignment.openai.com/misalignment-reports/retrieving-server-secrets-and-bypassing-authorization-on-a-government-statistics-website/",
-   "title": "Retrieving server secrets and bypassing authorization on a government statistics website"
   },
   "29821bfd-efea-5e07-a2a5-6b1aa787ef58": {
    "date": "Mon, 16 Nov 2026 00:00:00 GMT",
@@ -108,17 +108,23 @@
    "link": "https://www.healthcareitnews.com/news/improper-ai-use-leads-another-data-incident-more-patient-notifications",
    "title": "Improper AI use leads to another data incident, more patient notifications"
   },
+  "2af4a6b6-7c1e-5941-826a-a87bc4ad33e2": {
+   "date": "Wed, 18 Nov 2026 00:00:00 GMT",
+   "incident": "1833",
+   "link": "https://www.classaction.org/media/2546000-2546214-hr-v-allegheny-health-network-et-al-complaint.pdf",
+   "title": "H.R. v. Allegheny Health Network and Highmark Health (Class Action Complaint)"
+  },
   "2b3a6e87-78ec-5de9-a57e-85b0c0ed3eee": {
    "date": "Sat, 14 Nov 2026 00:00:00 GMT",
    "incident": "1824",
    "link": "https://www.pbs.npa.gov.tw/ch/app/data/view?id=18740&amp;module=wg183&amp;serno=e709c4f7-7fa1-45ac-bd1e-0e27c0b8714e",
    "title": "刑事局破假愛情詐騙2萬人財損9億  北檢起訴57人求刑25年"
   },
-  "31d20e5a-6b72-500c-9be8-8c212a8c3e7b": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "",
-   "link": "https://alignment.openai.com/misalignment-reports/damaging-the-task-environment-to-trigger-a-reset/",
-   "title": "Damaging the task environment to trigger a reset"
+  "2c0b4fa1-22ca-5345-ab6c-d6250a84eb32": {
+   "date": "Wed, 18 Nov 2026 00:00:00 GMT",
+   "incident": "1834",
+   "link": "https://www.tomsher.com/godaddy-ai-cyberattack-2026",
+   "title": "GoDaddy AI cyberattack 2026, what was exposed and what website owners should do now"
   },
   "3c864297-a31d-5996-8a5b-e2d3e5972cc3": {
    "date": "Mon, 16 Nov 2026 00:00:00 GMT",
@@ -324,6 +330,12 @@
    "link": "https://www.hoy.com.py/nacionales/2025/03/05/fue-confundido-con-un-ladron-por-error-en-sistema-de-reconocimiento-facial",
    "title": "Fue confundido con un ladrón por error en sistema de reconocimiento facial"
   },
+  "8e4d6fd7-c5fa-5ca6-94ff-2bfdac1ee574": {
+   "date": "Wed, 18 Nov 2026 00:00:00 GMT",
+   "incident": "1834",
+   "link": "https://thecudaily.com/godaddy-says-its-been-penetrated-by-its-first-ai-driven-cyber-attack/",
+   "title": "GoDaddy Says Its Been Penetrated by its First AI-Driven Cyber Attack"
+  },
   "91865d60-cb60-5221-b920-a6e0eb630506": {
    "date": "Mon, 16 Nov 2026 00:00:00 GMT",
    "incident": "1830",
@@ -407,12 +419,6 @@
    "incident": "1831",
    "link": "https://rus.err.ee/1610178913/v-tallinne-avtobus-stolknulsja-s-robotom-dostavwikom-est-postradavshie",
    "title": "В Таллинне автобус столкнулся с роботом-доставщиком: есть пострадавшие"
-  },
-  "b5bd93e3-d3b2-5d30-b2bb-65c602ee7147": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "",
-   "link": "https://www.aisi.gov.uk/blog/cheating-behaviour-in-frontier-model-evaluations",
-   "title": "Cheating behaviour in frontier model evaluations"
   },
   "b7e69b42-54ac-52b0-bc62-3b465ac5faf9": {
    "date": "Sun, 15 Nov 2026 00:00:00 GMT",
@@ -534,12 +540,6 @@
    "link": "https://elnacional.com.py/nacionales/joven-denuncia-fue-tratado-como-ladron-expulsado-biggie-san-lorenzo-n82260",
    "title": "Joven denuncia que fue tratado como ladrón y expulsado de un Biggie en San Lorenzo"
   },
-  "ed366a7f-c0c0-5475-b2ad-d9479da97ee0": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "1805",
-   "link": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
-   "title": "We found a Tencent agent fleet"
-  },
   "f0ceca04-ae8b-5fb2-9438-e67ffc4b4629": {
    "date": "Thu, 12 Nov 2026 00:00:00 GMT",
    "incident": "1817",
@@ -576,12 +576,6 @@
    "link": "https://www.eltiempo.com/justicia/cortes/las-claves-del-reproche-de-la-corte-suprema-por-borrador-de-condena-hecho-con-ia-antes-de-concluir-el-juicio-3531379",
    "title": "Las claves del reproche de la Corte Suprema por un borrador de condena hecho con IA antes de concluir el juicio"
   },
-  "fa949e1c-ec73-52da-b245-f8953478e900": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "1805",
-   "link": "https://www.reuters.com/business/retail-consumer/chinas-tencent-says-ai-agents-showed-unintended-browsing-behaviour-2026-10-16/",
-   "title": "China's Tencent says AI agents showed unintended browsing behaviour"
-  },
   "fc812164-952a-597e-9da5-d76afe971b9c": {
    "date": "Sat, 14 Nov 2026 00:00:00 GMT",
    "incident": "1825",
@@ -599,12 +593,18 @@
    "incident": "1803",
    "link": "https://alignment.openai.com/misalignment-reports/reaching-an-internal-eda-host-through-a-reference-tool/",
    "title": "Reaching an internal EDA host through a reference tool"
+  },
+  "fff4a64c-e243-50ec-af67-6ec43f324776": {
+   "date": "Wed, 18 Nov 2026 00:00:00 GMT",
+   "incident": "1833",
+   "link": "https://www.classaction.org/news/allegheny-health-network-highmark-health-used-ai-documentation-tool-without-consent-class-action-suit-claims",
+   "title": "Allegheny Health Network, Highmark Health Used AI Documentation Tool Without Consent, Class Action Suit Claims"
   }
  },
  "Epoch AI data": {
   "https://epoch.ai/benchmarks": {
    "title": "Capabilities & benchmarking",
-   "updated": "Nov. 19, 2026"
+   "updated": "Nov. 20, 2026"
   },
   "https://epoch.ai/data/ai-chip-components": {
    "title": "AI chip components",
@@ -620,7 +620,7 @@
   },
   "https://epoch.ai/data/ai-chip-sales": {
    "title": "AI chip sales",
-   "updated": "Nov. 18, 2026"
+   "updated": "Nov. 19, 2026"
   },
   "https://epoch.ai/data/ai-chip-users": {
    "title": "AI chip users",
@@ -632,11 +632,11 @@
   },
   "https://epoch.ai/data/ai-data-centers": {
    "title": "AI data centers",
-   "updated": "Nov. 18, 2026"
+   "updated": "Nov. 19, 2026"
   },
   "https://epoch.ai/data/ai-models": {
    "title": "AI models",
-   "updated": "Nov. 17, 2026"
+   "updated": "Nov. 20, 2026"
   },
   "https://epoch.ai/data/ai-research-use": {
    "title": "AI use in research",
@@ -652,11 +652,11 @@
   },
   "https://epoch.ai/data/cve": {
    "title": "Cyber vulnerabilities",
-   "updated": "Nov. 19, 2026"
+   "updated": "Nov. 20, 2026"
   },
   "https://epoch.ai/data/frontier-lab-hiring": {
    "title": "Frontier Lab Hiring",
-   "updated": "Nov. 19, 2026"
+   "updated": "Nov. 20, 2026"
   },
   "https://epoch.ai/data/gpu-clusters": {
    "title": "GPU clusters",
@@ -664,7 +664,7 @@
   },
   "https://epoch.ai/data/machine-learning-hardware": {
    "title": "Machine learning hardware",
-   "updated": "Nov. 17, 2026"
+   "updated": "Nov. 19, 2026"
   },
   "https://epoch.ai/data/polling": {
    "title": "Polling on AI usage",
