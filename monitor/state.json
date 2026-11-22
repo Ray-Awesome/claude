@@ -12,11 +12,11 @@
    "link": "https://epoch.ai/publications/incident-report-ai-agents-attempted-exploits-on-our-website",
    "title": "Incident report: AI agents attempted exploits on our website during a third-party alignment evaluation"
   },
-  "0a24a106-f9e9-5c6a-b7d7-0a710975890a": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "",
-   "link": "https://alignment.openai.com/misalignment-reports/unauthorized-artifactory-writes-and-cross-sample-communication/",
-   "title": "Unsanctioned Artifactory writes and cross-sample communication"
+  "00b3a853-261a-5fd7-a6f2-61a816a0336a": {
+   "date": "Sat, 21 Nov 2026 00:00:00 GMT",
+   "incident": "1836",
+   "link": "https://therecord.media/nsa-net-disruptions",
+   "title": "Update: Disruptions in NSA’s internal network caused by software patch, DNI says"
   },
   "0b18c7c0-865d-5cf4-88b0-6c28ea5f5a60": {
    "date": "Sat, 14 Nov 2026 00:00:00 GMT",
@@ -29,6 +29,12 @@
    "incident": "1828",
    "link": "https://cryptobriefing.com/epoch-ai-agents-unauthorized-access-trajectory/",
    "title": "Epoch AI reports AI agents tried to access its website during Trajectory evaluations"
+  },
+  "0b9c77a2-5b69-55ed-a794-0725d79ab7be": {
+   "date": "Sat, 21 Nov 2026 00:00:00 GMT",
+   "incident": "1836",
+   "link": "https://abcnews.com/Technology/wireStory/classified-communications-network-national-security-agency-defense-official-138223663",
+   "title": "Classified communications network at the National Security Agency goes down, defense official says"
   },
   "0c5ea684-6813-5d31-900b-302eaa854003": {
    "date": "Sun, 08 Nov 2026 00:00:00 GMT",
@@ -54,23 +60,23 @@
    "link": "https://www.irishnews.com/entertainment/ioan-gruffudd-warns-of-distressing-scams-using-explicit-ai-content-of-him-FUSMQ2VQQVK3TGQXBJGCW7HGY4/",
    "title": "Ioan Gruffudd warns of ‘distressing’ scams using ‘explicit’ AI content of him"
   },
-  "178b6ce2-e49c-5251-80cf-8af3b7129bf7": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "",
-   "link": "https://alignment.openai.com/misalignment-reports/command-injecting-a-reference-tool-to-copy-a-source-file/",
-   "title": "Command injecting a reference tool to copy a source file"
-  },
   "17f97a38-5950-54c8-8798-e9387192d78b": {
    "date": "Thu, 12 Nov 2026 00:00:00 GMT",
    "incident": "1815",
    "link": "https://www.acronis.com/en/tru/posts/bossai-inside-the-ai-attack-mesh-that-targeted-taiwans-emergency-services/",
    "title": "BOSSAI: Inside the AI attack mesh that targeted Taiwan’s emergency services"
   },
-  "1d285973-4241-5b6a-ab39-bb684f4a4b6c": {
-   "date": "Sun, 08 Nov 2026 00:00:00 GMT",
-   "incident": "1814",
-   "link": "https://schenklawfirm.com/press/wan/complaint.pdf",
-   "title": "Wan et al. v. OpenAI, Inc. et al. — Complaint and Demand for Jury Trial"
+  "1a62dc76-bb87-5267-ac55-7d2642349cb2": {
+   "date": "Sat, 21 Nov 2026 00:00:00 GMT",
+   "incident": "1835",
+   "link": "https://www.sfchronicle.com/sf/article/waymo-service-paused-storm-rain-22537988.php",
+   "title": "Waymo pauses robotaxi service amid San Francisco storms: ‘We were kind of just stuck there’"
+  },
+  "1d34490b-5ba0-5d14-8cf5-abe2adbe4744": {
+   "date": "Sat, 21 Nov 2026 00:00:00 GMT",
+   "incident": "1836",
+   "link": "https://www.cbsnews.com/news/national-security-agency-network-outage-software-vulnerability/",
+   "title": "National Security Agency network outage linked to software vulnerability"
   },
   "1dcf2634-e3f2-5139-8e68-40579e0ad8f7": {
    "date": "Wed, 18 Nov 2026 00:00:00 GMT",
@@ -78,11 +84,23 @@
    "link": "https://www.theregister.com/cyber-crime/2026/10/28/123-reg-discloses-ai-cyberattack-on-customer-data-suspects-china-nexus/5305936",
    "title": "123 Reg discloses 'AI cyberattack' on customer data, suspects China nexus"
   },
+  "24014fc4-126f-5a14-a127-b0b60944f18e": {
+   "date": "Sat, 21 Nov 2026 00:00:00 GMT",
+   "incident": "1836",
+   "link": "https://www.foxbusiness.com/technology/jay-clayton-addresses-concerns-amid-widespread-tech-outages",
+   "title": "Jay Clayton addresses concerns amid widespread tech outages"
+  },
   "2735012c-ce3c-55f0-8012-e5a20fd4a744": {
    "date": "Sat, 14 Nov 2026 00:00:00 GMT",
    "incident": "1825",
    "link": "https://n.yam.com/Article/20261109371447",
    "title": "兵庫城崎溫泉街自動駕駛巴士免費試乘　11月9日至12月4日平日每天3班"
+  },
+  "2771f09c-aefd-58dc-be8a-5c03a7277b72": {
+   "date": "Sat, 21 Nov 2026 00:00:00 GMT",
+   "incident": "1836",
+   "link": "https://www.cbsnews.com/news/nsa-network-down-classified-fort-meade/",
+   "title": "NSA's classified internal network goes down, sources say"
   },
   "290ca1a3-9cec-561e-abf4-bcde96b4b257": {
    "date": "Mon, 16 Nov 2026 00:00:00 GMT",
@@ -126,17 +144,17 @@
    "link": "https://www.tomsher.com/godaddy-ai-cyberattack-2026",
    "title": "GoDaddy AI cyberattack 2026, what was exposed and what website owners should do now"
   },
+  "3c0a82a9-84ed-51cf-9085-4c9eebb5d67a": {
+   "date": "Sat, 21 Nov 2026 00:00:00 GMT",
+   "incident": "1835",
+   "link": "https://www.sfchronicle.com/sf/article/waymo-resumes-service-22539972.php",
+   "title": "Waymo resumes service as more storms loom over Bay Area"
+  },
   "3c864297-a31d-5996-8a5b-e2d3e5972cc3": {
    "date": "Mon, 16 Nov 2026 00:00:00 GMT",
    "incident": "1832",
    "link": "https://www.channelnewsasia.com/singapore/grab-autonomous-vehicle-traffic-incident-6530421",
    "title": "Grab autonomous vehicle nearly hits schoolgirl at traffic crossing in Punggol"
-  },
-  "3df0f64a-0020-545f-bcc1-95b1d36c54a6": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "",
-   "link": "https://alignment.openai.com/misalignment-reports/uploading-files-to-the-internet-in-order-to-cite-them/",
-   "title": "Uploading files to the internet in order to cite them"
   },
   "3e64e2a8-808f-5181-8026-9fead1d3a1b6": {
    "date": "Sat, 14 Nov 2026 00:00:00 GMT",
@@ -162,12 +180,6 @@
    "link": "https://www.redimin.cl/camion-minero-autonomo-pierde-comunicacion-y-termina-desbarrancado-en-minera-centinela",
    "title": "Camión minero autónomo pierde comunicación y termina desbarrancado en Minera Centinela"
   },
-  "45b4f082-b0e4-55ef-81bf-97a64fd3c554": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "1798",
-   "link": "https://www.justice.gov/usao-sdny/media/1470551/dl",
-   "title": "SEALED SUPERSEDING INDICTMENT"
-  },
   "45ce3196-3b75-5378-a5a6-372b16558d4b": {
    "date": "Sun, 15 Nov 2026 00:00:00 GMT",
    "incident": "1828",
@@ -179,6 +191,12 @@
    "incident": "1820",
    "link": "https://www.tvn-2.com/nacionales/snowland-panama-acumula-denuncias-investigacion-acodeco_1_2220481.html",
    "title": "Snowland Panamá acumula varias denuncias, investigación continúa en curso"
+  },
+  "4e084f6a-549b-593e-8a3b-28b91a52fd68": {
+   "date": "Sat, 21 Nov 2026 00:00:00 GMT",
+   "incident": "1836",
+   "link": "https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4650245/nsa-statement-on-network-issues/",
+   "title": "NSA statement on network issues"
   },
   "518488bc-8194-51c4-94f3-7d512d81b8dc": {
    "date": "Thu, 12 Nov 2026 00:00:00 GMT",
@@ -210,11 +228,11 @@
    "link": "https://www.tv3.ee/tv3telekanal/tv3-uudised/tv3-uudised-pakirobot-pohjustas-onnetuse-ja-pogenes-sundmuskohalt/",
    "title": "TV3 uudised: avarii pakiroboti ja bussi vahel. Uurimine tõestas, et pakirobot ei põgenenud sündmuskohalt"
   },
-  "5df35f07-363d-5f02-becc-878d55b12acf": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "1804",
-   "link": "https://alignment.openai.com/misalignment-reports/searching-github-for-leaked-api-keys/",
-   "title": "Signing up for disposable emails and searching GitHub for leaked API keys"
+  "5a63ffeb-6497-5495-9f97-232d9c2a0c85": {
+   "date": "Wed, 11 Nov 2026 00:00:00 GMT",
+   "incident": "1837",
+   "link": "https://www.beck-aktuell.de/heute-im-recht/rechtsprechung/lg-aachen-8o26826-haftung-falsche-ki-aussage-google-stoererin-chefarzt-sexualstraftaeter-2026-10-08",
+   "title": "Google muss KI-Halluzination löschen"
   },
   "6245223d-436d-5514-ac3f-1c2b5e7f82ab": {
    "date": "Sat, 14 Nov 2026 00:00:00 GMT",
@@ -233,18 +251,6 @@
    "incident": "1823",
    "link": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/weill-cornell-patient-data-entered-into-ai-tools-without-authorization/",
    "title": "Weill Cornell patient data entered into AI tools without authorization"
-  },
-  "6b1d1653-80a0-5e13-a44f-0f9831630bff": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "1802",
-   "link": "https://alignment.openai.com/misalignment-reports/exposing-a-github-token-in-a-public-repository/",
-   "title": "Exposing a GitHub token in a public repository"
-  },
-  "6bdc2e94-8ddc-5dca-84ad-4e2406392001": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "",
-   "link": "https://blog.frontier.security/chinese-model-kimi-k3-breaks-uk-ai-safety-institute-benchmark-evaluations/",
-   "title": "Chinese Model Kimi K3 Breaks UK AI Safety Institute Benchmark Evaluations"
   },
   "6d8d9a72-8995-5d27-8480-5eaecdd96eb8": {
    "date": "Sun, 08 Nov 2026 00:00:00 GMT",
@@ -276,12 +282,6 @@
    "link": "https://www.24ur.com/novice/slovenija/zaradi-kraje-identitete-zdravnika-breclja-podali-kazensko-ovadbo.html",
    "title": "Zaradi kraje identitete zdravnika Breclja podali kazensko ovadbo"
   },
-  "75bc4182-778c-57b9-8974-a31027208e80": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "1799",
-   "link": "https://www.investing.com/news/stock-market-news/exclusiveopenai-works-to-understand-full-scope-of-agent-activity-as-user-data-leak-emerges-4918118",
-   "title": "Exclusive-OpenAI works to understand full scope of agent activity as user data leak emerges"
-  },
   "78dd4918-23e2-59d7-9a15-d88745cac632": {
    "date": "Sat, 14 Nov 2026 00:00:00 GMT",
    "incident": "1819",
@@ -293,12 +293,6 @@
    "incident": "1825",
    "link": "https://www.kanematsu.co.jp/en/press/release/20261109_release",
    "title": "Kanematsu, Zentan Bus, Sompo Japan, and KDDI Collaborate to Launch an Autonomous Bus Demonstration in Kinosaki Onsen, Toyooka City"
-  },
-  "80ab1a1e-b5d5-59d9-93be-108f74ba53f6": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "1801",
-   "link": "https://www.cronista.com/colombia/actualidad-co/corte-suprema-pone-freno-a-una-escandalosa-sentencia-hecha-con-inteligencia-artificial-nueva-regulacion-para-su-uso/",
-   "title": "Corte Suprema pone freno a una escandalosa sentencia hecha con inteligencia artificial: nueva regulación para su uso"
   },
   "80eefada-e326-5070-8c74-60d93d181c09": {
    "date": "Mon, 16 Nov 2026 00:00:00 GMT",
@@ -312,11 +306,23 @@
    "link": "https://lahora.gt/nacionales/sosegueda/2025/01/24/ligan-a-proceso-a-menores-acusados-de-crear-material-inapropiado-con-ia-en-centro-educativo-de-zona-17/",
    "title": "Ligan a proceso a menores acusados de crear material inapropiado con IA en centro educativo de zona 17"
   },
-  "84354135-98f1-5fc1-9562-0963b9ecc122": {
-   "date": "Sun, 08 Nov 2026 00:00:00 GMT",
-   "incident": "1814",
-   "link": "https://www.nytimes.com/2026/10/27/well/ai-chatgpt-medication-epilepsy-death.html",
-   "title": "She Trusted ChatGPT With Her Medication Decisions. It Cost Her Everything."
+  "848bfb5f-5d4f-5976-8f5d-e871c7d517e9": {
+   "date": "Sat, 21 Nov 2026 00:00:00 GMT",
+   "incident": "1836",
+   "link": "https://www.nextgov.com/digital-government/2026/11/classified-nsa-communications-network-down-people-familiar-say/417277/",
+   "title": "Classified NSA communications network down, people familiar say"
+  },
+  "885f97c2-968d-5035-a25d-b12638f1a444": {
+   "date": "Sat, 21 Nov 2026 00:00:00 GMT",
+   "incident": "1836",
+   "link": "https://abc17news.com/politics/national-politics/cnn-us-politics/2026/11/18/nsa-outage-disrupts-key-intel-hub-that-supports-middle-east-intelligence-and-operations-sources-say/",
+   "title": "NSA outage hits key facility for Middle East intel operations as agency resorts to workarounds, sources say"
+  },
+  "8a62c768-f55c-5b01-baea-67f5c96d457d": {
+   "date": "Sat, 21 Nov 2026 00:00:00 GMT",
+   "incident": "1836",
+   "link": "https://therecord.media/nsa-resumes-normal-operations-following-internal-disruptions",
+   "title": "NSA resumes normal operations following internal network disruptions"
   },
   "8c9862dd-15a0-5f6f-808c-88e931b14299": {
    "date": "Thu, 12 Nov 2026 00:00:00 GMT",
@@ -354,12 +360,6 @@
    "link": "https://focustaiwan.tw/society/202609020019",
    "title": "57 indicted over NT$900 million voice-cloning romance scam"
   },
-  "964fe787-090a-577b-8040-b3ce0d7fadec": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "1801",
-   "link": "https://www.ambitojuridico.com/sites/default/files/2026-02/Sent-STP-219732025%28150278%29-25.pdf",
-   "title": "STP21973-2025"
-  },
   "9666e9bf-796e-5c4e-a417-ae3e6e5e081d": {
    "date": "Thu, 12 Nov 2026 00:00:00 GMT",
    "incident": "1818",
@@ -384,29 +384,23 @@
    "link": "https://www.edweek.org/technology/lawsuit-blames-a-school-issued-chromebook-for-students-mental-health-crisis/2026/11",
    "title": "Lawsuit Blames a School-Issued Chromebook for Student’s Mental Health Crisis"
   },
-  "9d9b9f84-591e-521e-b3a0-36139d00ae62": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "1800",
-   "link": "https://www.kennethdegraff.com/swarm",
-   "title": "OpenAI's robots got into a closed link shortener, surfed the web with Google Docs and Translate, then called the FBI with a stranger's key"
-  },
-  "9f9801f7-ccee-5448-8050-58b4ff5d7529": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "",
-   "link": "https://alignment.openai.com/misalignment-reports/unauthorized-communication-via-temporary-file-hosting-services/",
-   "title": "Unauthorized communication via temporary file hosting services"
-  },
   "a636f815-d052-5fe6-a8e4-9b37add9e305": {
    "date": "Sun, 15 Nov 2026 00:00:00 GMT",
    "incident": "",
    "link": "https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38",
    "title": "United Airlines Is Banning AI Bots From Booking Flights"
   },
-  "b1dcf400-88f8-5706-a71e-32b6ca34851b": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "1801",
-   "link": "https://archivodigitalapi.cortesuprema.gov.co/share/2026/3/Relevantes/INFORME%20RELEVANTES%208.pdf",
-   "title": "Relevantes"
+  "a647be8b-dd88-56fa-a2d1-1b443c421721": {
+   "date": "Sat, 21 Nov 2026 00:00:00 GMT",
+   "incident": "1836",
+   "link": "https://www.wsj.com/politics/national-security/classified-u-s-intelligence-system-is-down-for-now-u-s-officials-say-aa09b6d1",
+   "title": "Classified U.S. Intelligence System Is Down, U.S. Officials Say"
+  },
+  "ac0931ac-aee9-5b18-b1d0-c2515c11aafc": {
+   "date": "Wed, 11 Nov 2026 00:00:00 GMT",
+   "incident": "1838",
+   "link": "https://www.heise.de/news/LG-Muenchen-I-Google-fuer-falsche-Aussagen-in-KI-Uebersichten-verurteilt-11326867.html",
+   "title": "LG München I: Google für falsche Aussagen in KI-Übersichten verurteilt"
   },
   "b3c10ffd-b51a-5cc3-ba59-ea4a16f7510b": {
    "date": "Sun, 15 Nov 2026 00:00:00 GMT",
@@ -425,12 +419,6 @@
    "incident": "1828",
    "link": "https://www.fathom.news/ai-agent-exploits-epoch-website/",
    "title": "Rogue AI Agents Posed As Epoch Staff And Tried To Hack Its Website"
-  },
-  "b8ce031c-e8cc-5b7f-8a98-dfbf20818be3": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "1798",
-   "link": "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft",
-   "title": "Three men charged in US with using AI to impersonate CEOs and steal millions"
   },
   "bb7849a4-ef99-5060-a848-5a0c9a20dac9": {
    "date": "Sat, 14 Nov 2026 00:00:00 GMT",
@@ -456,6 +444,12 @@
    "link": "https://www.straitstimes.com/singapore/near-accident-between-autonomous-vehicle-and-girl-in-punggol-being-reviewed-grab",
    "title": "AV on trial in Punggol nearly hits girl; Grab directed to narrow testing as LTA probes near miss"
   },
+  "bf464081-27ec-5f15-ae9c-d65344274374": {
+   "date": "Sat, 21 Nov 2026 00:00:00 GMT",
+   "incident": "1836",
+   "link": "https://keyt.com/politics/cnn-us-politics/2026/11/20/outage-at-nsas-highly-classified-communications-network-has-been-resolved/",
+   "title": "Outage at NSA’s highly classified communications network has been resolved, sources say"
+  },
   "bf66502e-e2d8-5e7f-ad5f-a78b2faf1722": {
    "date": "Mon, 16 Nov 2026 00:00:00 GMT",
    "incident": "1830",
@@ -480,6 +474,12 @@
    "link": "https://www.asiaone.com/singapore/grab-autonomous-shuttle-punggol-pedestrian-crossing",
    "title": "Grab reviewing incident after autonomous shuttle fails to give way to woman, child at Punggol crossing"
   },
+  "c99955bf-b30a-5081-ba71-57c31b5dd0c4": {
+   "date": "Sat, 21 Nov 2026 00:00:00 GMT",
+   "incident": "1836",
+   "link": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+   "title": "Exclusive: Highly classified US national security communications network goes down, sources say"
+  },
   "cafac700-5e47-5336-bfe4-93b0fbae3c6b": {
    "date": "Thu, 12 Nov 2026 00:00:00 GMT",
    "incident": "1818",
@@ -492,17 +492,17 @@
    "link": "https://www.acronis.com/en/blog/posts/acronis-researchers-uncover-ai-attack-mesh-targeting-emergency-services/",
    "title": "Acronis researchers uncover AI attack mesh targeting emergency services"
   },
+  "d41f3e7d-d550-5856-be22-88d6c7962d43": {
+   "date": "Sat, 21 Nov 2026 00:00:00 GMT",
+   "incident": "1835",
+   "link": "https://www.cbsnews.com/sanfrancisco/news/waymo-service-pause-bay-area-storm-flooding/",
+   "title": "Bay Area Waymo robotaxi service suspended amid storm, flooding"
+  },
   "d5571e48-6698-5e9a-8dfc-7f18b8c882d1": {
    "date": "Sun, 08 Nov 2026 00:00:00 GMT",
    "incident": "1811",
    "link": "https://timesofsandiego.com/crime/2026/06/07/a-flock-license-plate-reader-linked-a-san-diego-man-to-a-violent-crime-he-was-five-miles-away/",
    "title": "A Flock license plate reader linked a San Diego man to a violent crime. He was five miles away."
-  },
-  "d5773281-7e16-5cd7-81d7-406ad5a2587f": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "1798",
-   "link": "https://abcnews.com/US/trio-ai-impersonate-corporate-execs-defrauding-companies-130/story?id=137894421",
-   "title": "Trio used AI to impersonate corporate execs, defrauding companies of nearly $130 million: DOJ"
   },
   "d744cace-782e-5d6c-928c-a934fd88cd80": {
    "date": "Mon, 16 Nov 2026 00:00:00 GMT",
@@ -540,6 +540,12 @@
    "link": "https://elnacional.com.py/nacionales/joven-denuncia-fue-tratado-como-ladron-expulsado-biggie-san-lorenzo-n82260",
    "title": "Joven denuncia que fue tratado como ladrón y expulsado de un Biggie en San Lorenzo"
   },
+  "e877a1a8-a3d5-598f-ab74-dd78e339504a": {
+   "date": "Sat, 21 Nov 2026 00:00:00 GMT",
+   "incident": "1836",
+   "link": "https://www.nextgov.com/cybersecurity/2026/11/security-officials-tell-congress-tech-outages-are-not-malicious/417312/",
+   "title": "Security officials tell Congress tech outages are not malicious"
+  },
   "f0ceca04-ae8b-5fb2-9438-e67ffc4b4629": {
    "date": "Thu, 12 Nov 2026 00:00:00 GMT",
    "incident": "1817",
@@ -570,11 +576,11 @@
    "link": "https://agn.gt/ligan-a-proceso-a-exestudiantes-del-colegio-continental-americano-por-incidente-de-fotomontaje-a-imagenes-de-sus-companeras/",
    "title": "Ligan a proceso a exestudiantes del colegio Continental Americano por incidente de fotomontaje con imágenes de sus compañeras"
   },
-  "f9af719b-7e4b-56f1-85f9-fb34819b16ea": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "1801",
-   "link": "https://www.eltiempo.com/justicia/cortes/las-claves-del-reproche-de-la-corte-suprema-por-borrador-de-condena-hecho-con-ia-antes-de-concluir-el-juicio-3531379",
-   "title": "Las claves del reproche de la Corte Suprema por un borrador de condena hecho con IA antes de concluir el juicio"
+  "f9bf43d1-5dc7-5402-a9fa-3c859db4055b": {
+   "date": "Sat, 21 Nov 2026 00:00:00 GMT",
+   "incident": "1836",
+   "link": "https://www.reuters.com/business/aerospace-defense/trump-shrugs-off-spate-us-outages-says-things-like-that-happen-2026-11-17/",
+   "title": "Tech outage wave reaches US government; Trump says all is 'fine'"
   },
   "fc812164-952a-597e-9da5-d76afe971b9c": {
    "date": "Sat, 14 Nov 2026 00:00:00 GMT",
@@ -588,12 +594,6 @@
    "link": "https://caselaw.nationalarchives.gov.uk/ewhc/admin/2025/1383",
    "title": "Frederick Ayinde, R (on the application of) v The London Borough of Haringey"
   },
-  "fefe0e2f-53af-5542-aa22-8a9cae9269bf": {
-   "date": "Sat, 07 Nov 2026 00:00:00 GMT",
-   "incident": "1803",
-   "link": "https://alignment.openai.com/misalignment-reports/reaching-an-internal-eda-host-through-a-reference-tool/",
-   "title": "Reaching an internal EDA host through a reference tool"
-  },
   "fff4a64c-e243-50ec-af67-6ec43f324776": {
    "date": "Wed, 18 Nov 2026 00:00:00 GMT",
    "incident": "1833",
@@ -604,7 +604,7 @@
  "Epoch AI data": {
   "https://epoch.ai/benchmarks": {
    "title": "Capabilities & benchmarking",
-   "updated": "Nov. 21, 2026"
+   "updated": "Nov. 22, 2026"
   },
   "https://epoch.ai/data/ai-chip-components": {
    "title": "AI chip components",
@@ -652,11 +652,11 @@
   },
   "https://epoch.ai/data/cve": {
    "title": "Cyber vulnerabilities",
-   "updated": "Nov. 21, 2026"
+   "updated": "Nov. 22, 2026"
   },
   "https://epoch.ai/data/frontier-lab-hiring": {
    "title": "Frontier Lab Hiring",
-   "updated": "Nov. 21, 2026"
+   "updated": "Nov. 22, 2026"
   },
   "https://epoch.ai/data/gpu-clusters": {
    "title": "GPU clusters",
