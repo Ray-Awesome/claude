@@ -604,7 +604,7 @@
  "Epoch AI data": {
   "https://epoch.ai/benchmarks": {
    "title": "Capabilities & benchmarking",
-   "updated": "Nov. 22, 2026"
+   "updated": "Nov. 23, 2026"
   },
   "https://epoch.ai/data/ai-chip-components": {
    "title": "AI chip components",
@@ -652,11 +652,11 @@
   },
   "https://epoch.ai/data/cve": {
    "title": "Cyber vulnerabilities",
-   "updated": "Nov. 22, 2026"
+   "updated": "Nov. 23, 2026"
   },
   "https://epoch.ai/data/frontier-lab-hiring": {
    "title": "Frontier Lab Hiring",
-   "updated": "Nov. 22, 2026"
+   "updated": "Nov. 23, 2026"
   },
   "https://epoch.ai/data/gpu-clusters": {
    "title": "GPU clusters",
@@ -699,14 +699,14 @@
   "https://oecd.ai/en/wonk/how-quantum-technologies-could-open-new-frontiers-for-ai": {
    "title": "how quantum technologies could open new frontiers for ai"
   },
+  "https://oecd.ai/en/wonk/inside-ai-risk-management-early-insights-from-the-haip-2-0-reporting-framework": {
+   "title": "inside ai risk management early insights from the haip 2 0 reporting framework"
+  },
   "https://oecd.ai/en/wonk/investors-matter-for-the-future-of-trustworthy-ai-are-they-ready": {
    "title": "investors matter for the future of trustworthy ai are they ready"
   },
   "https://oecd.ai/en/wonk/putting-agentic-ai-systems-to-work-what-practitioners-reveal-about-deployment-and-governance": {
    "title": "putting agentic ai systems to work what practitioners reveal about deployment and governance"
-  },
-  "https://oecd.ai/en/wonk/the-oecd-ai-policy-toolkit-better-ai-policies-for-better-lives": {
-   "title": "the oecd ai policy toolkit better ai policies for better lives"
   }
  },
  "Stanford AI Index": {
