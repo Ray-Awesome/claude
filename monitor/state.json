@@ -1,11 +1,5 @@
 {
  "AI Incident Database": {
-  "003a25da-bf25-551b-8d27-5d9c3ed4cf2f": {
-   "date": "Sun, 08 Nov 2026 00:00:00 GMT",
-   "incident": "1812",
-   "link": "https://edtech.law/wp-content/uploads/2026/11/2026.11.04-Dkt-001-1-Emma-v-Google-Complaint_2.pdf",
-   "title": "Emma Doe v. Google LLC and Alphabet Inc. (Complaint for Damages and Injunctive Relief)"
-  },
   "00adcbe1-c82d-568f-9b0e-79e8f00cb206": {
    "date": "Sun, 15 Nov 2026 00:00:00 GMT",
    "incident": "1828",
@@ -35,12 +29,6 @@
    "incident": "1836",
    "link": "https://abcnews.com/Technology/wireStory/classified-communications-network-national-security-agency-defense-official-138223663",
    "title": "Classified communications network at the National Security Agency goes down, defense official says"
-  },
-  "0c5ea684-6813-5d31-900b-302eaa854003": {
-   "date": "Sun, 08 Nov 2026 00:00:00 GMT",
-   "incident": "1813",
-   "link": "https://caselaw.nationalarchives.gov.uk/ewhc/admin/2025/1040",
-   "title": "Frederick Ayinde, R (on the application of) v The London Borough of Haringey"
   },
   "1050efd0-8684-538f-9194-3fa6ceb64039": {
    "date": "Thu, 12 Nov 2026 00:00:00 GMT",
@@ -144,6 +132,18 @@
    "link": "https://www.tomsher.com/godaddy-ai-cyberattack-2026",
    "title": "GoDaddy AI cyberattack 2026, what was exposed and what website owners should do now"
   },
+  "2d2357b7-548f-5e9c-9ea0-3c3f4bd8e196": {
+   "date": "Wed, 11 Nov 2026 00:00:00 GMT",
+   "incident": "1841",
+   "link": "https://www.heise.de/news/LG-Hamburg-xAI-darf-Unwahrheiten-nicht-als-Fakten-verbreiten-10750390.html",
+   "title": "LG Hamburg: xAI darf Unwahrheiten nicht als Fakten verbreiten"
+  },
+  "328a0a72-103c-53af-a58e-705fac88635f": {
+   "date": "Mon, 23 Nov 2026 00:00:00 GMT",
+   "incident": "1846",
+   "link": "https://www.csoonline.com/article/4247336/claude-codes-dont-ask-again-button-has-a-secrets-spilling-problem.html",
+   "title": "Claude Code’s ‘don’t ask again’ button has a secrets-spilling problem"
+  },
   "3c0a82a9-84ed-51cf-9085-4c9eebb5d67a": {
    "date": "Sat, 21 Nov 2026 00:00:00 GMT",
    "incident": "1835",
@@ -173,6 +173,12 @@
    "incident": "1819",
    "link": "https://www.zdravniskazbornica.si/informacije-publikacije-in-analize/obvestila/2026/05/18/zdravni%C5%A1ka-zbornica-slovenije-zaradi-zlorabe-osebnih-podatkov-dr.-erika-breclja-podala-kazensko-ovadbo",
    "title": "Zdravniška zbornica Slovenije zaradi zlorabe osebnih podatkov dr. Erika Breclja podala kazensko ovadbo"
+  },
+  "42f853c1-fd7d-5dd6-b703-600d520799ed": {
+   "date": "Wed, 11 Nov 2026 00:00:00 GMT",
+   "incident": "1840",
+   "link": "https://www.beck-aktuell.de/rechtsbranche/anwaltschaft/ag-koeln-312f13025-ki-schriftsatz-anwalt-halluzinationen-berufsrecht-2025-07-08",
+   "title": "KI-Schriftsatz: Anwalt blamiert sich vor Gericht"
   },
   "44e598df-6e4b-5fcf-9fe7-190b2b6671d4": {
    "date": "Sat, 14 Nov 2026 00:00:00 GMT",
@@ -252,12 +258,6 @@
    "link": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/weill-cornell-patient-data-entered-into-ai-tools-without-authorization/",
    "title": "Weill Cornell patient data entered into AI tools without authorization"
   },
-  "6d8d9a72-8995-5d27-8480-5eaecdd96eb8": {
-   "date": "Sun, 08 Nov 2026 00:00:00 GMT",
-   "incident": "",
-   "link": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
-   "title": "Schools can keep search while skipping Gemini, but AI search is non-negotiable"
-  },
   "6e1cdfe9-ba43-5a2b-ad33-d5dad08e949f": {
    "date": "Sat, 14 Nov 2026 00:00:00 GMT",
    "incident": "1820",
@@ -336,6 +336,12 @@
    "link": "https://www.hoy.com.py/nacionales/2025/03/05/fue-confundido-con-un-ladron-por-error-en-sistema-de-reconocimiento-facial",
    "title": "Fue confundido con un ladrón por error en sistema de reconocimiento facial"
   },
+  "8dc75d36-7441-5136-aeb7-a1d568c6fe7e": {
+   "date": "Mon, 23 Nov 2026 00:00:00 GMT",
+   "incident": "1846",
+   "link": "https://blog.gitguardian.com/claude-code-settings-local-json-secrets-docker-hub/",
+   "title": "Claude Code settings.local.json Secrets: 17 months of exposure on GitHub, & Docker Hub"
+  },
   "8e4d6fd7-c5fa-5ca6-94ff-2bfdac1ee574": {
    "date": "Wed, 18 Nov 2026 00:00:00 GMT",
    "incident": "1834",
@@ -377,12 +383,6 @@
    "incident": "1823",
    "link": "https://radiologybusiness.com/topics/artificial-intelligence/patient-info-improperly-used-radiology-ai-research-academic-institution-says",
    "title": "Patient info improperly used in radiology AI research, academic institution says"
-  },
-  "9d084e5d-a336-5950-8fd8-225e08234dd1": {
-   "date": "Sun, 08 Nov 2026 00:00:00 GMT",
-   "incident": "1812",
-   "link": "https://www.edweek.org/technology/lawsuit-blames-a-school-issued-chromebook-for-students-mental-health-crisis/2026/11",
-   "title": "Lawsuit Blames a School-Issued Chromebook for Student’s Mental Health Crisis"
   },
   "a636f815-d052-5fe6-a8e4-9b37add9e305": {
    "date": "Sun, 15 Nov 2026 00:00:00 GMT",
@@ -462,12 +462,6 @@
    "link": "https://weill.cornell.edu/data-security-incident-nov-2026",
    "title": "Notice to Our Patients of Data Security Incident"
   },
-  "c785983a-717c-532d-ae7d-bcbd716afeb7": {
-   "date": "Sun, 08 Nov 2026 00:00:00 GMT",
-   "incident": "1812",
-   "link": "https://www.reuters.com/business/google-faces-claims-student-used-ai-chat-us-school-laptop-plan-suicide-attempt-2026-11-05/",
-   "title": "Google faces claims student used AI chat on US school laptop to plan suicide attempt"
-  },
   "c81e0652-7f96-5d02-b60a-1a18b2d5b98c": {
    "date": "Mon, 16 Nov 2026 00:00:00 GMT",
    "incident": "1832",
@@ -486,6 +480,12 @@
    "link": "https://clarksonlawfirm.com/chatgpt-delusion-lawsuit/",
    "title": "Major Lawsuit Filed Against OpenAI for Dangerous Falsehoods and Design That Left Man Unhoused, Trapped in False Digital Reality"
   },
+  "ce9f454a-fa53-5f0d-b650-33e35c11c137": {
+   "date": "Wed, 11 Nov 2026 00:00:00 GMT",
+   "incident": "",
+   "link": "https://www.beck-aktuell.de/heute-im-recht/rechtsprechung/urteil-olg-hamm-I4uki325-dr-rick-dr-nick-chatbot-ki-2026-05-12",
+   "title": "Falsche Facharzttitel: \"Dr. Rick\" und \"Dr. Nick\" haften für ihren Chatbot"
+  },
   "d1d402c6-23a7-584f-8272-58c9f7551d9b": {
    "date": "Thu, 12 Nov 2026 00:00:00 GMT",
    "incident": "1815",
@@ -498,11 +498,11 @@
    "link": "https://www.cbsnews.com/sanfrancisco/news/waymo-service-pause-bay-area-storm-flooding/",
    "title": "Bay Area Waymo robotaxi service suspended amid storm, flooding"
   },
-  "d5571e48-6698-5e9a-8dfc-7f18b8c882d1": {
-   "date": "Sun, 08 Nov 2026 00:00:00 GMT",
-   "incident": "1811",
-   "link": "https://timesofsandiego.com/crime/2026/06/07/a-flock-license-plate-reader-linked-a-san-diego-man-to-a-violent-crime-he-was-five-miles-away/",
-   "title": "A Flock license plate reader linked a San Diego man to a violent crime. He was five miles away."
+  "d4671c9c-fd95-5c03-9b90-d4915d634a9a": {
+   "date": "Mon, 23 Nov 2026 00:00:00 GMT",
+   "incident": "1846",
+   "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+   "title": "Coding Agents Copy Your Secrets to a Hidden File. Thousands Are on GitHub"
   },
   "d744cace-782e-5d6c-928c-a934fd88cd80": {
    "date": "Mon, 16 Nov 2026 00:00:00 GMT",
@@ -570,6 +570,12 @@
    "link": "https://www.portalantofagasta.cl/camion-autonomo-se-desbarranca-en-minera-centinela-tras-perder-comunicacion-durante-operacion-en-el-rajo/?utm_source=chatgpt.com",
    "title": "Camión autónomo se desbarranca en Minera Centinela tras perder comunicación durante operación en el rajo"
   },
+  "f384b56c-e27e-5c47-8ff5-3e63d7099b47": {
+   "date": "Wed, 11 Nov 2026 00:00:00 GMT",
+   "incident": "1839",
+   "link": "https://www.heise.de/news/Rechtsverkehr-Berliner-Kammergericht-ruegt-Anwaelte-wegen-KI-Halluzinationen-11286549.html",
+   "title": "Rechtsverkehr: Berliner Kammergericht rügt Anwälte wegen KI-Halluzinationen"
+  },
   "f6f3beec-19b7-59ca-b727-e94ad5b66b11": {
    "date": "Sat, 14 Nov 2026 00:00:00 GMT",
    "incident": "1821",
@@ -587,12 +593,6 @@
    "incident": "1825",
    "link": "https://newsdig.tbs.co.jp/articles/-/3073016",
    "title": "一般客乗せた運行初日に…“自動運転バス”が石垣に接触　けが人なし　市は安全確認されるまでバス「運休」決定　兵庫・豊岡市"
-  },
-  "fc94fbfb-8e5e-5b0a-8314-3b10b2fe4fab": {
-   "date": "Sun, 08 Nov 2026 00:00:00 GMT",
-   "incident": "1813",
-   "link": "https://caselaw.nationalarchives.gov.uk/ewhc/admin/2025/1383",
-   "title": "Frederick Ayinde, R (on the application of) v The London Borough of Haringey"
   },
   "fff4a64c-e243-50ec-af67-6ec43f324776": {
    "date": "Wed, 18 Nov 2026 00:00:00 GMT",
