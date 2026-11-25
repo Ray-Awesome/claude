@@ -24,10 +24,23 @@ def fetch(url):
         return r.read().decode("utf-8", "replace")
 
 
+MONTHS = ["Jan.", "Feb.", "Mar.", "Apr.", "May", "Jun.", "Jul.", "Aug.", "Sep.", "Oct.", "Nov.", "Dec."]
+
+
 def epoch():
-    t = fetch("https://epoch.ai/data")
-    pat = re.compile(r'Updated <!-- -->([^<]+)</span>.{0,600}?<a href="([^"]+)"[^>]*></a><span[^>]*>([^<]+)</span>', re.S)
-    return {"https://epoch.ai" + h: {"title": html.unescape(n), "updated": d.strip()} for d, h, n in pat.findall(t)}
+    # The page embeds its dataset list as JSON props: one object per data explorer
+    # (page url) and one per download (has "type"). Both carry id, title and date.
+    t = html.unescape(fetch("https://epoch.ai/data"))
+    pat = re.compile(r'\{"id":\[0,"([^"]+)"\],"title":\[0,"([^"]+)"\],(.*?)"date":\[3,"(\d{4})-(\d\d)-(\d\d)')
+    pages, items = {}, {}
+    for i, title, body, y, m, d in pat.findall(t):
+        url = re.search(r'"url":\[0,"([^"]+)"\]', body)
+        if '"type":' not in body:
+            if url:
+                pages[i] = url.group(1)
+            continue
+        items[i] = {"title": title, "updated": f"{MONTHS[int(m) - 1]} {int(d)}, {y}"}
+    return {"https://epoch.ai" + pages.get(i, f"/data/{i}"): v for i, v in items.items()}
 
 
 def aiid():
